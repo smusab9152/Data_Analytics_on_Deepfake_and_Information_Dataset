@@ -1,0 +1,1101 @@
+ID,Date,Time,Content Source,Platform,Content Type,Topic,Spread Rate,Engagement Likes,Engagement Shares,Engagement Comments,Region,Detection Method,Impact Level,Action Taken,Engagement Metric,Engagement_Metric_Range,Engagement_Likes_Range,Engagement_Shares_Range,Engagement_Comments_Range,Quarter
+291,2024-11-13,06:32:24,Blog,Telegram,Text,Politics,Medium,775.0,4212.0,995.0,Africa,AI Detection,Moderate,Flagged as False,5982.0,2.87,0.67,8.42,3.3,Q4
+1076,2024-11-13,06:33:20,Messaging App,Facebook,Text,Climate,Medium,1567.0,4037.0,526.0,North America,User Report,High,Flagged as False,6130.0,2.96,1.47,8.07,1.73,Q4
+319,2024-11-13,06:32:24,News Website,Reddit,Video,Health,Low,3858.0,3923.0,284.0,Oceania,User Report,Moderate,Content Removed,8065.0,4.19,3.79,7.84,0.92,Q4
+744,2024-11-13,06:33:20,News Website,Instagram,Text,Health,Low,9888.0,3489.0,921.0,South America,Manual Verification,Moderate,No Action,14298.0,8.14,9.9,6.97,3.06,Q4
+382,2024-11-13,06:32:24,News Website,WhatsApp,Image,Technology,Low,6706.0,2980.0,1853.0,Africa,Manual Verification,Low,Limited Visibility,11539.0,6.39,6.68,5.95,6.18,Q4
+690,2024-11-13,06:33:20,News Website,Facebook,Image,Finance,High,7386.0,904.0,2003.0,South America,Manual Verification,High,Flagged as False,10293.0,5.6,7.37,1.79,6.68,Q4
+862,2024-11-12,06:33:20,News Website,Twitter,Text,Finance,Medium,2490.0,1049.0,878.0,South America,User Report,Low,Limited Visibility,4417.0,1.88,2.41,2.08,2.91,Q4
+40,2024-11-12,06:30:50,Social Media,Twitter,Image,Climate,Medium,7847.0,787.0,2236.0,Asia,AI Detection,Moderate,Content Removed,10870.0,5.97,7.83,1.56,7.46,Q4
+355,2024-11-12,06:32:24,Forum,YouTube,Text,Politics,Low,4436.0,192.0,452.0,Oceania,AI Detection,Moderate,No Action,5080.0,2.3,4.38,0.36,1.48,Q4
+561,2024-11-11,06:32:24,News Website,Telegram,Text,Health,Low,2045.0,3512.0,1474.0,South America,AI Detection,Moderate,No Action,7031.0,3.53,1.95,7.02,4.91,Q4
+132,2024-11-11,06:32:24,Messaging App,WhatsApp,Text,Politics,Medium,2506.0,88.0,1557.0,Asia,User Report,Moderate,No Action,4151.0,1.71,2.42,0.15,5.19,Q4
+526,2024-11-10,06:32:24,Blog,Instagram,Image,Celebrity News,Low,5845.0,3873.0,480.0,South America,Manual Verification,Moderate,Limited Visibility,10198.0,5.54,5.8,7.74,1.58,Q4
+414,2024-11-10,06:32:24,Blog,Reddit,Video,Finance,Low,7844.0,2650.0,2114.0,Africa,Manual Verification,Low,Content Removed,12608.0,7.07,7.83,5.29,7.05,Q4
+1042,2024-11-10,06:33:20,News Website,Reddit,Video,Technology,Low,1745.0,1839.0,2127.0,Oceania,User Report,High,No Action,5711.0,2.7,1.65,3.66,7.1,Q4
+872,2024-11-10,06:33:20,News Website,Telegram,Video,Finance,Medium,5142.0,610.0,1840.0,Europe,AI Detection,Low,No Action,7592.0,3.89,5.09,1.2,6.13,Q4
+1032,2024-11-10,06:33:20,Social Media,Reddit,Video,Climate,High,2259.0,16.0,2843.0,Africa,Manual Verification,Moderate,Flagged as False,5118.0,2.32,2.17,0.01,9.49,Q4
+829,2024-11-09,06:33:20,Social Media,YouTube,Text,Celebrity News,Low,1912.0,2956.0,1102.0,South America,User Report,Low,No Action,5970.0,2.86,1.82,5.9,3.66,Q4
+1035,2024-11-08,06:33:20,Forum,Reddit,Image,Finance,High,869.0,3460.0,1497.0,South America,User Report,Moderate,Limited Visibility,5826.0,2.77,0.76,6.91,4.98,Q4
+31,2024-11-08,06:30:50,Forum,WhatsApp,Video,Technology,Low,8893.0,3178.0,1333.0,Asia,User Report,Moderate,Limited Visibility,13404.0,7.57,8.89,6.35,4.44,Q4
+758,2024-11-08,06:33:20,News Website,YouTube,Video,Technology,Low,8542.0,2413.0,346.0,Africa,User Report,Low,Flagged as False,11301.0,6.24,8.54,4.81,1.13,Q4
+139,2024-11-08,06:32:24,News Website,Twitter,Text,Celebrity News,High,5126.0,764.0,439.0,South America,AI Detection,Low,Flagged as False,6329.0,3.09,5.08,1.51,1.44,Q4
+686,2024-11-07,06:33:20,News Website,Instagram,Video,Technology,Medium,6914.0,3110.0,2607.0,South America,Manual Verification,Low,Content Removed,12631.0,7.08,6.89,6.21,8.7,Q4
+973,2024-11-07,06:33:20,Messaging App,WhatsApp,Text,Celebrity News,Low,7089.0,3084.0,633.0,Asia,User Report,High,Content Removed,10806.0,5.93,7.06,6.16,2.09,Q4
+386,2024-11-07,06:32:24,Blog,Twitter,Image,Finance,Medium,1007.0,2912.0,116.0,Asia,Manual Verification,Moderate,Limited Visibility,4035.0,1.64,0.9,5.81,0.36,Q4
+921,2024-11-07,06:33:20,Messaging App,WhatsApp,Image,Technology,High,3448.0,516.0,1926.0,South America,User Report,High,Content Removed,5890.0,2.81,3.38,1.01,6.42,Q4
+441,2024-11-06,06:32:24,Forum,Reddit,Video,Technology,Medium,807.0,505.0,1122.0,Oceania,User Report,Low,Flagged as False,2434.0,0.62,0.7,0.99,3.73,Q4
+537,2024-11-05,06:32:24,News Website,Twitter,Video,Health,Low,9042.0,4442.0,1213.0,North America,AI Detection,Moderate,Limited Visibility,14697.0,8.39,9.04,8.88,4.03,Q4
+697,2024-11-05,06:33:20,Forum,Twitter,Image,Politics,Low,8079.0,3853.0,33.0,North America,User Report,Low,Content Removed,11965.0,6.66,8.07,7.7,0.08,Q4
+616,2024-11-05,06:33:20,Messaging App,Twitter,Video,Health,Medium,3042.0,2464.0,2688.0,Oceania,Manual Verification,Moderate,Limited Visibility,8194.0,4.27,2.96,4.92,8.97,Q4
+677,2024-11-05,06:33:20,Social Media,Telegram,Image,Politics,Low,8105.0,2239.0,2003.0,Europe,AI Detection,High,No Action,12347.0,6.9,8.09,4.47,6.68,Q4
+920,2024-11-05,06:33:20,Social Media,Facebook,Video,Politics,Medium,7051.0,515.0,2280.0,Africa,Manual Verification,Moderate,Content Removed,9846.0,5.32,7.03,1.01,7.61,Q4
+865,2024-11-04,06:33:20,Social Media,Instagram,Video,Celebrity News,Medium,116.0,4499.0,2262.0,Europe,AI Detection,Moderate,Content Removed,6877.0,3.44,0.0,9.0,7.55,Q4
+373,2024-11-04,06:32:24,Blog,Telegram,Text,Health,Low,2942.0,3912.0,2994.0,Africa,User Report,Moderate,Content Removed,9848.0,5.32,2.86,7.82,10.0,Q4
+181,2024-11-04,06:32:24,Forum,YouTube,Video,Technology,Medium,5397.0,789.0,1336.0,Europe,User Report,Low,No Action,7522.0,3.85,5.35,1.56,4.45,Q4
+648,2024-11-03,06:33:20,News Website,Reddit,Image,Celebrity News,Low,1655.0,3374.0,446.0,South America,AI Detection,Low,No Action,5475.0,2.55,1.56,6.74,1.46,Q4
+809,2024-11-03,06:33:20,Social Media,Reddit,Video,Finance,High,1808.0,2220.0,96.0,Asia,AI Detection,Moderate,Limited Visibility,4124.0,1.69,1.71,4.43,0.29,Q4
+212,2024-11-03,06:32:24,Social Media,Instagram,Text,Finance,High,4556.0,2104.0,1856.0,Europe,Manual Verification,Moderate,Content Removed,8516.0,4.47,4.5,4.2,6.19,Q4
+733,2024-11-02,06:33:20,Blog,Telegram,Video,Finance,Medium,8879.0,4445.0,1699.0,Africa,User Report,Low,No Action,15023.0,8.6,8.88,8.89,5.66,Q4
+15,2024-11-02,06:30:50,Blog,YouTube,Video,Health,Medium,8681.0,2547.0,2932.0,Africa,AI Detection,High,No Action,14160.0,8.05,8.68,5.08,9.79,Q4
+227,2024-11-02,06:32:24,Blog,Reddit,Image,Climate,Low,1344.0,2270.0,2697.0,North America,AI Detection,Moderate,Content Removed,6311.0,3.08,1.24,4.53,9.01,Q4
+290,2024-11-02,06:32:24,Blog,Facebook,Text,Health,Low,2644.0,1069.0,1346.0,Europe,AI Detection,Low,Limited Visibility,5059.0,2.29,2.56,2.12,4.48,Q4
+908,2024-11-01,06:33:20,News Website,WhatsApp,Video,Health,Medium,1848.0,4758.0,1225.0,Europe,AI Detection,Moderate,Content Removed,7831.0,4.04,1.75,9.51,4.07,Q4
+1086,2024-11-01,06:33:20,Social Media,Twitter,Video,Climate,Medium,5969.0,3688.0,155.0,North America,User Report,High,Content Removed,9812.0,5.3,5.93,7.37,0.49,Q4
+637,2024-11-01,06:33:20,Social Media,WhatsApp,Video,Politics,Medium,4802.0,3564.0,183.0,Europe,AI Detection,Low,Flagged as False,8549.0,4.5,4.75,7.12,0.58,Q4
+907,2024-11-01,06:33:20,News Website,Telegram,Image,Celebrity News,Medium,5894.0,2810.0,958.0,Europe,Manual Verification,High,No Action,9662.0,5.2,5.85,5.61,3.18,Q4
+106,2024-11-01,06:32:24,Blog,Reddit,Text,Climate,Medium,1630.0,1628.0,1857.0,Oceania,User Report,Low,Flagged as False,5115.0,2.32,1.53,3.24,6.19,Q4
+36,2024-10-31,06:30:50,Messaging App,Reddit,Video,Politics,Medium,6299.0,4243.0,1483.0,Oceania,Manual Verification,High,Flagged as False,12025.0,6.7,6.26,8.48,4.94,Q4
+666,2024-10-30,06:33:20,Social Media,Facebook,Text,Technology,Medium,5091.0,1806.0,2648.0,Oceania,User Report,Low,Limited Visibility,9545.0,5.13,5.04,3.6,8.84,Q4
+294,2024-10-30,06:32:24,Social Media,WhatsApp,Image,Celebrity News,High,7490.0,1312.0,1803.0,Asia,Manual Verification,Low,Limited Visibility,10605.0,5.8,7.47,2.61,6.01,Q4
+146,2024-10-30,06:32:24,News Website,WhatsApp,Text,Celebrity News,Low,9155.0,766.0,447.0,Oceania,User Report,Moderate,Flagged as False,10368.0,5.65,9.16,1.51,1.47,Q4
+870,2024-10-29,06:33:20,Forum,Reddit,Text,Politics,High,1830.0,4416.0,2985.0,North America,AI Detection,Low,Flagged as False,9231.0,4.93,1.74,8.83,9.97,Q4
+945,2024-10-29,06:33:20,Forum,YouTube,Video,Politics,High,8074.0,2186.0,269.0,South America,AI Detection,High,Limited Visibility,10529.0,5.75,8.06,4.36,0.87,Q4
+721,2024-10-28,06:33:20,Forum,Instagram,Video,Technology,Medium,9016.0,758.0,2276.0,Oceania,User Report,High,No Action,12050.0,6.71,9.02,1.5,7.59,Q4
+375,2024-10-27,06:32:24,Social Media,WhatsApp,Video,Politics,Low,722.0,3763.0,2250.0,Asia,User Report,High,Content Removed,6735.0,3.35,0.61,7.52,7.51,Q4
+895,2024-10-26,06:33:20,News Website,YouTube,Video,Celebrity News,Low,5389.0,2730.0,1584.0,Oceania,User Report,Low,No Action,9703.0,5.23,5.34,5.45,5.28,Q4
+164,2024-10-26,06:32:24,Messaging App,Facebook,Video,Finance,High,3475.0,2445.0,2648.0,Oceania,AI Detection,High,Limited Visibility,8568.0,4.51,3.4,4.88,8.84,Q4
+949,2024-10-24,06:33:20,Messaging App,Instagram,Text,Politics,Low,1589.0,3675.0,1687.0,South America,User Report,High,Limited Visibility,6951.0,3.48,1.49,7.34,5.62,Q4
+601,2024-10-24,06:33:20,Social Media,YouTube,Video,Politics,High,310.0,2650.0,2066.0,Asia,Manual Verification,Low,Limited Visibility,5026.0,2.26,0.2,5.29,6.89,Q4
+302,2024-10-24,06:32:24,Messaging App,WhatsApp,Text,Climate,Medium,8066.0,27.0,1526.0,Africa,AI Detection,Moderate,Flagged as False,9619.0,5.17,8.05,0.03,5.08,Q4
+827,2024-10-23,06:33:20,Messaging App,YouTube,Video,Health,Medium,9608.0,3606.0,965.0,Asia,User Report,Low,Flagged as False,14179.0,8.06,9.62,7.21,3.2,Q4
+784,2024-10-23,06:33:20,Forum,WhatsApp,Text,Politics,Medium,8318.0,3357.0,1502.0,Oceania,Manual Verification,Moderate,Limited Visibility,13177.0,7.43,8.31,6.71,5.0,Q4
+363,2024-10-23,06:32:24,Blog,Telegram,Image,Climate,Low,6551.0,976.0,292.0,Asia,Manual Verification,Moderate,Limited Visibility,7819.0,4.03,6.52,1.93,0.95,Q4
+675,2024-10-22,06:33:20,Messaging App,Telegram,Text,Finance,Medium,3710.0,3732.0,1080.0,South America,AI Detection,Moderate,Limited Visibility,8522.0,4.48,3.64,7.46,3.59,Q4
+1098,2024-10-22,06:33:20,Forum,Facebook,Image,Climate,Low,9028.0,2603.0,1997.0,North America,Manual Verification,Moderate,No Action,13628.0,7.71,9.03,5.2,6.66,Q4
+722,2024-10-21,06:33:20,Social Media,Instagram,Text,Technology,Low,5505.0,3041.0,461.0,North America,AI Detection,High,No Action,9007.0,4.79,5.46,6.07,1.51,Q4
+777,2024-10-21,06:33:20,Messaging App,Reddit,Text,Climate,Medium,9473.0,2380.0,688.0,North America,AI Detection,Moderate,Flagged as False,12541.0,7.02,9.48,4.75,2.27,Q4
+99,2024-10-21,06:30:50,Messaging App,YouTube,Video,Celebrity News,Low,5866.0,1296.0,621.0,Europe,Manual Verification,Moderate,Content Removed,7783.0,4.01,5.83,2.58,2.05,Q4
+904,2024-10-20,06:33:20,Social Media,Telegram,Image,Celebrity News,High,6461.0,3455.0,2196.0,Asia,Manual Verification,High,Flagged as False,12112.0,6.75,6.43,6.9,7.33,Q4
+150,2024-10-20,06:32:24,News Website,YouTube,Video,Finance,Medium,2219.0,2589.0,2189.0,Europe,AI Detection,Low,Flagged as False,6997.0,3.51,2.13,5.17,7.3,Q4
+245,2024-10-20,06:32:24,Forum,Instagram,Image,Technology,Low,7994.0,2353.0,1612.0,Oceania,AI Detection,Moderate,No Action,11959.0,6.66,7.98,4.69,5.37,Q4
+165,2024-10-20,06:32:24,Social Media,Twitter,Image,Climate,Medium,9761.0,1949.0,744.0,South America,AI Detection,Moderate,Flagged as False,12454.0,6.97,9.77,3.88,2.46,Q4
+849,2024-10-20,06:33:20,Messaging App,Telegram,Text,Finance,High,6113.0,1280.0,1278.0,Europe,Manual Verification,Moderate,Content Removed,8671.0,4.57,6.08,2.54,4.25,Q4
+157,2024-10-20,06:32:24,News Website,Telegram,Text,Finance,High,2589.0,1024.0,970.0,Asia,Manual Verification,High,Limited Visibility,4583.0,1.98,2.51,2.03,3.22,Q4
+871,2024-10-20,06:33:20,Social Media,Telegram,Image,Climate,High,7881.0,758.0,2282.0,Africa,User Report,Moderate,Content Removed,10921.0,6.0,7.87,1.5,7.61,Q4
+950,2024-10-19,06:33:20,Messaging App,YouTube,Video,Climate,Low,3074.0,3229.0,696.0,Oceania,Manual Verification,Low,No Action,6999.0,3.51,3.0,6.45,2.3,Q4
+805,2024-10-19,06:33:20,Forum,Facebook,Image,Technology,Low,9288.0,2124.0,770.0,Oceania,Manual Verification,Low,Content Removed,12182.0,6.8,9.29,4.24,2.55,Q4
+797,2024-10-19,06:33:20,Messaging App,Telegram,Video,Finance,Low,9446.0,1502.0,1563.0,North America,Manual Verification,Low,Limited Visibility,12511.0,7.0,9.45,2.99,5.21,Q4
+102,2024-10-19,06:32:24,Forum,Twitter,Text,Celebrity News,Medium,4537.0,1257.0,2410.0,South America,Manual Verification,Low,Content Removed,8204.0,4.28,4.48,2.5,8.04,Q4
+884,2024-10-19,06:33:20,Messaging App,Reddit,Text,Technology,High,7737.0,762.0,1071.0,Asia,AI Detection,Low,Flagged as False,9570.0,5.14,7.72,1.51,3.56,Q4
+559,2024-10-19,06:32:24,Messaging App,Twitter,Video,Finance,Medium,3091.0,204.0,2577.0,Asia,AI Detection,Low,Limited Visibility,5872.0,2.8,3.01,0.39,8.6,Q4
+270,2024-10-18,06:32:24,News Website,Facebook,Video,Celebrity News,High,9274.0,4870.0,89.0,Asia,AI Detection,Moderate,No Action,14233.0,8.1,9.28,9.74,0.27,Q4
+924,2024-10-18,06:33:20,Forum,Twitter,Video,Health,Medium,2973.0,1835.0,1316.0,South America,User Report,Moderate,Flagged as False,6124.0,2.96,2.89,3.66,4.38,Q4
+668,2024-10-18,06:33:20,Blog,Telegram,Text,Health,Low,9222.0,516.0,702.0,Asia,AI Detection,Low,Content Removed,10440.0,5.69,9.23,1.01,2.32,Q4
+369,2024-10-17,06:32:24,Messaging App,Instagram,Text,Finance,High,3325.0,3267.0,1746.0,Asia,Manual Verification,High,No Action,8338.0,4.36,3.25,6.53,5.82,Q4
+527,2024-10-17,06:32:24,Forum,Telegram,Video,Celebrity News,Low,9499.0,2479.0,858.0,Europe,AI Detection,High,Content Removed,12836.0,7.21,9.51,4.95,2.84,Q4
+93,2024-10-17,06:30:50,Forum,Twitter,Text,Climate,High,1839.0,2325.0,478.0,Asia,AI Detection,Low,Limited Visibility,4642.0,2.02,1.75,4.64,1.57,Q4
+208,2024-10-17,06:32:24,Messaging App,Reddit,Video,Health,High,3134.0,1434.0,1298.0,Europe,User Report,High,Limited Visibility,5866.0,2.8,3.06,2.85,4.32,Q4
+807,2024-10-17,06:33:20,Blog,Instagram,Text,Health,Low,9019.0,1263.0,2259.0,North America,User Report,Low,Content Removed,12541.0,7.02,9.02,2.51,7.54,Q4
+708,2024-10-16,06:33:20,News Website,Telegram,Video,Health,High,6181.0,4422.0,711.0,Oceania,Manual Verification,Moderate,Content Removed,11314.0,6.25,6.14,8.84,2.35,Q4
+649,2024-10-16,06:33:20,Blog,WhatsApp,Video,Finance,Medium,5145.0,939.0,1113.0,Asia,AI Detection,High,Flagged as False,7197.0,3.64,5.1,1.86,3.7,Q4
+974,2024-10-15,06:33:20,Forum,Instagram,Video,Health,Medium,4519.0,3435.0,588.0,Asia,Manual Verification,Moderate,Content Removed,8542.0,4.49,4.46,6.86,1.94,Q4
+191,2024-10-15,06:32:24,Messaging App,YouTube,Text,Finance,Low,4928.0,2021.0,2429.0,Africa,User Report,Low,Content Removed,9378.0,5.02,4.88,4.03,8.11,Q4
+341,2024-10-15,06:32:24,News Website,Instagram,Text,Technology,High,8948.0,1873.0,2413.0,North America,Manual Verification,Moderate,Limited Visibility,13234.0,7.46,8.95,3.73,8.05,Q4
+482,2024-10-15,06:32:24,Blog,Telegram,Video,Politics,Medium,8990.0,1687.0,938.0,Europe,AI Detection,Low,Content Removed,11615.0,6.44,8.99,3.36,3.11,Q4
+1079,2024-10-15,06:33:20,Messaging App,Facebook,Video,Health,High,1514.0,1655.0,1166.0,Europe,User Report,Low,No Action,4335.0,1.83,1.42,3.3,3.88,Q4
+740,2024-10-15,06:33:20,Blog,Facebook,Video,Climate,Medium,5060.0,1531.0,1048.0,South America,User Report,High,No Action,7639.0,3.92,5.01,3.05,3.48,Q4
+359,2024-10-14,06:32:24,Forum,Twitter,Video,Climate,Medium,7466.0,4723.0,2982.0,Africa,Manual Verification,Moderate,Content Removed,15171.0,8.69,7.45,9.44,9.96,Q4
+236,2024-10-14,06:32:24,Blog,Facebook,Image,Technology,Low,908.0,2518.0,2544.0,South America,Manual Verification,Low,Flagged as False,5970.0,2.86,0.8,5.03,8.49,Q4
+349,2024-10-14,06:32:24,Forum,Reddit,Video,Finance,Medium,5985.0,1949.0,50.0,North America,AI Detection,Low,Limited Visibility,7984.0,4.14,5.95,3.88,0.14,Q4
+554,2024-10-14,06:32:24,Messaging App,Facebook,Video,Politics,Low,7607.0,538.0,1148.0,Oceania,Manual Verification,High,No Action,9293.0,4.97,7.59,1.06,3.82,Q4
+206,2024-10-14,06:32:24,Forum,Twitter,Image,Technology,Low,3826.0,313.0,9.0,South America,User Report,Moderate,Flagged as False,4148.0,1.71,3.76,0.61,0.0,Q4
+769,2024-10-13,06:33:20,Social Media,Reddit,Image,Climate,Low,8263.0,2245.0,996.0,Europe,AI Detection,Low,No Action,11504.0,6.37,8.25,4.48,3.31,Q4
+519,2024-10-13,06:32:24,Blog,WhatsApp,Image,Technology,High,8616.0,940.0,279.0,South America,User Report,Moderate,Limited Visibility,9835.0,5.31,8.61,1.86,0.9,Q4
+391,2024-10-12,06:32:24,Forum,Telegram,Image,Technology,High,183.0,2994.0,2833.0,Asia,User Report,High,Content Removed,6010.0,2.89,0.07,5.98,9.46,Q4
+961,2024-10-12,06:33:20,Social Media,Facebook,Video,Climate,Medium,9433.0,2813.0,1056.0,Europe,AI Detection,Low,No Action,13302.0,7.51,9.44,5.62,3.51,Q4
+931,2024-10-12,06:33:20,Forum,YouTube,Text,Health,Low,3672.0,2562.0,2931.0,Europe,Manual Verification,Moderate,Limited Visibility,9165.0,4.89,3.6,5.11,9.79,Q4
+97,2024-10-11,06:30:50,Social Media,Telegram,Video,Finance,Low,9255.0,3790.0,2554.0,Asia,AI Detection,High,Flagged as False,15599.0,8.96,9.26,7.57,8.53,Q4
+518,2024-10-11,06:32:24,Messaging App,YouTube,Video,Climate,Medium,4169.0,1234.0,571.0,Europe,User Report,Moderate,Content Removed,5974.0,2.86,4.11,2.45,1.88,Q4
+532,2024-10-10,06:32:24,Social Media,Reddit,Text,Celebrity News,Medium,5497.0,4768.0,744.0,North America,Manual Verification,High,Flagged as False,11009.0,6.05,5.45,9.53,2.46,Q4
+792,2024-10-09,06:33:20,Forum,Facebook,Image,Technology,Medium,4058.0,4016.0,1473.0,Asia,AI Detection,Moderate,No Action,9547.0,5.13,3.99,8.03,4.9,Q4
+839,2024-10-09,06:33:20,Forum,Twitter,Video,Politics,Medium,7532.0,3448.0,2335.0,Africa,AI Detection,High,Flagged as False,13315.0,7.51,7.51,6.89,7.79,Q4
+269,2024-10-09,06:32:24,Messaging App,Instagram,Text,Politics,Medium,692.0,1172.0,1400.0,Africa,Manual Verification,Low,Flagged as False,3264.0,1.15,0.58,2.33,4.66,Q4
+473,2024-10-08,06:32:24,Messaging App,Instagram,Video,Health,High,7753.0,4350.0,1193.0,Asia,User Report,Moderate,Limited Visibility,13296.0,7.5,7.74,8.7,3.97,Q4
+710,2024-10-08,06:33:20,Blog,WhatsApp,Text,Climate,Low,8268.0,2150.0,1698.0,South America,Manual Verification,High,No Action,12116.0,6.75,8.26,4.29,5.66,Q4
+487,2024-10-07,06:32:24,Messaging App,Twitter,Image,Celebrity News,Low,3422.0,1421.0,606.0,North America,User Report,Low,Limited Visibility,5449.0,2.53,3.35,2.83,2.0,Q4
+628,2024-10-07,06:33:20,News Website,WhatsApp,Video,Finance,Low,3128.0,750.0,2981.0,Africa,AI Detection,High,No Action,6859.0,3.43,3.05,1.48,9.96,Q4
+635,2024-10-07,06:33:20,News Website,YouTube,Image,Celebrity News,High,7814.0,588.0,1762.0,North America,Manual Verification,Low,Content Removed,10164.0,5.52,7.8,1.16,5.87,Q4
+796,2024-10-06,06:33:20,Messaging App,Facebook,Image,Climate,Low,4426.0,4690.0,2506.0,South America,Manual Verification,High,Limited Visibility,11622.0,6.44,4.37,9.38,8.37,Q4
+999,2024-10-06,06:33:20,Messaging App,Twitter,Text,Politics,Medium,751.0,2818.0,2007.0,South America,User Report,Moderate,No Action,5576.0,2.61,0.64,5.63,6.69,Q4
+689,2024-10-06,06:33:20,Blog,Reddit,Image,Technology,High,9110.0,2440.0,1712.0,Africa,User Report,High,No Action,13262.0,7.48,9.11,4.87,5.71,Q4
+445,2024-10-05,06:32:24,Forum,WhatsApp,Text,Technology,High,3231.0,3215.0,654.0,Europe,AI Detection,Moderate,Content Removed,7100.0,3.58,3.16,6.42,2.16,Q4
+880,2024-10-05,06:33:20,Messaging App,Twitter,Image,Finance,High,9694.0,2380.0,482.0,Europe,Manual Verification,Moderate,Content Removed,12556.0,7.03,9.7,4.75,1.58,Q4
+385,2024-10-05,06:32:24,Blog,Instagram,Text,Celebrity News,Medium,1991.0,1752.0,503.0,Asia,User Report,High,No Action,4246.0,1.77,1.9,3.49,1.65,Q4
+383,2024-10-05,06:32:24,News Website,Telegram,Text,Health,Medium,721.0,667.0,2990.0,North America,AI Detection,Low,Limited Visibility,4378.0,1.85,0.61,1.31,9.99,Q4
+552,2024-10-05,06:32:24,Forum,Telegram,Video,Celebrity News,Medium,3580.0,469.0,469.0,Africa,User Report,Moderate,Limited Visibility,4518.0,1.94,3.51,0.92,1.54,Q4
+293,2024-10-05,06:32:24,Blog,Instagram,Text,Health,High,1986.0,464.0,119.0,South America,AI Detection,Moderate,Flagged as False,2569.0,0.71,1.89,0.91,0.37,Q4
+977,2024-10-04,06:33:20,News Website,YouTube,Text,Climate,Medium,3736.0,4821.0,282.0,Europe,Manual Verification,Low,Content Removed,8839.0,4.68,3.67,9.64,0.91,Q4
+210,2024-10-04,06:32:24,Forum,WhatsApp,Image,Technology,Low,1741.0,3205.0,683.0,North America,AI Detection,High,Content Removed,5629.0,2.65,1.65,6.4,2.26,Q4
+167,2024-10-04,06:32:24,Social Media,YouTube,Video,Celebrity News,Medium,2668.0,255.0,2240.0,North America,Manual Verification,High,Flagged as False,5163.0,2.35,2.59,0.49,7.47,Q4
+804,2024-10-03,06:33:20,Social Media,Reddit,Text,Technology,Low,9695.0,4925.0,239.0,Europe,User Report,Moderate,Content Removed,14859.0,8.49,9.71,9.85,0.77,Q4
+428,2024-10-03,06:32:24,Social Media,Reddit,Image,Celebrity News,High,7140.0,4276.0,2149.0,Europe,Manual Verification,High,Flagged as False,13565.0,7.67,7.12,8.55,7.17,Q4
+748,2024-10-03,06:33:20,Blog,Facebook,Image,Celebrity News,Low,9382.0,3279.0,2925.0,Asia,Manual Verification,Low,Limited Visibility,15586.0,8.95,9.39,6.55,9.77,Q4
+105,2024-10-02,06:32:24,Social Media,WhatsApp,Text,Technology,Low,9940.0,2237.0,559.0,Europe,User Report,Low,Content Removed,12736.0,7.15,9.95,4.46,1.84,Q4
+1051,2024-10-02,06:33:20,News Website,Reddit,Image,Celebrity News,Medium,9252.0,1104.0,173.0,Europe,Manual Verification,High,Flagged as False,10529.0,5.75,9.26,2.19,0.55,Q4
+48,2024-10-02,06:30:50,Blog,Reddit,Image,Climate,Low,5623.0,518.0,1632.0,Oceania,User Report,Moderate,No Action,7773.0,4.0,5.58,1.02,5.44,Q4
+1030,2024-10-01,06:33:20,Social Media,Telegram,Video,Politics,Medium,2899.0,4989.0,333.0,Europe,AI Detection,Moderate,Flagged as False,8221.0,4.29,2.82,9.98,1.09,Q4
+535,2024-09-30,06:32:24,Messaging App,Instagram,Video,Celebrity News,Medium,934.0,3539.0,2183.0,Europe,User Report,High,Content Removed,6656.0,3.3,0.83,7.07,7.28,Q4
+1019,2024-09-30,06:33:20,Social Media,Telegram,Text,Politics,Low,7645.0,2400.0,1116.0,Europe,Manual Verification,Moderate,Limited Visibility,11161.0,6.15,7.63,4.79,3.71,Q4
+246,2024-09-30,06:32:24,Messaging App,Twitter,Video,Health,Low,870.0,1065.0,1120.0,Oceania,AI Detection,High,Content Removed,3055.0,1.02,0.76,2.11,3.72,Q4
+234,2024-09-29,06:32:24,Blog,Facebook,Video,Politics,Low,8974.0,3723.0,659.0,North America,AI Detection,Low,Flagged as False,13356.0,7.54,8.97,7.44,2.18,Q4
+122,2024-09-29,06:32:24,Messaging App,Telegram,Text,Climate,High,8581.0,2018.0,649.0,Africa,AI Detection,Low,No Action,11248.0,6.2,8.58,4.02,2.14,Q4
+562,2024-09-29,06:32:24,Forum,Reddit,Image,Celebrity News,Low,4236.0,105.0,1809.0,Oceania,User Report,Low,No Action,6150.0,2.98,4.17,0.19,6.03,Q4
+795,2024-09-28,06:33:20,News Website,Reddit,Text,Health,Medium,7755.0,3659.0,732.0,Europe,Manual Verification,Moderate,Content Removed,12146.0,6.77,7.74,7.31,2.42,Q4
+803,2024-09-28,06:33:20,Messaging App,YouTube,Image,Technology,High,8093.0,1806.0,1011.0,South America,User Report,Low,No Action,10910.0,5.99,8.08,3.6,3.36,Q4
+1007,2024-09-28,06:33:20,Blog,Instagram,Image,Climate,Medium,8116.0,1591.0,1711.0,South America,User Report,Low,Content Removed,11418.0,6.31,8.11,3.17,5.7,Q4
+500,2024-09-28,06:32:24,Messaging App,Facebook,Image,Politics,Low,8653.0,1563.0,98.0,Oceania,Manual Verification,High,Flagged as False,10314.0,5.61,8.65,3.11,0.3,Q4
+877,2024-09-27,06:33:20,Messaging App,Reddit,Video,Climate,Medium,3832.0,3006.0,1416.0,North America,AI Detection,High,Flagged as False,8254.0,4.31,3.76,6.0,4.71,Q4
+1006,2024-09-26,06:33:20,Blog,Reddit,Text,Politics,Low,4626.0,4267.0,1367.0,North America,Manual Verification,Moderate,Flagged as False,10260.0,5.58,4.57,8.53,4.55,Q4
+214,2024-09-26,06:32:24,Messaging App,Reddit,Image,Health,Low,8418.0,2481.0,1802.0,Africa,Manual Verification,Moderate,Flagged as False,12701.0,7.13,8.41,4.95,6.01,Q4
+309,2024-09-25,06:32:24,Messaging App,Facebook,Text,Technology,High,7781.0,2490.0,1557.0,North America,Manual Verification,Moderate,Limited Visibility,11828.0,6.57,7.77,4.97,5.19,Q4
+5,2024-09-24,06:30:50,Blog,WhatsApp,Video,Finance,Medium,3215.0,3481.0,940.0,Oceania,Manual Verification,Moderate,No Action,7636.0,3.92,3.14,6.96,3.12,Q4
+23,2024-09-24,06:30:50,Messaging App,Facebook,Text,Climate,High,4554.0,2844.0,250.0,North America,AI Detection,Moderate,Flagged as False,7648.0,3.92,4.5,5.68,0.81,Q4
+965,2024-09-24,06:33:20,News Website,Instagram,Text,Celebrity News,Medium,8919.0,1706.0,1838.0,Europe,AI Detection,High,Limited Visibility,12463.0,6.97,8.92,3.4,6.13,Q4
+463,2024-09-24,06:32:24,Forum,Reddit,Text,Technology,Low,5292.0,1379.0,2146.0,Africa,User Report,High,Flagged as False,8817.0,4.67,5.24,2.74,7.16,Q4
+472,2024-09-23,06:32:24,Blog,YouTube,Image,Politics,Medium,4049.0,3366.0,1037.0,North America,AI Detection,Moderate,Flagged as False,8452.0,4.43,3.98,6.72,3.44,Q4
+34,2024-09-23,06:30:50,Forum,Twitter,Text,Technology,High,1668.0,2758.0,18.0,Oceania,AI Detection,Moderate,Content Removed,4444.0,1.9,1.57,5.51,0.03,Q4
+727,2024-09-23,06:33:20,Blog,Twitter,Video,Finance,High,1177.0,2230.0,2831.0,Oceania,Manual Verification,Moderate,Limited Visibility,6238.0,3.03,1.07,4.45,9.45,Q4
+1002,2024-09-23,06:33:20,News Website,YouTube,Video,Technology,Medium,3661.0,28.0,465.0,Europe,AI Detection,Moderate,Limited Visibility,4154.0,1.71,3.59,0.03,1.53,Q4
+737,2024-09-22,06:33:20,Messaging App,Telegram,Video,Celebrity News,Medium,4934.0,3675.0,2612.0,Asia,Manual Verification,Moderate,Limited Visibility,11221.0,6.19,4.88,7.34,8.72,Q4
+387,2024-09-22,06:32:24,Blog,WhatsApp,Image,Health,Low,7957.0,2292.0,1056.0,Oceania,AI Detection,Low,Flagged as False,11305.0,6.24,7.94,4.57,3.51,Q4
+137,2024-09-22,06:32:24,Forum,Instagram,Video,Celebrity News,Medium,7922.0,2239.0,1462.0,North America,Manual Verification,High,Flagged as False,11623.0,6.44,7.91,4.47,4.87,Q4
+928,2024-09-22,06:33:20,Messaging App,Instagram,Text,Finance,Medium,6912.0,1502.0,2909.0,Asia,User Report,Low,Flagged as False,11323.0,6.25,6.89,2.99,9.72,Q4
+641,2024-09-21,06:33:20,Blog,YouTube,Text,Health,Low,3572.0,4193.0,180.0,Africa,User Report,Low,Limited Visibility,7945.0,4.11,3.5,8.38,0.57,Q4
+169,2024-09-20,06:32:24,Messaging App,Twitter,Video,Celebrity News,Medium,6469.0,3852.0,1263.0,Asia,User Report,Low,Limited Visibility,11584.0,6.42,6.44,7.7,4.2,Q4
+257,2024-09-20,06:32:24,News Website,Facebook,Image,Climate,High,1363.0,379.0,2556.0,Europe,User Report,Moderate,Content Removed,4298.0,1.8,1.26,0.74,8.53,Q4
+752,2024-09-20,06:33:20,Blog,WhatsApp,Image,Celebrity News,Low,8489.0,279.0,1304.0,Africa,AI Detection,High,No Action,10072.0,5.46,8.48,0.54,4.34,Q4
+738,2024-09-19,06:33:20,Blog,Twitter,Video,Finance,Medium,939.0,4917.0,1881.0,Asia,Manual Verification,Low,No Action,7737.0,3.98,0.83,9.83,6.27,Q4
+166,2024-09-18,06:32:24,Social Media,YouTube,Text,Celebrity News,Low,1228.0,4378.0,954.0,Oceania,AI Detection,Moderate,No Action,6560.0,3.24,1.13,8.75,3.17,Q4
+586,2024-09-18,06:32:24,News Website,Telegram,Image,Climate,High,4791.0,154.0,1826.0,Asia,AI Detection,Low,Content Removed,6771.0,3.37,4.74,0.29,6.09,Q4
+587,2024-09-17,06:32:24,Forum,YouTube,Text,Climate,Low,8702.0,3125.0,2869.0,South America,User Report,High,Flagged as False,14696.0,8.39,8.7,6.24,9.58,Q4
+493,2024-09-17,06:32:24,Forum,Telegram,Image,Health,High,6598.0,2442.0,2961.0,Africa,Manual Verification,Low,No Action,12001.0,6.68,6.57,4.87,9.89,Q4
+866,2024-09-17,06:33:20,Blog,Facebook,Video,Technology,Medium,4284.0,2242.0,733.0,Oceania,User Report,High,No Action,7259.0,3.68,4.22,4.47,2.43,Q4
+211,2024-09-17,06:32:24,Social Media,Instagram,Video,Celebrity News,High,3867.0,1492.0,46.0,Oceania,AI Detection,Low,No Action,5405.0,2.5,3.8,2.97,0.12,Q4
+703,2024-09-17,06:33:20,Social Media,WhatsApp,Video,Climate,Medium,5737.0,1043.0,1179.0,South America,Manual Verification,Moderate,Flagged as False,7959.0,4.12,5.7,2.07,3.92,Q4
+767,2024-09-17,06:33:20,News Website,Twitter,Text,Celebrity News,Low,6769.0,362.0,607.0,Oceania,Manual Verification,Low,Flagged as False,7738.0,3.98,6.74,0.7,2.0,Q4
+70,2024-09-16,06:30:50,Messaging App,Telegram,Text,Technology,High,2969.0,4105.0,415.0,Oceania,Manual Verification,Low,Content Removed,7489.0,3.82,2.89,8.21,1.36,Q4
+580,2024-09-16,06:32:24,News Website,Telegram,Image,Finance,Low,9774.0,4089.0,2737.0,Oceania,Manual Verification,Low,Flagged as False,16600.0,9.59,9.79,8.17,9.14,Q4
+152,2024-09-16,06:32:24,Messaging App,YouTube,Video,Politics,Low,2637.0,971.0,2784.0,South America,AI Detection,Low,Limited Visibility,6392.0,3.13,2.55,1.92,9.3,Q4
+869,2024-09-16,06:33:20,Forum,YouTube,Text,Climate,Low,9161.0,125.0,305.0,Africa,Manual Verification,Low,No Action,9591.0,5.16,9.16,0.23,0.99,Q4
+250,2024-09-15,06:32:24,Blog,Telegram,Text,Technology,High,2732.0,871.0,2984.0,Europe,AI Detection,Low,Flagged as False,6587.0,3.25,2.65,1.72,9.97,Q4
+878,2024-09-14,06:33:20,Messaging App,Facebook,Text,Celebrity News,High,5214.0,4246.0,2502.0,Africa,AI Detection,High,Limited Visibility,11962.0,6.66,5.17,8.49,8.35,Q4
+186,2024-09-14,06:32:24,Forum,Reddit,Image,Celebrity News,High,4297.0,3836.0,2475.0,Africa,AI Detection,High,Limited Visibility,10608.0,5.8,4.24,7.67,8.26,Q4
+119,2024-09-14,06:32:24,Forum,Telegram,Video,Health,Low,7764.0,2460.0,155.0,North America,Manual Verification,Moderate,Content Removed,10379.0,5.65,7.75,4.91,0.49,Q4
+147,2024-09-12,06:32:24,Social Media,Twitter,Video,Politics,Medium,6392.0,981.0,2043.0,Africa,User Report,High,Flagged as False,9416.0,5.04,6.36,1.94,6.81,Q4
+491,2024-09-12,06:32:24,Blog,Twitter,Image,Technology,High,3170.0,89.0,1301.0,Oceania,Manual Verification,High,Limited Visibility,4560.0,1.97,3.09,0.16,4.33,Q4
+496,2024-09-11,06:32:24,Messaging App,Instagram,Text,Climate,Medium,3543.0,889.0,2786.0,North America,Manual Verification,Low,Content Removed,7218.0,3.65,3.47,1.76,9.3,Q4
+932,2024-09-10,06:33:20,Social Media,YouTube,Text,Technology,Low,6527.0,2846.0,1216.0,Africa,AI Detection,Low,Content Removed,10589.0,5.79,6.5,5.68,4.04,Q4
+324,2024-09-10,06:32:24,Social Media,Twitter,Video,Finance,Low,6877.0,2100.0,1989.0,Africa,User Report,High,Content Removed,10966.0,6.03,6.85,4.19,6.63,Q4
+372,2024-09-10,06:32:24,Messaging App,Reddit,Video,Health,Medium,594.0,1746.0,1607.0,Europe,AI Detection,High,Limited Visibility,3947.0,1.58,0.48,3.48,5.35,Q4
+912,2024-09-10,06:33:20,Blog,Reddit,Text,Health,Medium,1385.0,846.0,1051.0,Oceania,AI Detection,Low,Flagged as False,3282.0,1.16,1.29,1.67,3.49,Q4
+442,2024-09-10,06:32:24,News Website,Reddit,Video,Climate,Medium,2181.0,676.0,876.0,Europe,AI Detection,Moderate,No Action,3733.0,1.45,2.09,1.33,2.9,Q4
+506,2024-09-09,06:32:24,Blog,Instagram,Video,Celebrity News,High,4397.0,1457.0,1321.0,North America,Manual Verification,Moderate,No Action,7175.0,3.63,4.34,2.9,4.4,Q4
+1094,2024-09-08,06:33:20,Forum,YouTube,Video,Health,Medium,5691.0,4323.0,66.0,Asia,AI Detection,Low,Limited Visibility,10080.0,5.47,5.65,8.64,0.19,Q4
+393,2024-09-08,06:32:24,News Website,YouTube,Text,Celebrity News,Low,5757.0,3320.0,2115.0,Europe,Manual Verification,Low,Limited Visibility,11192.0,6.17,5.72,6.63,7.06,Q4
+517,2024-09-08,06:32:24,Social Media,Reddit,Image,Health,Low,9016.0,1694.0,2393.0,South America,User Report,Low,Content Removed,13103.0,7.38,9.02,3.37,7.99,Q4
+267,2024-09-08,06:32:24,Social Media,WhatsApp,Video,Finance,High,7903.0,895.0,2555.0,Europe,Manual Verification,Low,No Action,11353.0,6.27,7.89,1.77,8.53,Q4
+28,2024-09-08,06:30:50,News Website,YouTube,Text,Health,Low,2832.0,372.0,1180.0,North America,AI Detection,High,Flagged as False,4384.0,1.86,2.75,0.72,3.92,Q4
+4,2024-09-07,06:30:50,Social Media,Telegram,Video,Technology,Low,3374.0,4999.0,2541.0,Europe,AI Detection,High,Content Removed,10914.0,5.99,3.3,10.0,8.48,Q4
+893,2024-09-07,06:33:20,Social Media,Facebook,Text,Celebrity News,Medium,8877.0,4337.0,871.0,Africa,User Report,Moderate,Limited Visibility,14085.0,8.0,8.88,8.67,2.89,Q4
+409,2024-09-07,06:32:24,Messaging App,Reddit,Video,Celebrity News,Medium,9814.0,2031.0,2555.0,North America,Manual Verification,High,Limited Visibility,14400.0,8.2,9.83,4.05,8.53,Q4
+76,2024-09-07,06:30:50,Messaging App,WhatsApp,Video,Politics,High,3924.0,1198.0,950.0,Europe,User Report,Low,Flagged as False,6072.0,2.93,3.86,2.38,3.15,Q4
+198,2024-09-06,06:32:24,Blog,Telegram,Video,Technology,High,809.0,3802.0,2367.0,South America,AI Detection,Low,Content Removed,6978.0,3.5,0.7,7.6,7.9,Q4
+698,2024-09-06,06:33:20,News Website,Telegram,Text,Climate,Low,3956.0,2971.0,1349.0,Europe,AI Detection,High,Flagged as False,8276.0,4.32,3.89,5.93,4.49,Q4
+672,2024-09-06,06:33:20,Social Media,Reddit,Image,Politics,Medium,4078.0,2249.0,1940.0,South America,User Report,High,Limited Visibility,8267.0,4.32,4.01,4.49,6.47,Q4
+525,2024-09-05,06:32:24,Forum,Twitter,Text,Health,Low,6829.0,3252.0,2235.0,Asia,AI Detection,Low,Content Removed,12316.0,6.88,6.8,6.5,7.46,Q4
+1024,2024-09-05,06:33:20,Forum,Telegram,Image,Celebrity News,Low,2826.0,2967.0,2248.0,South America,User Report,Moderate,Limited Visibility,8041.0,4.17,2.75,5.93,7.5,Q4
+54,2024-09-05,06:30:50,News Website,Instagram,Image,Politics,High,1433.0,2623.0,2118.0,Africa,User Report,Low,Content Removed,6174.0,2.99,1.33,5.24,7.07,Q4
+714,2024-09-05,06:33:20,News Website,Facebook,Video,Celebrity News,Medium,1749.0,1412.0,2456.0,South America,Manual Verification,High,No Action,5617.0,2.64,1.65,2.81,8.2,Q4
+679,2024-09-05,06:33:20,Messaging App,Facebook,Image,Technology,Medium,3967.0,816.0,44.0,Oceania,User Report,Low,Flagged as False,4827.0,2.14,3.9,1.61,0.12,Q4
+557,2024-09-05,06:32:24,Blog,Telegram,Image,Finance,Low,6598.0,31.0,1896.0,Europe,User Report,Moderate,No Action,8525.0,4.48,6.57,0.04,6.32,Q4
+1015,2024-09-04,06:33:20,Blog,YouTube,Text,Health,Medium,9909.0,4895.0,2008.0,Oceania,Manual Verification,High,Content Removed,16812.0,9.73,9.92,9.79,6.7,Q4
+1025,2024-09-04,06:33:20,Forum,Reddit,Text,Politics,Low,4052.0,3732.0,1021.0,Asia,User Report,Moderate,No Action,8805.0,4.66,3.99,7.46,3.39,Q4
+692,2024-09-04,06:33:20,Social Media,YouTube,Image,Politics,Medium,7771.0,3442.0,1021.0,Asia,User Report,Moderate,Limited Visibility,12234.0,6.83,7.76,6.88,3.39,Q4
+838,2024-09-04,06:33:20,Messaging App,WhatsApp,Video,Health,Low,8331.0,2377.0,2220.0,South America,Manual Verification,High,No Action,12928.0,7.27,8.32,4.74,7.41,Q4
+860,2024-09-03,06:33:20,Blog,Facebook,Image,Technology,High,4003.0,4646.0,2366.0,Oceania,AI Detection,High,No Action,11015.0,6.06,3.94,9.29,7.9,Q4
+914,2024-09-03,06:33:20,Blog,Facebook,Text,Health,Medium,126.0,3646.0,229.0,Oceania,Manual Verification,Low,No Action,4001.0,1.62,0.01,7.29,0.74,Q4
+431,2024-09-03,06:32:24,Social Media,WhatsApp,Video,Climate,Medium,2295.0,3561.0,1008.0,North America,AI Detection,High,Limited Visibility,6864.0,3.43,2.21,7.12,3.35,Q4
+716,2024-09-03,06:33:20,News Website,YouTube,Text,Finance,High,4859.0,2251.0,1034.0,Europe,AI Detection,Low,No Action,8144.0,4.24,4.81,4.49,3.43,Q4
+1088,2024-09-03,06:33:20,Forum,WhatsApp,Text,Climate,Low,8832.0,1503.0,398.0,Europe,Manual Verification,Low,Content Removed,10733.0,5.88,8.83,2.99,1.3,Q4
+957,2024-09-03,06:33:20,Blog,Telegram,Image,Technology,Low,6484.0,518.0,1836.0,Africa,AI Detection,High,Limited Visibility,8838.0,4.68,6.45,1.02,6.12,Q4
+986,2024-09-02,06:33:20,Messaging App,YouTube,Image,Celebrity News,Medium,6662.0,3660.0,2899.0,Africa,User Report,Moderate,Flagged as False,13221.0,7.45,6.63,7.31,9.68,Q4
+943,2024-09-02,06:33:20,Messaging App,Twitter,Image,Climate,High,8831.0,1191.0,2297.0,Asia,User Report,Low,Flagged as False,12319.0,6.88,8.83,2.37,7.66,Q4
+129,2024-09-01,06:32:24,Messaging App,YouTube,Text,Climate,High,8633.0,1037.0,1322.0,Africa,AI Detection,Low,Limited Visibility,10992.0,6.04,8.63,2.06,4.4,Q4
+636,2024-09-01,06:33:20,Social Media,Telegram,Video,Climate,High,7066.0,566.0,1294.0,South America,User Report,Low,No Action,8926.0,4.73,7.04,1.11,4.3,Q4
+301,2024-09-01,06:32:24,Blog,Instagram,Image,Finance,High,7349.0,61.0,1344.0,Asia,Manual Verification,Moderate,Content Removed,8754.0,4.63,7.33,0.1,4.47,Q4
+1009,2024-08-31,06:33:20,Blog,Twitter,Image,Politics,Medium,8032.0,4036.0,2327.0,Europe,Manual Verification,High,Limited Visibility,14395.0,8.2,8.02,8.07,7.77,Q4
+766,2024-08-31,06:33:20,Blog,YouTube,Text,Celebrity News,Medium,696.0,3840.0,2540.0,Oceania,AI Detection,High,Limited Visibility,7076.0,3.56,0.59,7.67,8.48,Q4
+242,2024-08-31,06:32:24,News Website,Reddit,Text,Technology,Medium,4736.0,3828.0,751.0,South America,Manual Verification,Low,No Action,9315.0,4.98,4.68,7.65,2.49,Q4
+929,2024-08-31,06:33:20,Messaging App,Twitter,Video,Health,Low,7531.0,2606.0,893.0,Africa,AI Detection,Low,Flagged as False,11030.0,6.07,7.51,5.2,2.96,Q4
+820,2024-08-30,06:33:20,News Website,Twitter,Image,Celebrity News,High,4974.0,3384.0,1418.0,Africa,User Report,High,Flagged as False,9776.0,5.27,4.92,6.76,4.72,Q4
+682,2024-08-29,06:33:20,Forum,Telegram,Image,Technology,Medium,3674.0,4025.0,1801.0,Asia,Manual Verification,Low,Limited Visibility,9500.0,5.1,3.6,8.05,6.0,Q4
+504,2024-08-29,06:32:24,Blog,Twitter,Image,Politics,Low,3885.0,527.0,2720.0,Europe,User Report,Moderate,Flagged as False,7132.0,3.6,3.82,1.03,9.08,Q4
+1099,2024-08-29,06:33:20,Social Media,Twitter,Video,Finance,Medium,7669.0,121.0,1662.0,South America,User Report,Moderate,No Action,9452.0,5.07,7.65,0.22,5.54,Q4
+894,2024-08-28,06:33:20,Messaging App,Facebook,Video,Celebrity News,Medium,3717.0,4445.0,1763.0,North America,AI Detection,High,Limited Visibility,9925.0,5.37,3.65,8.89,5.88,Q4
+701,2024-08-28,06:33:20,Social Media,Instagram,Video,Health,High,4426.0,4013.0,1772.0,South America,User Report,Moderate,No Action,10211.0,5.55,4.37,8.02,5.91,Q4
+1021,2024-08-28,06:33:20,Blog,Twitter,Image,Health,Low,9837.0,3592.0,1910.0,Europe,User Report,Low,Flagged as False,15339.0,8.8,9.85,7.18,6.37,Q4
+864,2024-08-27,06:33:20,Forum,Instagram,Text,Politics,High,9115.0,1601.0,2701.0,Africa,AI Detection,Low,No Action,13417.0,7.58,9.12,3.19,9.02,Q4
+847,2024-08-26,06:33:20,Forum,Reddit,Video,Climate,Low,1078.0,4464.0,1235.0,Asia,AI Detection,High,Limited Visibility,6777.0,3.37,0.97,8.93,4.11,Q4
+881,2024-08-26,06:33:20,News Website,Facebook,Image,Finance,Low,998.0,4283.0,2341.0,Asia,Manual Verification,Low,Flagged as False,7622.0,3.91,0.89,8.56,7.81,Q4
+1008,2024-08-26,06:33:20,Blog,Twitter,Video,Technology,Low,6916.0,1820.0,930.0,Oceania,User Report,Moderate,Content Removed,9666.0,5.2,6.89,3.63,3.09,Q4
+130,2024-08-25,06:32:24,Blog,Telegram,Image,Health,Low,5570.0,4884.0,1651.0,South America,AI Detection,Moderate,Flagged as False,12105.0,6.75,5.53,9.77,5.5,Q4
+177,2024-08-25,06:32:24,Messaging App,Reddit,Image,Finance,Medium,4264.0,4101.0,2656.0,North America,Manual Verification,Moderate,No Action,11021.0,6.06,4.2,8.2,8.87,Q4
+771,2024-08-25,06:33:20,Blog,WhatsApp,Text,Politics,Medium,8313.0,184.0,724.0,North America,AI Detection,Moderate,Content Removed,9221.0,4.92,8.3,0.35,2.4,Q4
+77,2024-08-24,06:30:50,Forum,YouTube,Video,Technology,Medium,6616.0,1607.0,1558.0,Asia,User Report,Moderate,Flagged as False,9781.0,5.28,6.59,3.2,5.19,Q4
+1037,2024-08-24,06:33:20,Social Media,Reddit,Video,Finance,High,7535.0,1158.0,876.0,Africa,Manual Verification,High,No Action,9569.0,5.14,7.52,2.3,2.9,Q4
+426,2024-08-23,06:32:24,Social Media,WhatsApp,Text,Technology,High,2507.0,2075.0,2948.0,South America,AI Detection,Moderate,No Action,7530.0,3.85,2.42,4.14,9.85,Q4
+1029,2024-08-23,06:33:20,Social Media,Twitter,Image,Celebrity News,Low,1910.0,1554.0,1429.0,Asia,Manual Verification,High,Flagged as False,4893.0,2.18,1.82,3.09,4.76,Q4
+654,2024-08-23,06:33:20,Social Media,Instagram,Text,Climate,Medium,2214.0,1176.0,1027.0,Europe,User Report,High,Content Removed,4417.0,1.88,2.13,2.34,3.41,Q4
+940,2024-08-22,06:33:20,News Website,Facebook,Image,Finance,Low,3301.0,4042.0,687.0,South America,User Report,Low,Flagged as False,8030.0,4.17,3.23,8.08,2.27,Q4
+1078,2024-08-22,06:33:20,Messaging App,Facebook,Image,Celebrity News,Medium,7165.0,3113.0,2425.0,Asia,Manual Verification,Low,Limited Visibility,12703.0,7.13,7.14,6.22,8.09,Q4
+756,2024-08-22,06:33:20,News Website,Instagram,Video,Climate,Medium,9159.0,2598.0,2503.0,Asia,User Report,Low,No Action,14260.0,8.11,9.16,5.19,8.36,Q4
+670,2024-08-22,06:33:20,Social Media,YouTube,Image,Health,Medium,5504.0,1354.0,2642.0,Oceania,AI Detection,Moderate,No Action,9500.0,5.1,5.46,2.69,8.82,Q4
+498,2024-08-22,06:32:24,Blog,Instagram,Image,Climate,Medium,3324.0,895.0,85.0,Oceania,Manual Verification,Low,Content Removed,4304.0,1.81,3.25,1.77,0.25,Q4
+60,2024-08-21,06:30:50,News Website,Facebook,Text,Politics,Medium,7506.0,4466.0,2561.0,North America,Manual Verification,High,Limited Visibility,14533.0,8.29,7.49,8.93,8.55,Q4
+396,2024-08-21,06:32:24,Social Media,Telegram,Image,Climate,High,6768.0,4130.0,912.0,Asia,AI Detection,Moderate,Content Removed,11810.0,6.56,6.74,8.26,3.03,Q4
+661,2024-08-21,06:33:20,News Website,Facebook,Video,Finance,Medium,8968.0,3822.0,2605.0,Asia,AI Detection,Moderate,Limited Visibility,15395.0,8.83,8.97,7.64,8.7,Q4
+59,2024-08-21,06:30:50,Forum,WhatsApp,Video,Politics,Low,1137.0,3159.0,1113.0,Europe,User Report,Moderate,Content Removed,5409.0,2.51,1.03,6.31,3.7,Q4
+411,2024-08-21,06:32:24,Messaging App,Telegram,Text,Technology,Medium,1013.0,772.0,2602.0,Oceania,User Report,High,Content Removed,4387.0,1.86,0.91,1.53,8.69,Q4
+486,2024-08-20,06:32:24,Messaging App,Twitter,Text,Politics,Low,9595.0,1255.0,782.0,Oceania,User Report,Low,Limited Visibility,11632.0,6.45,9.6,2.49,2.59,Q4
+174,2024-08-20,06:32:24,Forum,WhatsApp,Image,Finance,Low,2559.0,469.0,592.0,South America,User Report,Moderate,Limited Visibility,3620.0,1.37,2.48,0.92,1.95,Q4
+991,2024-08-20,06:33:20,Messaging App,Twitter,Video,Health,Medium,8219.0,337.0,2343.0,Oceania,AI Detection,High,Flagged as False,10899.0,5.98,8.21,0.65,7.82,Q4
+480,2024-08-19,06:32:24,Forum,Twitter,Video,Celebrity News,High,8777.0,4967.0,171.0,Europe,User Report,Low,Content Removed,13915.0,7.89,8.78,9.93,0.54,Q4
+874,2024-08-19,06:33:20,Forum,WhatsApp,Video,Finance,High,2070.0,1911.0,701.0,Asia,Manual Verification,Moderate,No Action,4682.0,2.05,1.98,3.81,2.32,Q4
+938,2024-08-18,06:33:20,Blog,Reddit,Image,Politics,High,5200.0,3355.0,1610.0,Africa,AI Detection,Low,Content Removed,10165.0,5.52,5.15,6.7,5.36,Q4
+933,2024-08-18,06:33:20,Social Media,YouTube,Video,Climate,Low,6150.0,3199.0,1499.0,South America,User Report,High,No Action,10848.0,5.95,6.11,6.39,4.99,Q4
+594,2024-08-18,06:32:24,Social Media,Instagram,Video,Finance,Low,4257.0,40.0,1863.0,Oceania,Manual Verification,Moderate,Flagged as False,6160.0,2.98,4.2,0.06,6.21,Q4
+1058,2024-08-18,06:33:20,Blog,WhatsApp,Image,Health,Medium,2071.0,36.0,2430.0,Europe,Manual Verification,Moderate,Flagged as False,4537.0,1.95,1.98,0.05,8.11,Q4
+57,2024-08-17,06:30:50,Blog,Twitter,Text,Politics,High,249.0,4622.0,2460.0,South America,Manual Verification,Moderate,Content Removed,7331.0,3.72,0.13,9.24,8.21,Q4
+313,2024-08-17,06:32:24,Messaging App,YouTube,Video,Finance,Low,6676.0,3856.0,2450.0,South America,Manual Verification,Moderate,No Action,12982.0,7.3,6.65,7.71,8.18,Q4
+614,2024-08-17,06:33:20,Messaging App,Instagram,Image,Technology,High,6931.0,3590.0,1359.0,North America,User Report,High,Limited Visibility,11880.0,6.61,6.9,7.17,4.52,Q4
+892,2024-08-17,06:33:20,Social Media,Telegram,Text,Finance,Low,1502.0,2562.0,2393.0,North America,User Report,Low,No Action,6457.0,3.17,1.4,5.11,7.99,Q4
+663,2024-08-17,06:33:20,Social Media,Reddit,Text,Climate,Medium,5065.0,2359.0,410.0,North America,User Report,High,No Action,7834.0,4.04,5.01,4.71,1.34,Q4
+712,2024-08-16,06:33:20,Forum,WhatsApp,Video,Celebrity News,High,5123.0,3779.0,1321.0,South America,Manual Verification,Low,Flagged as False,10223.0,5.56,5.07,7.55,4.4,Q4
+903,2024-08-16,06:33:20,Blog,Reddit,Image,Politics,High,5598.0,384.0,2503.0,Africa,Manual Verification,Low,Content Removed,8485.0,4.46,5.55,0.75,8.36,Q4
+883,2024-08-15,06:33:20,Blog,Reddit,Text,Finance,Low,617.0,2958.0,1625.0,Europe,AI Detection,Low,Content Removed,5200.0,2.37,0.51,5.91,5.41,Q4
+392,2024-08-15,06:32:24,Blog,Reddit,Text,Climate,Low,2199.0,2255.0,2176.0,North America,User Report,High,Limited Visibility,6630.0,3.28,2.11,4.5,7.26,Q4
+222,2024-08-15,06:32:24,Messaging App,Facebook,Image,Celebrity News,Medium,432.0,185.0,1758.0,South America,AI Detection,Moderate,Content Removed,2375.0,0.59,0.32,0.35,5.86,Q4
+629,2024-08-14,06:33:20,Blog,Instagram,Image,Politics,Medium,8379.0,2822.0,339.0,North America,User Report,Low,Content Removed,11540.0,6.39,8.37,5.63,1.11,Q4
+11,2024-08-14,06:30:50,Blog,WhatsApp,Video,Health,Medium,3620.0,1398.0,500.0,North America,User Report,High,No Action,5518.0,2.58,3.55,2.78,1.64,Q4
+778,2024-08-13,06:33:20,News Website,Facebook,Image,Celebrity News,Low,3417.0,3322.0,2167.0,Europe,User Report,Low,Content Removed,8906.0,4.72,3.34,6.64,7.23,Q3
+142,2024-08-13,06:32:24,Social Media,WhatsApp,Text,Celebrity News,Medium,4986.0,2961.0,121.0,Asia,AI Detection,Moderate,No Action,8068.0,4.19,4.93,5.91,0.38,Q3
+970,2024-08-12,06:33:20,Social Media,Telegram,Image,Technology,Medium,9905.0,2073.0,1606.0,Europe,AI Detection,High,Limited Visibility,13584.0,7.68,9.92,4.13,5.35,Q3
+799,2024-08-12,06:33:20,Social Media,WhatsApp,Text,Politics,Low,5386.0,777.0,663.0,Oceania,Manual Verification,Moderate,Content Removed,6826.0,3.4,5.34,1.54,2.19,Q3
+1057,2024-08-12,06:33:20,Messaging App,Twitter,Image,Climate,Low,3261.0,373.0,759.0,Africa,Manual Verification,High,Content Removed,4393.0,1.86,3.19,0.73,2.51,Q3
+1046,2024-08-12,06:33:20,Messaging App,Twitter,Text,Health,Low,8609.0,307.0,2556.0,Africa,Manual Verification,Low,Flagged as False,11472.0,6.35,8.6,0.59,8.53,Q3
+88,2024-08-11,06:30:50,Blog,Reddit,Image,Climate,High,9145.0,2097.0,2322.0,Asia,Manual Verification,Moderate,No Action,13564.0,7.67,9.15,4.18,7.75,Q3
+42,2024-08-11,06:30:50,Forum,Instagram,Text,Climate,High,7323.0,1217.0,1845.0,South America,Manual Verification,High,Content Removed,10385.0,5.66,7.3,2.42,6.15,Q3
+934,2024-08-11,06:33:20,Blog,Facebook,Video,Technology,Medium,1751.0,1047.0,30.0,Africa,Manual Verification,Low,Content Removed,2828.0,0.87,1.66,2.08,0.07,Q3
+993,2024-08-11,06:33:20,Blog,Reddit,Video,Politics,High,3108.0,738.0,1374.0,Europe,Manual Verification,High,Content Removed,5220.0,2.39,3.03,1.46,4.57,Q3
+564,2024-08-10,06:32:24,Blog,WhatsApp,Video,Climate,Medium,2423.0,3987.0,470.0,Oceania,AI Detection,Low,No Action,6880.0,3.44,2.34,7.97,1.54,Q3
+815,2024-08-10,06:33:20,Social Media,YouTube,Video,Finance,Low,9379.0,3500.0,1404.0,South America,Manual Verification,Low,Limited Visibility,14283.0,8.13,9.39,6.99,4.67,Q3
+579,2024-08-10,06:32:24,Social Media,Telegram,Video,Finance,Medium,7721.0,3396.0,643.0,Europe,User Report,Low,Flagged as False,11760.0,6.53,7.71,6.78,2.12,Q3
+558,2024-08-10,06:32:24,Blog,Telegram,Video,Technology,High,9058.0,1343.0,2957.0,Europe,Manual Verification,Moderate,Limited Visibility,13358.0,7.54,9.06,2.67,9.88,Q3
+736,2024-08-09,06:33:20,Social Media,Reddit,Image,Health,Low,5204.0,3583.0,2650.0,South America,User Report,Low,Limited Visibility,11437.0,6.32,5.16,7.16,8.85,Q3
+618,2024-08-09,06:33:20,Social Media,YouTube,Text,Climate,Low,383.0,3456.0,176.0,South America,User Report,Moderate,Content Removed,4015.0,1.62,0.27,6.91,0.56,Q3
+626,2024-08-09,06:33:20,News Website,WhatsApp,Video,Health,Low,3415.0,3405.0,2202.0,Asia,AI Detection,Moderate,Flagged as False,9022.0,4.8,3.34,6.8,7.35,Q3
+602,2024-08-09,06:33:20,News Website,WhatsApp,Image,Politics,Low,2735.0,2336.0,283.0,Europe,Manual Verification,High,Flagged as False,5354.0,2.47,2.65,4.66,0.92,Q3
+117,2024-08-09,06:32:24,Social Media,Reddit,Image,Celebrity News,High,5306.0,1874.0,2618.0,Oceania,User Report,Low,Limited Visibility,9798.0,5.29,5.26,3.73,8.74,Q3
+822,2024-08-09,06:33:20,Messaging App,Facebook,Video,Celebrity News,Medium,5009.0,1301.0,2510.0,Europe,User Report,High,No Action,8820.0,4.67,4.96,2.59,8.38,Q3
+888,2024-08-08,06:33:20,Forum,YouTube,Image,Climate,Low,4736.0,4940.0,773.0,Europe,AI Detection,Low,Limited Visibility,10449.0,5.7,4.68,9.88,2.56,Q3
+595,2024-08-08,06:32:24,Forum,Facebook,Text,Technology,Medium,5284.0,3489.0,507.0,Africa,AI Detection,Moderate,Limited Visibility,9280.0,4.96,5.24,6.97,1.67,Q3
+65,2024-08-08,06:30:50,Forum,Reddit,Image,Technology,High,1880.0,1333.0,822.0,Europe,Manual Verification,High,No Action,4035.0,1.64,1.79,2.65,2.72,Q3
+460,2024-08-08,06:32:24,Forum,Instagram,Text,Politics,High,1499.0,1304.0,90.0,Asia,Manual Verification,High,Content Removed,2893.0,0.91,1.4,2.59,0.27,Q3
+568,2024-08-08,06:32:24,News Website,WhatsApp,Image,Climate,Low,9378.0,161.0,2450.0,South America,User Report,High,No Action,11989.0,6.67,9.38,0.3,8.18,Q3
+997,2024-08-07,06:33:20,Blog,Facebook,Image,Climate,Low,283.0,3976.0,2006.0,Africa,User Report,Moderate,Flagged as False,6265.0,3.05,0.17,7.95,6.69,Q3
+1022,2024-08-07,06:33:20,Forum,Facebook,Video,Technology,High,919.0,3519.0,2633.0,Africa,Manual Verification,Moderate,Flagged as False,7071.0,3.56,0.81,7.03,8.79,Q3
+476,2024-08-07,06:32:24,Forum,Facebook,Video,Health,Medium,6353.0,3486.0,1461.0,North America,User Report,Low,Flagged as False,11300.0,6.24,6.32,6.97,4.86,Q3
+195,2024-08-06,06:32:24,Forum,Instagram,Text,Health,High,9986.0,5000.0,19.0,Europe,User Report,Low,No Action,15005.0,8.58,10.0,10.0,0.03,Q3
+646,2024-08-06,06:33:20,Blog,Instagram,Image,Climate,Low,655.0,4089.0,1198.0,Asia,Manual Verification,High,No Action,5942.0,2.84,0.55,8.17,3.98,Q3
+481,2024-08-06,06:32:24,Forum,Instagram,Image,Health,Low,4881.0,1497.0,359.0,Europe,AI Detection,Low,Flagged as False,6737.0,3.35,4.83,2.98,1.17,Q3
+832,2024-08-06,06:33:20,Blog,Reddit,Image,Politics,Medium,5936.0,886.0,128.0,Africa,Manual Verification,Moderate,Content Removed,6950.0,3.48,5.9,1.75,0.4,Q3
+53,2024-08-06,06:30:50,Blog,Instagram,Video,Politics,High,5361.0,742.0,2564.0,Oceania,User Report,Moderate,No Action,8667.0,4.57,5.31,1.47,8.56,Q3
+26,2024-08-06,06:30:50,Forum,YouTube,Image,Health,Medium,9316.0,740.0,1654.0,Asia,User Report,Low,Flagged as False,11710.0,6.5,9.32,1.46,5.51,Q3
+955,2024-08-06,06:33:20,Blog,Twitter,Image,Health,High,7536.0,296.0,2873.0,Africa,AI Detection,High,Content Removed,10705.0,5.86,7.52,0.57,9.59,Q3
+253,2024-08-06,06:32:24,News Website,Reddit,Image,Technology,Medium,3974.0,216.0,46.0,Africa,User Report,Low,Limited Visibility,4236.0,1.76,3.91,0.41,0.12,Q3
+547,2024-08-05,06:32:24,News Website,YouTube,Video,Health,Medium,1169.0,4807.0,1144.0,Africa,AI Detection,Moderate,Flagged as False,7120.0,3.59,1.07,9.61,3.8,Q3
+231,2024-08-05,06:32:24,Messaging App,WhatsApp,Image,Politics,Medium,4872.0,2224.0,2873.0,Oceania,Manual Verification,Moderate,Limited Visibility,9969.0,5.39,4.82,4.44,9.59,Q3
+998,2024-08-04,06:33:20,News Website,Facebook,Video,Climate,Medium,3653.0,3565.0,1661.0,Asia,Manual Verification,Moderate,Content Removed,8879.0,4.7,3.58,7.12,5.53,Q3
+825,2024-08-04,06:33:20,Social Media,WhatsApp,Video,Health,High,5094.0,2890.0,2086.0,North America,Manual Verification,Low,No Action,10070.0,5.46,5.04,5.77,6.96,Q3
+95,2024-08-04,06:30:50,Social Media,WhatsApp,Image,Politics,High,178.0,2244.0,2451.0,Asia,User Report,Low,No Action,4873.0,2.17,0.06,4.48,8.18,Q3
+401,2024-08-04,06:32:24,News Website,YouTube,Image,Politics,Medium,9586.0,1367.0,1599.0,North America,User Report,Low,Flagged as False,12552.0,7.03,9.59,2.72,5.33,Q3
+141,2024-08-04,06:32:24,Messaging App,Facebook,Image,Celebrity News,High,4366.0,79.0,132.0,Asia,Manual Verification,High,Content Removed,4577.0,1.98,4.31,0.14,0.41,Q3
+82,2024-08-03,06:30:50,Messaging App,YouTube,Text,Politics,High,400.0,3321.0,1397.0,Asia,AI Detection,Low,Content Removed,5118.0,2.32,0.29,6.63,4.65,Q3
+345,2024-08-03,06:32:24,Blog,YouTube,Video,Politics,Medium,1244.0,925.0,1540.0,Africa,Manual Verification,Low,No Action,3709.0,1.43,1.14,1.83,5.13,Q3
+455,2024-08-03,06:32:24,News Website,WhatsApp,Image,Technology,Low,3451.0,790.0,2875.0,Africa,Manual Verification,Moderate,No Action,7116.0,3.59,3.38,1.56,9.6,Q3
+508,2024-08-02,06:32:24,Social Media,WhatsApp,Text,Celebrity News,High,5933.0,4677.0,2597.0,Asia,Manual Verification,Moderate,No Action,13207.0,7.45,5.89,9.35,8.67,Q3
+976,2024-08-02,06:33:20,News Website,Instagram,Text,Technology,Low,3227.0,4363.0,429.0,Asia,AI Detection,Low,No Action,8019.0,4.16,3.15,8.72,1.41,Q3
+1072,2024-08-02,06:33:20,Messaging App,YouTube,Text,Politics,Low,3339.0,3170.0,2839.0,Oceania,User Report,Low,Content Removed,9348.0,5.0,3.27,6.33,9.48,Q3
+241,2024-08-02,06:32:24,News Website,WhatsApp,Video,Health,Low,7388.0,2683.0,2208.0,Africa,User Report,Moderate,No Action,12279.0,6.86,7.37,5.36,7.37,Q3
+915,2024-08-02,06:33:20,Forum,Twitter,Image,Technology,Medium,8516.0,873.0,1592.0,South America,AI Detection,Low,Flagged as False,10981.0,6.04,8.51,1.73,5.3,Q3
+7,2024-08-02,06:30:50,Blog,Instagram,Image,Climate,Low,8288.0,72.0,2061.0,North America,AI Detection,Low,Limited Visibility,10421.0,5.68,8.28,0.12,6.87,Q3
+318,2024-08-01,06:32:24,News Website,Instagram,Text,Health,Low,7345.0,4235.0,995.0,Asia,AI Detection,Moderate,Content Removed,12575.0,7.05,7.32,8.47,3.3,Q3
+1010,2024-08-01,06:33:20,News Website,Reddit,Image,Politics,Low,6113.0,3808.0,394.0,Europe,Manual Verification,Moderate,Limited Visibility,10315.0,5.61,6.08,7.61,1.29,Q3
+848,2024-08-01,06:33:20,Messaging App,Instagram,Video,Celebrity News,Medium,2933.0,1043.0,166.0,South America,AI Detection,Low,Flagged as False,4142.0,1.7,2.85,2.07,0.53,Q3
+439,2024-07-31,06:32:24,News Website,Instagram,Video,Politics,High,1819.0,2883.0,271.0,North America,AI Detection,High,Content Removed,4973.0,2.23,1.73,5.76,0.88,Q3
+1074,2024-07-31,06:33:20,Messaging App,YouTube,Image,Celebrity News,Medium,2072.0,15.0,1675.0,Oceania,Manual Verification,Moderate,Flagged as False,3762.0,1.46,1.98,0.01,5.58,Q3
+193,2024-07-30,06:32:24,Social Media,WhatsApp,Text,Finance,Low,4182.0,1067.0,2225.0,Asia,Manual Verification,Moderate,Content Removed,7474.0,3.81,4.12,2.12,7.42,Q3
+325,2024-07-29,06:32:24,News Website,YouTube,Text,Finance,High,6634.0,4980.0,774.0,Oceania,Manual Verification,High,No Action,12388.0,6.93,6.6,9.96,2.56,Q3
+673,2024-07-29,06:33:20,News Website,Facebook,Video,Climate,Low,6502.0,4017.0,311.0,South America,User Report,High,Flagged as False,10830.0,5.94,6.47,8.03,1.01,Q3
+1091,2024-07-29,06:33:20,Forum,YouTube,Video,Politics,High,495.0,3208.0,673.0,Asia,User Report,Moderate,Limited Visibility,4376.0,1.85,0.38,6.41,2.22,Q3
+420,2024-07-29,06:32:24,News Website,Instagram,Video,Politics,High,1134.0,3183.0,22.0,Europe,Manual Verification,High,Limited Visibility,4339.0,1.83,1.03,6.36,0.04,Q3
+163,2024-07-29,06:32:24,News Website,Facebook,Video,Finance,High,1957.0,2951.0,928.0,South America,Manual Verification,Low,No Action,5836.0,2.78,1.87,5.89,3.08,Q3
+285,2024-07-29,06:32:24,Messaging App,Telegram,Text,Celebrity News,High,2618.0,934.0,496.0,Africa,User Report,Low,Flagged as False,4048.0,1.64,2.53,1.85,1.63,Q3
+350,2024-07-28,06:32:24,Messaging App,YouTube,Text,Celebrity News,Low,1514.0,2286.0,2391.0,Oceania,AI Detection,High,No Action,6191.0,3.0,1.42,4.56,7.98,Q3
+300,2024-07-27,06:32:24,Forum,Instagram,Text,Health,High,1091.0,4846.0,1122.0,North America,Manual Verification,High,Content Removed,7059.0,3.55,0.99,9.69,3.73,Q3
+534,2024-07-27,06:32:24,News Website,Telegram,Image,Finance,High,2679.0,4369.0,1226.0,Africa,Manual Verification,Moderate,No Action,8274.0,4.32,2.6,8.74,4.08,Q3
+306,2024-07-27,06:32:24,Social Media,WhatsApp,Image,Politics,High,1520.0,3943.0,2247.0,Asia,AI Detection,Moderate,No Action,7710.0,3.96,1.42,7.88,7.5,Q3
+483,2024-07-27,06:32:24,News Website,Twitter,Image,Health,Medium,1891.0,3217.0,2036.0,Europe,User Report,Low,Content Removed,7144.0,3.61,1.8,6.43,6.79,Q3
+266,2024-07-27,06:32:24,Blog,Facebook,Video,Celebrity News,High,1655.0,904.0,1108.0,North America,AI Detection,Low,Flagged as False,3667.0,1.4,1.56,1.79,3.68,Q3
+956,2024-07-26,06:33:20,News Website,Instagram,Text,Finance,Low,6498.0,773.0,2868.0,Oceania,AI Detection,High,Limited Visibility,10139.0,5.5,6.47,1.53,9.58,Q3
+133,2024-07-25,06:32:24,Messaging App,Facebook,Image,Health,Medium,8853.0,4201.0,1619.0,Oceania,User Report,Low,Limited Visibility,14673.0,8.37,8.85,8.4,5.39,Q3
+984,2024-07-25,06:33:20,Forum,Facebook,Video,Finance,Medium,2947.0,3678.0,1467.0,Europe,User Report,Moderate,Limited Visibility,8092.0,4.21,2.87,7.35,4.88,Q3
+909,2024-07-25,06:33:20,Forum,WhatsApp,Text,Health,High,4904.0,1488.0,2175.0,North America,Manual Verification,Moderate,No Action,8567.0,4.51,4.85,2.96,7.26,Q3
+548,2024-07-25,06:32:24,Blog,YouTube,Video,Politics,Medium,6078.0,926.0,1284.0,South America,AI Detection,Moderate,No Action,8288.0,4.33,6.04,1.83,4.27,Q3
+310,2024-07-25,06:32:24,News Website,Instagram,Image,Health,High,4247.0,720.0,1819.0,Asia,Manual Verification,Moderate,Flagged as False,6786.0,3.38,4.19,1.42,6.06,Q3
+995,2024-07-24,06:33:20,Messaging App,YouTube,Text,Health,Medium,1967.0,4476.0,1301.0,South America,User Report,Moderate,No Action,7744.0,3.99,1.88,8.95,4.33,Q3
+457,2024-07-24,06:32:24,Social Media,Facebook,Video,Climate,High,2054.0,2165.0,914.0,South America,User Report,High,Flagged as False,5133.0,2.33,1.96,4.32,3.03,Q3
+329,2024-07-23,06:32:24,Messaging App,YouTube,Text,Finance,Low,3384.0,4498.0,1597.0,Africa,User Report,Moderate,Flagged as False,9479.0,5.08,3.31,8.99,5.32,Q3
+1082,2024-07-23,06:33:20,Messaging App,Telegram,Video,Technology,Low,7828.0,1039.0,589.0,North America,AI Detection,Moderate,Content Removed,9456.0,5.07,7.81,2.06,1.94,Q3
+484,2024-07-23,06:32:24,Blog,Telegram,Text,Climate,Medium,8192.0,295.0,2249.0,Asia,User Report,Low,No Action,10736.0,5.88,8.18,0.57,7.5,Q3
+430,2024-07-22,06:32:24,Blog,Reddit,Image,Health,Low,1889.0,2027.0,23.0,North America,User Report,High,Content Removed,3939.0,1.58,1.8,4.04,0.05,Q3
+91,2024-07-20,06:30:50,Messaging App,Reddit,Video,Politics,Medium,2744.0,604.0,1331.0,North America,User Report,Moderate,Content Removed,4679.0,2.04,2.66,1.19,4.43,Q3
+854,2024-07-20,06:33:20,News Website,Twitter,Image,Celebrity News,Medium,8432.0,325.0,561.0,North America,AI Detection,Moderate,Content Removed,9318.0,4.98,8.43,0.63,1.85,Q3
+207,2024-07-18,06:32:24,News Website,Instagram,Text,Health,Medium,1969.0,4846.0,711.0,Europe,AI Detection,Moderate,Flagged as False,7526.0,3.85,1.88,9.69,2.35,Q3
+289,2024-07-18,06:32:24,News Website,Reddit,Text,Climate,Medium,8109.0,4761.0,2771.0,Asia,AI Detection,High,Flagged as False,15641.0,8.99,8.1,9.52,9.25,Q3
+419,2024-07-18,06:32:24,Social Media,Telegram,Image,Finance,High,2651.0,4425.0,1289.0,Europe,Manual Verification,Moderate,Content Removed,8365.0,4.38,2.57,8.85,4.29,Q3
+735,2024-07-18,06:33:20,Messaging App,Instagram,Text,Celebrity News,Low,8219.0,1690.0,1307.0,Europe,Manual Verification,Low,Limited Visibility,11216.0,6.18,8.21,3.37,4.35,Q3
+389,2024-07-18,06:32:24,Messaging App,Telegram,Image,Technology,High,8004.0,539.0,2660.0,Oceania,Manual Verification,Low,Content Removed,11203.0,6.18,7.99,1.06,8.88,Q3
+114,2024-07-17,06:32:24,Messaging App,YouTube,Image,Finance,High,1332.0,4556.0,824.0,North America,AI Detection,Moderate,No Action,6712.0,3.33,1.23,9.11,2.73,Q3
+454,2024-07-17,06:32:24,Messaging App,Reddit,Video,Health,Medium,3071.0,4452.0,292.0,South America,AI Detection,Low,Limited Visibility,7815.0,4.03,2.99,8.9,0.95,Q3
+85,2024-07-17,06:30:50,Blog,Facebook,Video,Celebrity News,Medium,9862.0,2337.0,1052.0,North America,AI Detection,Low,Content Removed,13251.0,7.47,9.87,4.66,3.49,Q3
+1041,2024-07-17,06:33:20,Blog,Reddit,Video,Health,Low,6300.0,2017.0,2393.0,Africa,AI Detection,Low,Flagged as False,10710.0,5.86,6.27,4.02,7.99,Q3
+536,2024-07-17,06:32:24,Social Media,WhatsApp,Video,Finance,High,8225.0,1798.0,244.0,Europe,User Report,High,Flagged as False,10267.0,5.58,8.22,3.58,0.79,Q3
+650,2024-07-16,06:33:20,Forum,WhatsApp,Video,Celebrity News,Low,5106.0,4225.0,543.0,Asia,Manual Verification,High,Flagged as False,9874.0,5.33,5.06,8.45,1.79,Q3
+572,2024-07-16,06:32:24,Blog,Telegram,Text,Climate,Low,1236.0,3697.0,1628.0,Africa,Manual Verification,High,Flagged as False,6561.0,3.24,1.13,7.39,5.42,Q3
+653,2024-07-16,06:33:20,Blog,Reddit,Video,Celebrity News,Medium,8968.0,3693.0,1626.0,Asia,AI Detection,High,Content Removed,14287.0,8.13,8.97,7.38,5.42,Q3
+1023,2024-07-16,06:33:20,News Website,Instagram,Text,Finance,Low,2780.0,3405.0,854.0,Europe,User Report,Low,Flagged as False,7039.0,3.54,2.7,6.8,2.83,Q3
+327,2024-07-16,06:32:24,Social Media,Facebook,Video,Technology,Low,1734.0,3177.0,214.0,Africa,User Report,Low,Limited Visibility,5125.0,2.33,1.64,6.35,0.69,Q3
+760,2024-07-16,06:33:20,News Website,Instagram,Image,Celebrity News,Low,1245.0,706.0,1002.0,Europe,User Report,High,Limited Visibility,2953.0,0.95,1.14,1.39,3.33,Q3
+647,2024-07-15,06:33:20,News Website,Instagram,Image,Politics,Medium,712.0,3569.0,1869.0,Africa,Manual Verification,High,No Action,6150.0,2.98,0.6,7.13,6.23,Q3
+450,2024-07-15,06:32:24,News Website,Reddit,Image,Technology,Low,1498.0,3347.0,420.0,Asia,Manual Verification,Moderate,Content Removed,5265.0,2.42,1.4,6.69,1.38,Q3
+617,2024-07-15,06:33:20,Messaging App,Facebook,Video,Politics,High,7840.0,1579.0,471.0,Asia,AI Detection,Low,No Action,9890.0,5.34,7.83,3.14,1.55,Q3
+749,2024-07-15,06:33:20,News Website,YouTube,Text,Health,High,9938.0,1508.0,940.0,Europe,Manual Verification,High,No Action,12386.0,6.93,9.95,3.0,3.12,Q3
+925,2024-07-15,06:33:20,Forum,Reddit,Video,Finance,Low,9472.0,456.0,345.0,North America,Manual Verification,High,Content Removed,10273.0,5.59,9.48,0.89,1.13,Q3
+549,2024-07-14,06:32:24,Social Media,Instagram,Text,Technology,Medium,7857.0,4258.0,1807.0,Oceania,AI Detection,Low,Limited Visibility,13922.0,7.9,7.84,8.51,6.02,Q3
+292,2024-07-14,06:32:24,Forum,Instagram,Video,Technology,Low,2313.0,1004.0,2793.0,South America,Manual Verification,Moderate,Content Removed,6110.0,2.95,2.23,1.99,9.33,Q3
+1096,2024-07-13,06:33:20,Forum,Instagram,Image,Health,Low,7558.0,3539.0,2026.0,North America,User Report,Low,Flagged as False,13123.0,7.39,7.54,7.07,6.76,Q3
+83,2024-07-13,06:30:50,Messaging App,Facebook,Image,Technology,Low,5181.0,52.0,2445.0,Africa,User Report,Moderate,Limited Visibility,7678.0,3.94,5.13,0.08,8.16,Q3
+886,2024-07-12,06:33:20,News Website,Instagram,Text,Health,Low,8780.0,1610.0,1981.0,South America,Manual Verification,High,No Action,12371.0,6.92,8.78,3.21,6.61,Q3
+323,2024-07-11,06:32:24,Blog,Twitter,Video,Climate,Medium,8431.0,4357.0,2260.0,Asia,User Report,Moderate,Limited Visibility,15048.0,8.61,8.42,8.71,7.54,Q3
+109,2024-07-11,06:32:24,Social Media,WhatsApp,Image,Health,Low,8850.0,1717.0,220.0,Asia,AI Detection,High,Content Removed,10787.0,5.91,8.85,3.42,0.71,Q3
+512,2024-07-11,06:32:24,Messaging App,Twitter,Text,Celebrity News,High,7748.0,1708.0,208.0,South America,Manual Verification,Low,No Action,9664.0,5.2,7.73,3.4,0.67,Q3
+468,2024-07-11,06:32:24,Messaging App,Telegram,Text,Finance,Medium,2640.0,1180.0,2048.0,Oceania,Manual Verification,Low,Content Removed,5868.0,2.8,2.56,2.34,6.83,Q3
+625,2024-07-10,06:33:20,Messaging App,Facebook,Video,Finance,Low,4584.0,1457.0,818.0,Oceania,AI Detection,High,No Action,6859.0,3.43,4.53,2.9,2.71,Q3
+702,2024-07-10,06:33:20,Blog,Reddit,Image,Politics,Low,9082.0,700.0,2553.0,Oceania,AI Detection,High,No Action,12335.0,6.89,9.08,1.38,8.52,Q3
+954,2024-07-10,06:33:20,Messaging App,Instagram,Text,Politics,Low,2285.0,321.0,2791.0,South America,Manual Verification,Low,No Action,5397.0,2.5,2.2,0.62,9.32,Q3
+776,2024-07-09,06:33:20,Social Media,Facebook,Video,Politics,Medium,5361.0,4455.0,2473.0,Africa,User Report,High,No Action,12289.0,6.86,5.31,8.91,8.25,Q3
+1003,2024-07-09,06:33:20,Messaging App,WhatsApp,Image,Celebrity News,Medium,2792.0,3554.0,2651.0,Europe,AI Detection,Moderate,Flagged as False,8997.0,4.78,2.71,7.1,8.85,Q3
+507,2024-07-09,06:32:24,Messaging App,WhatsApp,Image,Health,High,4742.0,3252.0,1189.0,Oceania,AI Detection,Low,Content Removed,9183.0,4.9,4.69,6.5,3.95,Q3
+503,2024-07-08,06:32:24,Forum,Reddit,Video,Celebrity News,Medium,9477.0,4012.0,535.0,Asia,User Report,High,Content Removed,14024.0,7.96,9.48,8.02,1.76,Q3
+312,2024-07-08,06:32:24,Social Media,WhatsApp,Image,Climate,High,8674.0,2538.0,2687.0,Asia,User Report,Moderate,Flagged as False,13899.0,7.88,8.67,5.07,8.97,Q3
+173,2024-07-07,06:32:24,Forum,WhatsApp,Text,Finance,Medium,5202.0,2729.0,1525.0,Asia,AI Detection,Moderate,Flagged as False,9456.0,5.07,5.15,5.45,5.08,Q3
+644,2024-07-07,06:33:20,News Website,Instagram,Image,Climate,Low,3830.0,2564.0,575.0,Asia,AI Detection,High,Limited Visibility,6969.0,3.49,3.76,5.12,1.9,Q3
+32,2024-07-07,06:30:50,Blog,YouTube,Text,Technology,High,6220.0,1713.0,419.0,South America,AI Detection,High,Limited Visibility,8352.0,4.37,6.18,3.41,1.37,Q3
+520,2024-07-06,06:32:24,Social Media,Reddit,Image,Health,Medium,3572.0,4447.0,93.0,South America,Manual Verification,Low,Flagged as False,8112.0,4.22,3.5,8.89,0.28,Q3
+265,2024-07-06,06:32:24,Social Media,WhatsApp,Image,Finance,Medium,3101.0,1148.0,251.0,Europe,AI Detection,Low,Limited Visibility,4500.0,1.93,3.02,2.28,0.81,Q3
+413,2024-07-05,06:32:24,News Website,Twitter,Video,Celebrity News,Low,5616.0,3641.0,142.0,Oceania,AI Detection,High,Content Removed,9399.0,5.03,5.57,7.28,0.45,Q3
+228,2024-07-05,06:32:24,Messaging App,Facebook,Text,Politics,Medium,3657.0,2637.0,536.0,Africa,User Report,High,Content Removed,6830.0,3.41,3.59,5.26,1.77,Q3
+923,2024-07-05,06:33:20,Social Media,Instagram,Text,Climate,Low,5025.0,785.0,1618.0,Asia,User Report,Moderate,Limited Visibility,7428.0,3.79,4.97,1.55,5.39,Q3
+919,2024-07-05,06:33:20,Messaging App,Reddit,Video,Politics,Medium,1372.0,177.0,1170.0,Asia,AI Detection,High,No Action,2719.0,0.8,1.27,0.33,3.89,Q3
+384,2024-07-04,06:32:24,Forum,Twitter,Video,Politics,High,8187.0,2103.0,2836.0,South America,User Report,High,Limited Visibility,13126.0,7.39,8.18,4.19,9.47,Q3
+757,2024-07-04,06:33:20,Forum,Instagram,Text,Technology,High,2369.0,1901.0,2277.0,Asia,AI Detection,High,No Action,6547.0,3.23,2.28,3.79,7.6,Q3
+41,2024-07-03,06:30:50,News Website,Twitter,Video,Celebrity News,High,5909.0,4153.0,696.0,North America,AI Detection,Low,Limited Visibility,10758.0,5.89,5.87,8.3,2.3,Q3
+715,2024-07-03,06:33:20,Forum,Telegram,Video,Health,Low,628.0,3847.0,206.0,Europe,Manual Verification,Moderate,Content Removed,4681.0,2.05,0.52,7.69,0.66,Q3
+603,2024-07-03,06:33:20,Blog,WhatsApp,Image,Climate,High,9516.0,2988.0,124.0,Africa,User Report,Low,No Action,12628.0,7.08,9.52,5.97,0.39,Q3
+996,2024-07-03,06:33:20,News Website,Instagram,Text,Politics,High,8594.0,1061.0,1761.0,Africa,User Report,Moderate,No Action,11416.0,6.31,8.59,2.1,5.87,Q3
+707,2024-07-02,06:33:20,Forum,Reddit,Text,Politics,High,9030.0,4506.0,1902.0,Africa,AI Detection,Moderate,Content Removed,15438.0,8.86,9.03,9.01,6.34,Q3
+1048,2024-07-02,06:33:20,Social Media,Facebook,Text,Celebrity News,Low,2959.0,4348.0,1774.0,Oceania,Manual Verification,Low,Flagged as False,9081.0,4.83,2.88,8.69,5.91,Q3
+1005,2024-07-02,06:33:20,Blog,Telegram,Video,Climate,High,2525.0,2081.0,1194.0,Asia,Manual Verification,High,Content Removed,5800.0,2.75,2.44,4.15,3.97,Q3
+314,2024-07-02,06:32:24,Blog,Instagram,Video,Finance,Medium,3648.0,467.0,382.0,Oceania,Manual Verification,Moderate,Content Removed,4497.0,1.93,3.58,0.91,1.25,Q3
+581,2024-07-01,06:32:24,News Website,Facebook,Text,Politics,Medium,4810.0,1669.0,1451.0,Africa,User Report,High,Limited Visibility,7930.0,4.1,4.76,3.32,4.83,Q3
+861,2024-06-30,06:33:20,Social Media,Telegram,Text,Climate,Low,6618.0,4971.0,878.0,Oceania,User Report,Low,Flagged as False,12467.0,6.98,6.59,9.94,2.91,Q3
+684,2024-06-30,06:33:20,Forum,WhatsApp,Image,Technology,Medium,8531.0,3707.0,623.0,Oceania,Manual Verification,High,Flagged as False,12861.0,7.23,8.53,7.41,2.06,Q3
+456,2024-06-28,06:32:24,News Website,Facebook,Image,Finance,High,7974.0,4944.0,1294.0,South America,User Report,Moderate,Flagged as False,14212.0,8.08,7.96,9.89,4.3,Q3
+395,2024-06-28,06:32:24,News Website,Reddit,Text,Climate,Medium,8429.0,4820.0,816.0,Europe,Manual Verification,Low,Limited Visibility,14065.0,7.99,8.42,9.64,2.7,Q3
+786,2024-06-28,06:33:20,Social Media,Instagram,Text,Finance,Low,6371.0,4464.0,597.0,Asia,AI Detection,Moderate,Limited Visibility,11432.0,6.32,6.34,8.93,1.97,Q3
+824,2024-06-28,06:33:20,Messaging App,Telegram,Image,Health,High,1297.0,4409.0,802.0,Oceania,AI Detection,Low,Content Removed,6508.0,3.2,1.2,8.82,2.66,Q3
+622,2024-06-28,06:33:20,Messaging App,Telegram,Image,Finance,High,1234.0,3480.0,2672.0,Africa,AI Detection,Moderate,Content Removed,7386.0,3.76,1.13,6.95,8.92,Q3
+927,2024-06-27,06:33:20,Social Media,WhatsApp,Image,Health,Medium,4362.0,3089.0,1852.0,Europe,Manual Verification,Low,Limited Visibility,9303.0,4.97,4.3,6.17,6.17,Q3
+8,2024-06-27,06:30:50,News Website,Reddit,Video,Technology,High,5838.0,1057.0,990.0,South America,AI Detection,High,Limited Visibility,7885.0,4.07,5.8,2.1,3.29,Q3
+842,2024-06-27,06:33:20,Social Media,YouTube,Text,Technology,High,7805.0,321.0,1968.0,North America,User Report,Moderate,Content Removed,10094.0,5.47,7.79,0.62,6.56,Q3
+863,2024-06-27,06:33:20,Blog,YouTube,Video,Finance,Low,6974.0,265.0,445.0,Africa,Manual Verification,Moderate,Content Removed,7684.0,3.95,6.95,0.51,1.46,Q3
+64,2024-06-26,06:30:50,Forum,WhatsApp,Image,Finance,Low,4685.0,3002.0,333.0,Oceania,AI Detection,Low,Limited Visibility,8020.0,4.16,4.63,6.0,1.09,Q3
+101,2024-06-26,06:32:24,Messaging App,YouTube,Video,Technology,Low,2884.0,1650.0,761.0,South America,Manual Verification,High,Content Removed,5295.0,2.43,2.8,3.29,2.52,Q3
+538,2024-06-26,06:32:24,Social Media,Telegram,Text,Health,High,6915.0,1581.0,111.0,South America,User Report,Moderate,Flagged as False,8607.0,4.53,6.89,3.15,0.34,Q3
+425,2024-06-26,06:32:24,Forum,YouTube,Text,Climate,Low,6042.0,284.0,2280.0,Oceania,Manual Verification,High,Content Removed,8606.0,4.53,6.0,0.55,7.61,Q3
+655,2024-06-25,06:33:20,Messaging App,YouTube,Image,Finance,Medium,4992.0,1346.0,1004.0,Oceania,Manual Verification,Low,Flagged as False,7342.0,3.73,4.94,2.68,3.33,Q3
+1090,2024-06-24,06:33:20,News Website,WhatsApp,Image,Celebrity News,High,5247.0,4929.0,354.0,Oceania,Manual Verification,Low,Flagged as False,10530.0,5.75,5.2,9.86,1.16,Q3
+38,2024-06-24,06:30:50,Forum,Twitter,Video,Health,Medium,5238.0,4450.0,1895.0,Oceania,AI Detection,Moderate,Content Removed,11583.0,6.42,5.19,8.9,6.32,Q3
+967,2024-06-24,06:33:20,Blog,YouTube,Text,Health,High,702.0,3628.0,1432.0,Europe,Manual Verification,High,No Action,5762.0,2.73,0.59,7.25,4.77,Q3
+1013,2024-06-24,06:33:20,Forum,Reddit,Video,Finance,Low,5767.0,1958.0,1574.0,Asia,AI Detection,High,Flagged as False,9299.0,4.97,5.73,3.9,5.24,Q3
+669,2024-06-24,06:33:20,Forum,Instagram,Video,Climate,Low,8645.0,1659.0,866.0,Europe,AI Detection,High,Flagged as False,11170.0,6.16,8.64,3.3,2.87,Q3
+605,2024-06-23,06:33:20,Forum,Reddit,Image,Health,High,6946.0,3560.0,2502.0,Oceania,User Report,High,Content Removed,13008.0,7.32,6.92,7.11,8.35,Q3
+1073,2024-06-23,06:33:20,Messaging App,Telegram,Video,Celebrity News,Medium,4747.0,3506.0,568.0,South America,AI Detection,Moderate,No Action,8821.0,4.67,4.69,7.01,1.87,Q3
+753,2024-06-23,06:33:20,Blog,Instagram,Image,Health,High,4085.0,718.0,846.0,Oceania,AI Detection,Low,Flagged as False,5649.0,2.66,4.02,1.42,2.8,Q3
+338,2024-06-22,06:32:24,Social Media,WhatsApp,Video,Climate,High,7462.0,3543.0,1499.0,Europe,AI Detection,Low,Limited Visibility,12504.0,7.0,7.44,7.08,4.99,Q3
+485,2024-06-22,06:32:24,Social Media,Reddit,Image,Technology,Low,9822.0,3085.0,2218.0,Europe,AI Detection,Moderate,Flagged as False,15125.0,8.66,9.83,6.16,7.4,Q3
+802,2024-06-22,06:33:20,Messaging App,WhatsApp,Video,Climate,High,967.0,2119.0,1745.0,South America,Manual Verification,High,Limited Visibility,4831.0,2.14,0.86,4.23,5.82,Q3
+947,2024-06-22,06:33:20,Messaging App,Reddit,Image,Politics,High,5135.0,2023.0,1632.0,Europe,User Report,High,Content Removed,8790.0,4.65,5.09,4.03,5.44,Q3
+168,2024-06-22,06:32:24,Messaging App,Facebook,Video,Celebrity News,Low,487.0,862.0,2316.0,Oceania,User Report,Moderate,Limited Visibility,3665.0,1.4,0.38,1.71,7.73,Q3
+74,2024-06-21,06:30:50,Blog,Instagram,Video,Celebrity News,High,8956.0,1714.0,1890.0,South America,Manual Verification,High,No Action,12560.0,7.04,8.96,3.41,6.3,Q3
+988,2024-06-21,06:33:20,Social Media,Facebook,Text,Technology,Medium,4826.0,1467.0,703.0,North America,User Report,Low,Content Removed,6996.0,3.51,4.77,2.92,2.32,Q3
+1085,2024-06-21,06:33:20,Forum,YouTube,Text,Technology,High,6751.0,696.0,2414.0,Oceania,AI Detection,Moderate,Flagged as False,9861.0,5.33,6.72,1.37,8.06,Q3
+316,2024-06-20,06:32:24,News Website,Reddit,Text,Technology,High,5423.0,4972.0,2692.0,Oceania,AI Detection,Moderate,Content Removed,13087.0,7.37,5.38,9.94,8.99,Q3
+828,2024-06-20,06:33:20,Social Media,Reddit,Video,Climate,High,4860.0,4525.0,290.0,Asia,Manual Verification,Low,Flagged as False,9675.0,5.21,4.81,9.05,0.94,Q3
+30,2024-06-20,06:30:50,Social Media,Reddit,Video,Health,High,7227.0,4006.0,1098.0,South America,Manual Verification,Low,Flagged as False,12331.0,6.89,7.2,8.01,3.65,Q3
+1054,2024-06-20,06:33:20,Blog,WhatsApp,Video,Politics,Medium,5200.0,2507.0,1888.0,Asia,User Report,Low,Content Removed,9595.0,5.16,5.15,5.0,6.29,Q3
+51,2024-06-20,06:30:50,Blog,WhatsApp,Video,Politics,Low,955.0,1527.0,2494.0,Europe,Manual Verification,Low,Flagged as False,4976.0,2.23,0.85,3.04,8.32,Q3
+591,2024-06-19,06:32:24,News Website,Reddit,Image,Technology,Low,7993.0,4248.0,1406.0,North America,AI Detection,High,Limited Visibility,13647.0,7.72,7.98,8.49,4.68,Q3
+505,2024-06-19,06:32:24,Forum,Telegram,Video,Celebrity News,Medium,322.0,3015.0,1949.0,Africa,Manual Verification,High,Content Removed,5286.0,2.43,0.21,6.02,6.5,Q3
+711,2024-06-18,06:33:20,News Website,Reddit,Image,Finance,Medium,413.0,1523.0,2351.0,South America,Manual Verification,Low,Content Removed,4287.0,1.8,0.3,3.03,7.85,Q3
+1097,2024-06-17,06:33:20,News Website,YouTube,Text,Politics,Medium,8345.0,3540.0,568.0,Oceania,AI Detection,Low,Content Removed,12453.0,6.97,8.34,7.07,1.87,Q3
+851,2024-06-17,06:33:20,News Website,Twitter,Text,Climate,Medium,154.0,3344.0,2964.0,Asia,Manual Verification,Moderate,Flagged as False,6462.0,3.17,0.04,6.68,9.9,Q3
+982,2024-06-17,06:33:20,News Website,Instagram,Image,Celebrity News,Medium,9192.0,2180.0,1227.0,Oceania,User Report,Low,Flagged as False,12599.0,7.06,9.2,4.35,4.08,Q3
+79,2024-06-16,06:30:50,Forum,WhatsApp,Text,Finance,Low,2251.0,424.0,1380.0,Oceania,AI Detection,High,Flagged as False,4055.0,1.65,2.16,0.83,4.59,Q3
+941,2024-06-15,06:33:20,Social Media,Telegram,Video,Health,Low,3978.0,900.0,1520.0,Africa,Manual Verification,Low,Limited Visibility,6398.0,3.13,3.91,1.78,5.06,Q3
+58,2024-06-14,06:30:50,News Website,YouTube,Image,Health,Low,5886.0,3826.0,1296.0,Africa,Manual Verification,Low,Limited Visibility,11008.0,6.05,5.85,7.65,4.31,Q3
+890,2024-06-14,06:33:20,Forum,YouTube,Video,Politics,Medium,6774.0,2350.0,224.0,Europe,AI Detection,Moderate,Flagged as False,9348.0,5.0,6.75,4.69,0.72,Q3
+43,2024-06-13,06:30:50,News Website,WhatsApp,Image,Climate,Low,2567.0,4833.0,1062.0,Asia,Manual Verification,High,Content Removed,8462.0,4.44,2.48,9.67,3.53,Q3
+39,2024-06-13,06:30:50,Blog,Instagram,Video,Finance,Low,1105.0,3868.0,1481.0,Oceania,Manual Verification,Moderate,No Action,6454.0,3.17,1.0,7.73,4.93,Q3
+354,2024-06-13,06:32:24,Social Media,Facebook,Image,Finance,High,7049.0,3532.0,2965.0,Europe,AI Detection,Moderate,Flagged as False,13546.0,7.66,7.02,7.06,9.9,Q3
+158,2024-06-13,06:32:24,News Website,Facebook,Text,Celebrity News,Medium,5403.0,575.0,1328.0,Oceania,Manual Verification,High,Limited Visibility,7306.0,3.71,5.36,1.13,4.42,Q3
+553,2024-06-11,06:32:24,Blog,Instagram,Image,Climate,Medium,7312.0,2472.0,1051.0,Europe,User Report,Low,Limited Visibility,10835.0,5.94,7.29,4.93,3.49,Q3
+1004,2024-06-11,06:33:20,Forum,Reddit,Image,Finance,High,934.0,1973.0,2765.0,Africa,User Report,High,No Action,5672.0,2.67,0.83,3.93,9.23,Q3
+459,2024-06-11,06:32:24,Messaging App,Reddit,Image,Health,High,4588.0,1803.0,1829.0,South America,AI Detection,Low,Content Removed,8220.0,4.29,4.53,3.59,6.1,Q3
+381,2024-06-10,06:32:24,Blog,Instagram,Text,Politics,Low,3917.0,3934.0,738.0,Europe,User Report,Low,Flagged as False,8589.0,4.52,3.85,7.86,2.44,Q3
+1012,2024-06-10,06:33:20,Blog,WhatsApp,Image,Technology,High,5455.0,3660.0,732.0,North America,AI Detection,High,Content Removed,9847.0,5.32,5.41,7.31,2.42,Q3
+723,2024-06-10,06:33:20,News Website,YouTube,Text,Climate,Low,1264.0,2838.0,2307.0,Europe,User Report,High,Limited Visibility,6409.0,3.14,1.16,5.67,7.7,Q3
+403,2024-06-10,06:32:24,Forum,Facebook,Text,Celebrity News,Medium,8551.0,2737.0,723.0,Africa,User Report,High,Limited Visibility,12011.0,6.69,8.55,5.46,2.39,Q3
+671,2024-06-09,06:33:20,Forum,Telegram,Text,Technology,Medium,2111.0,3779.0,2188.0,South America,AI Detection,Low,Limited Visibility,8078.0,4.2,2.02,7.55,7.3,Q3
+1020,2024-06-09,06:33:20,Blog,WhatsApp,Video,Technology,Low,1705.0,3419.0,544.0,North America,AI Detection,Moderate,Flagged as False,5668.0,2.67,1.61,6.83,1.79,Q3
+533,2024-06-09,06:32:24,News Website,Facebook,Video,Politics,Medium,6419.0,2321.0,1951.0,Europe,User Report,Moderate,Flagged as False,10691.0,5.85,6.39,4.63,6.51,Q3
+1038,2024-06-09,06:33:20,Messaging App,Telegram,Video,Politics,Low,4921.0,581.0,236.0,Africa,Manual Verification,Moderate,Flagged as False,5738.0,2.72,4.87,1.14,0.76,Q3
+1066,2024-06-08,06:33:20,Messaging App,Reddit,Video,Health,High,6363.0,1216.0,1627.0,Oceania,User Report,Low,Content Removed,9206.0,4.91,6.33,2.42,5.42,Q3
+98,2024-06-07,06:30:50,Blog,WhatsApp,Text,Finance,Medium,9238.0,3129.0,683.0,Asia,User Report,High,Content Removed,13050.0,7.35,9.24,6.25,2.26,Q3
+897,2024-06-07,06:33:20,News Website,Telegram,Image,Politics,Medium,9160.0,27.0,2426.0,South America,User Report,Low,Limited Visibility,11613.0,6.44,9.16,0.03,8.1,Q3
+274,2024-06-06,06:32:24,Blog,Facebook,Image,Celebrity News,Low,1948.0,2844.0,1568.0,Oceania,AI Detection,Low,Limited Visibility,6360.0,3.11,1.86,5.68,5.22,Q3
+685,2024-06-05,06:33:20,Social Media,WhatsApp,Video,Politics,High,6922.0,2800.0,2556.0,Asia,User Report,High,Limited Visibility,12278.0,6.86,6.9,5.59,8.53,Q3
+718,2024-06-05,06:33:20,Social Media,Facebook,Video,Finance,High,2499.0,1294.0,1796.0,Oceania,Manual Verification,Low,Limited Visibility,5589.0,2.62,2.41,2.57,5.99,Q3
+1064,2024-06-04,06:33:20,Forum,Twitter,Image,Technology,Low,7690.0,4372.0,1345.0,Africa,User Report,Low,Limited Visibility,13407.0,7.57,7.67,8.74,4.48,Q3
+845,2024-06-04,06:33:20,Blog,Reddit,Image,Celebrity News,Low,1671.0,3296.0,2174.0,Oceania,Manual Verification,High,No Action,7141.0,3.6,1.58,6.58,7.25,Q3
+514,2024-06-04,06:32:24,News Website,YouTube,Text,Climate,High,7605.0,2846.0,1119.0,Oceania,User Report,High,No Action,11570.0,6.41,7.59,5.68,3.72,Q3
+356,2024-06-04,06:32:24,News Website,YouTube,Image,Climate,Low,2632.0,2623.0,404.0,Europe,User Report,High,Limited Visibility,5659.0,2.67,2.55,5.24,1.32,Q3
+89,2024-06-04,06:30:50,News Website,Facebook,Text,Technology,High,2332.0,2142.0,842.0,Asia,AI Detection,High,Limited Visibility,5316.0,2.45,2.25,4.27,2.79,Q3
+370,2024-06-03,06:32:24,News Website,Reddit,Text,Climate,Medium,4435.0,4617.0,2179.0,Asia,AI Detection,Moderate,Flagged as False,11231.0,6.19,4.38,9.23,7.27,Q3
+225,2024-06-03,06:32:24,Blog,WhatsApp,Text,Technology,High,6213.0,4452.0,1972.0,North America,AI Detection,High,Flagged as False,12637.0,7.08,6.18,8.9,6.58,Q3
+408,2024-06-03,06:32:24,News Website,Facebook,Text,Technology,Medium,6831.0,4439.0,2126.0,Africa,AI Detection,Low,Content Removed,13396.0,7.57,6.8,8.88,7.09,Q3
+969,2024-06-03,06:33:20,Messaging App,YouTube,Video,Politics,High,4645.0,112.0,2456.0,North America,User Report,Low,Flagged as False,7213.0,3.65,4.59,0.2,8.2,Q3
+1011,2024-06-02,06:33:20,Forum,Instagram,Text,Climate,Medium,6967.0,2348.0,2518.0,Africa,User Report,High,Flagged as False,11833.0,6.58,6.94,4.68,8.41,Q3
+597,2024-06-02,06:32:24,Messaging App,YouTube,Image,Finance,High,5463.0,1426.0,2871.0,South America,User Report,Moderate,No Action,9760.0,5.26,5.42,2.84,9.59,Q3
+331,2024-06-02,06:32:24,News Website,Telegram,Text,Health,Medium,5636.0,1263.0,394.0,Africa,Manual Verification,Moderate,Limited Visibility,7293.0,3.7,5.59,2.51,1.29,Q3
+497,2024-06-01,06:32:24,Social Media,Twitter,Image,Climate,High,7874.0,4480.0,833.0,South America,AI Detection,Moderate,Flagged as False,13187.0,7.43,7.86,8.96,2.76,Q3
+279,2024-06-01,06:32:24,News Website,Twitter,Image,Technology,Low,4071.0,3346.0,1621.0,Europe,AI Detection,High,Limited Visibility,9038.0,4.81,4.01,6.68,5.4,Q3
+910,2024-06-01,06:33:20,News Website,Instagram,Text,Politics,Low,1938.0,615.0,1709.0,Africa,Manual Verification,Moderate,Flagged as False,4262.0,1.78,1.85,1.21,5.7,Q3
+371,2024-05-31,06:32:24,Blog,Reddit,Image,Celebrity News,Medium,7029.0,4875.0,2731.0,Europe,User Report,Moderate,Flagged as False,14635.0,8.35,7.0,9.75,9.12,Q3
+62,2024-05-31,06:30:50,Forum,YouTube,Image,Technology,Medium,1950.0,4603.0,1559.0,Africa,AI Detection,Low,Limited Visibility,8112.0,4.22,1.86,9.2,5.19,Q3
+1028,2024-05-31,06:33:20,Blog,WhatsApp,Image,Celebrity News,Low,7082.0,3551.0,1442.0,South America,AI Detection,Low,Content Removed,12075.0,6.73,7.06,7.1,4.8,Q3
+585,2024-05-31,06:32:24,Forum,Instagram,Text,Celebrity News,Low,2375.0,2115.0,1607.0,Europe,Manual Verification,Moderate,Content Removed,6097.0,2.94,2.29,4.22,5.35,Q3
+522,2024-05-31,06:32:24,News Website,YouTube,Video,Technology,Low,8918.0,496.0,1192.0,Asia,Manual Verification,High,Limited Visibility,10606.0,5.8,8.92,0.97,3.96,Q3
+192,2024-05-30,06:32:24,Blog,Twitter,Text,Politics,Medium,7235.0,4848.0,215.0,Asia,User Report,Moderate,Limited Visibility,12298.0,6.87,7.21,9.7,0.69,Q3
+1018,2024-05-30,06:33:20,News Website,Instagram,Video,Climate,High,7645.0,2582.0,2048.0,Africa,AI Detection,High,Limited Visibility,12275.0,6.86,7.63,5.15,6.83,Q3
+404,2024-05-30,06:32:24,Messaging App,Twitter,Video,Celebrity News,Medium,4831.0,1715.0,2195.0,Oceania,Manual Verification,Low,Limited Visibility,8741.0,4.62,4.78,3.42,7.32,Q3
+462,2024-05-29,06:32:24,Social Media,Reddit,Text,Celebrity News,Medium,9441.0,4195.0,730.0,Europe,Manual Verification,Moderate,Content Removed,14366.0,8.18,9.45,8.39,2.42,Q3
+913,2024-05-29,06:33:20,News Website,Instagram,Text,Health,Low,6569.0,2734.0,1041.0,North America,User Report,Low,Content Removed,10344.0,5.63,6.54,5.46,3.46,Q3
+1084,2024-05-28,06:33:20,Forum,Telegram,Image,Finance,High,7451.0,4836.0,1701.0,South America,User Report,Moderate,Flagged as False,13988.0,7.94,7.43,9.67,5.67,Q3
+248,2024-05-28,06:32:24,Blog,Telegram,Image,Finance,Low,1546.0,4269.0,1364.0,South America,Manual Verification,High,Flagged as False,7179.0,3.63,1.45,8.53,4.54,Q3
+68,2024-05-28,06:30:50,News Website,Reddit,Video,Technology,Medium,2490.0,3534.0,1691.0,Africa,User Report,Moderate,Content Removed,7715.0,3.97,2.41,7.06,5.63,Q3
+308,2024-05-28,06:32:24,Social Media,WhatsApp,Image,Politics,Medium,4850.0,3318.0,450.0,South America,AI Detection,Low,No Action,8618.0,4.54,4.8,6.63,1.48,Q3
+785,2024-05-28,06:33:20,Forum,Telegram,Video,Health,Low,7889.0,1226.0,705.0,Africa,AI Detection,High,No Action,9820.0,5.3,7.88,2.44,2.33,Q3
+104,2024-05-28,06:32:24,Messaging App,Instagram,Text,Health,Medium,8977.0,1047.0,1122.0,Oceania,AI Detection,High,Content Removed,11146.0,6.14,8.98,2.08,3.73,Q3
+437,2024-05-27,06:32:24,Social Media,Twitter,Text,Politics,Low,9736.0,2236.0,2258.0,South America,AI Detection,Low,No Action,14230.0,8.09,9.75,4.46,7.53,Q3
+200,2024-05-27,06:32:24,Forum,Reddit,Video,Climate,High,6693.0,2197.0,514.0,South America,User Report,Low,Content Removed,9404.0,5.04,6.66,4.38,1.69,Q3
+423,2024-05-26,06:32:24,News Website,Instagram,Image,Politics,Low,2956.0,4443.0,348.0,North America,AI Detection,High,Limited Visibility,7747.0,3.99,2.88,8.88,1.14,Q3
+86,2024-05-25,06:30:50,Social Media,Reddit,Text,Finance,High,5358.0,3916.0,2323.0,South America,User Report,Moderate,Flagged as False,11597.0,6.43,5.31,7.83,7.75,Q3
+209,2024-05-25,06:32:24,Messaging App,Twitter,Text,Celebrity News,Medium,5816.0,2639.0,714.0,South America,Manual Verification,High,Content Removed,9169.0,4.89,5.78,5.27,2.36,Q3
+115,2024-05-24,06:32:24,Messaging App,Telegram,Video,Finance,Medium,4507.0,4971.0,2797.0,Oceania,User Report,Low,Flagged as False,12275.0,6.86,4.45,9.94,9.34,Q3
+35,2024-05-24,06:30:50,Social Media,Telegram,Video,Technology,Medium,2653.0,2692.0,844.0,South America,Manual Verification,High,Flagged as False,6189.0,3.0,2.57,5.37,2.8,Q3
+50,2024-05-24,06:30:50,Social Media,Instagram,Text,Health,Low,4053.0,2120.0,748.0,North America,Manual Verification,Low,Limited Visibility,6921.0,3.46,3.99,4.23,2.48,Q3
+937,2024-05-24,06:33:20,Social Media,Telegram,Image,Politics,Low,7827.0,320.0,58.0,Asia,Manual Verification,Low,Limited Visibility,8205.0,4.28,7.81,0.62,0.16,Q3
+704,2024-05-24,06:33:20,Social Media,YouTube,Video,Climate,Medium,6949.0,254.0,9.0,North America,AI Detection,Moderate,No Action,7212.0,3.65,6.92,0.49,0.0,Q3
+116,2024-05-23,06:32:24,Messaging App,Reddit,Image,Climate,Medium,4454.0,3559.0,2973.0,Africa,Manual Verification,High,Limited Visibility,10986.0,6.04,4.4,7.11,9.93,Q3
+176,2024-05-23,06:32:24,News Website,WhatsApp,Text,Health,Medium,7783.0,624.0,129.0,Europe,AI Detection,High,Content Removed,8536.0,4.49,7.77,1.23,0.4,Q3
+546,2024-05-22,06:32:24,Social Media,Reddit,Image,Climate,Low,9028.0,2985.0,1424.0,North America,AI Detection,Moderate,Limited Visibility,13437.0,7.59,9.03,5.96,4.74,Q3
+821,2024-05-22,06:33:20,News Website,WhatsApp,Video,Technology,High,4029.0,2532.0,2781.0,Asia,Manual Verification,Moderate,No Action,9342.0,5.0,3.96,5.05,9.29,Q3
+542,2024-05-22,06:32:24,Social Media,Telegram,Video,Celebrity News,Low,7007.0,374.0,1084.0,South America,AI Detection,High,No Action,8465.0,4.44,6.98,0.73,3.6,Q3
+606,2024-05-22,06:33:20,Messaging App,Telegram,Text,Finance,Medium,9786.0,90.0,20.0,North America,User Report,Moderate,Flagged as False,9896.0,5.35,9.8,0.16,0.04,Q3
+379,2024-05-21,06:32:24,Social Media,Facebook,Text,Finance,Low,8061.0,4967.0,2820.0,Asia,AI Detection,High,Flagged as False,15848.0,9.12,8.05,9.93,9.42,Q3
+259,2024-05-21,06:32:24,Forum,Facebook,Image,Finance,Low,7989.0,4524.0,1730.0,Asia,Manual Verification,Moderate,Content Removed,14243.0,8.1,7.98,9.05,5.77,Q3
+725,2024-05-21,06:33:20,Forum,YouTube,Text,Climate,Medium,2715.0,4194.0,2680.0,Asia,Manual Verification,Moderate,Flagged as False,9589.0,5.15,2.63,8.38,8.95,Q3
+90,2024-05-21,06:30:50,News Website,Facebook,Text,Technology,High,1575.0,2764.0,667.0,Asia,AI Detection,Moderate,Content Removed,5006.0,2.25,1.48,5.52,2.2,Q3
+61,2024-05-21,06:30:50,Social Media,Facebook,Text,Finance,High,9088.0,1148.0,986.0,Asia,AI Detection,High,Content Removed,11222.0,6.19,9.09,2.28,3.27,Q3
+1087,2024-05-20,06:33:20,Social Media,WhatsApp,Text,Technology,High,199.0,3253.0,1814.0,South America,User Report,Low,Content Removed,5266.0,2.42,0.08,6.5,6.05,Q3
+216,2024-05-20,06:32:24,Forum,Twitter,Video,Health,Low,3655.0,3148.0,2854.0,Africa,AI Detection,Moderate,Limited Visibility,9657.0,5.2,3.59,6.29,9.53,Q3
+213,2024-05-20,06:32:24,Messaging App,Telegram,Image,Finance,Medium,1160.0,380.0,1897.0,Europe,Manual Verification,Moderate,Flagged as False,3437.0,1.26,1.06,0.74,6.32,Q3
+540,2024-05-19,06:32:24,Forum,Twitter,Video,Celebrity News,Low,4952.0,2261.0,463.0,South America,User Report,Moderate,No Action,7676.0,3.94,4.9,4.51,1.52,Q3
+254,2024-05-19,06:32:24,Blog,Reddit,Image,Finance,High,4454.0,1907.0,173.0,Africa,AI Detection,Moderate,Limited Visibility,6534.0,3.22,4.4,3.8,0.55,Q3
+388,2024-05-18,06:32:24,News Website,YouTube,Image,Politics,High,9336.0,3278.0,1085.0,Oceania,User Report,Low,Content Removed,13699.0,7.76,9.34,6.55,3.6,Q3
+1000,2024-05-18,06:33:20,Blog,YouTube,Video,Climate,Low,392.0,2324.0,1816.0,Europe,AI Detection,Moderate,No Action,4532.0,1.95,0.28,4.64,6.05,Q3
+1016,2024-05-18,06:33:20,Social Media,Telegram,Text,Finance,Medium,3963.0,1448.0,304.0,North America,Manual Verification,Moderate,Content Removed,5715.0,2.7,3.9,2.88,0.99,Q3
+713,2024-05-18,06:33:20,Forum,Facebook,Video,Politics,High,2075.0,803.0,1822.0,Europe,Manual Verification,High,Limited Visibility,4700.0,2.06,1.98,1.59,6.07,Q3
+751,2024-05-17,06:33:20,Messaging App,YouTube,Video,Politics,Medium,4993.0,983.0,1508.0,Africa,User Report,Low,No Action,7484.0,3.82,4.94,1.95,5.02,Q3
+705,2024-05-17,06:33:20,Blog,Instagram,Text,Climate,High,9856.0,62.0,1439.0,Oceania,User Report,Low,Flagged as False,11357.0,6.27,9.87,0.1,4.79,Q3
+1089,2024-05-17,06:33:20,Messaging App,WhatsApp,Text,Celebrity News,High,3165.0,35.0,202.0,Europe,AI Detection,Moderate,Flagged as False,3402.0,1.24,3.09,0.05,0.65,Q3
+1040,2024-05-16,06:33:20,Social Media,YouTube,Image,Technology,Low,499.0,1408.0,2835.0,Africa,User Report,High,No Action,4742.0,2.08,0.39,2.8,9.47,Q3
+451,2024-05-16,06:32:24,Blog,Instagram,Video,Technology,Medium,6480.0,470.0,312.0,North America,Manual Verification,Moderate,Limited Visibility,7262.0,3.68,6.45,0.92,1.02,Q3
+747,2024-05-15,06:33:20,Forum,WhatsApp,Image,Technology,High,9983.0,3971.0,1851.0,South America,AI Detection,High,Flagged as False,15805.0,9.09,10.0,7.94,6.17,Q3
+543,2024-05-15,06:32:24,Social Media,Instagram,Video,Climate,Low,7926.0,2164.0,1347.0,Asia,AI Detection,High,Limited Visibility,11437.0,6.32,7.91,4.32,4.48,Q3
+220,2024-05-15,06:32:24,Messaging App,WhatsApp,Image,Politics,Medium,6635.0,1380.0,1586.0,Africa,User Report,Low,No Action,9601.0,5.16,6.6,2.74,5.28,Q3
+1077,2024-05-15,06:33:20,Forum,Facebook,Text,Climate,Medium,7602.0,680.0,563.0,Oceania,User Report,High,Flagged as False,8845.0,4.68,7.58,1.34,1.86,Q3
+1062,2024-05-14,06:33:20,Social Media,Facebook,Text,Finance,Medium,6252.0,4456.0,176.0,Asia,AI Detection,Low,Content Removed,10884.0,5.97,6.22,8.91,0.56,Q3
+278,2024-05-14,06:32:24,Social Media,Facebook,Text,Finance,Low,1658.0,1077.0,1722.0,Africa,Manual Verification,Moderate,No Action,4457.0,1.9,1.56,2.14,5.74,Q3
+219,2024-05-13,06:32:24,Blog,Twitter,Video,Finance,High,9295.0,4337.0,2316.0,North America,User Report,High,Content Removed,15948.0,9.18,9.3,8.67,7.73,Q2
+277,2024-05-13,06:32:24,Blog,Twitter,Image,Climate,Medium,6520.0,2157.0,223.0,Africa,Manual Verification,High,Limited Visibility,8900.0,4.72,6.49,4.3,0.72,Q2
+963,2024-05-11,06:33:20,News Website,Reddit,Image,Climate,High,3582.0,3305.0,685.0,Africa,AI Detection,High,Flagged as False,7572.0,3.88,3.51,6.6,2.26,Q2
+775,2024-05-11,06:33:20,Forum,WhatsApp,Text,Finance,Medium,3191.0,2909.0,2667.0,Europe,User Report,High,Limited Visibility,8767.0,4.63,3.12,5.81,8.9,Q2
+1001,2024-05-11,06:33:20,Forum,Instagram,Image,Celebrity News,Medium,8599.0,2860.0,2580.0,Oceania,AI Detection,High,No Action,14039.0,7.97,8.59,5.71,8.61,Q2
+813,2024-05-10,06:33:20,Forum,Instagram,Image,Celebrity News,High,5256.0,1665.0,2477.0,Asia,Manual Verification,High,Content Removed,9398.0,5.03,5.21,3.32,8.27,Q2
+656,2024-05-10,06:33:20,News Website,Twitter,Video,Technology,High,2542.0,1453.0,517.0,North America,Manual Verification,High,Limited Visibility,4512.0,1.94,2.46,2.89,1.7,Q2
+550,2024-05-09,06:32:24,Social Media,Instagram,Image,Finance,Low,2743.0,4175.0,1709.0,South America,Manual Verification,High,Flagged as False,8627.0,4.54,2.66,8.35,5.7,Q2
+787,2024-05-09,06:33:20,News Website,Facebook,Image,Finance,Medium,156.0,3986.0,1503.0,North America,Manual Verification,Low,Flagged as False,5645.0,2.66,0.04,7.97,5.01,Q2
+66,2024-05-09,06:30:50,News Website,Reddit,Text,Celebrity News,Low,3036.0,2156.0,2206.0,South America,AI Detection,High,Limited Visibility,7398.0,3.77,2.96,4.3,7.36,Q2
+891,2024-05-08,06:33:20,Messaging App,Twitter,Text,Climate,Low,8369.0,3840.0,694.0,Asia,Manual Verification,Low,No Action,12903.0,7.25,8.36,7.67,2.29,Q2
+100,2024-05-08,06:30:50,News Website,Instagram,Video,Celebrity News,High,5183.0,3366.0,1812.0,Europe,User Report,Moderate,No Action,10361.0,5.64,5.13,6.72,6.04,Q2
+438,2024-05-08,06:32:24,Forum,Instagram,Video,Finance,Medium,8158.0,2804.0,482.0,Africa,User Report,Low,Limited Visibility,11444.0,6.33,8.15,5.6,1.58,Q2
+789,2024-05-08,06:33:20,News Website,WhatsApp,Video,Finance,Medium,5483.0,2194.0,1978.0,Africa,User Report,Moderate,Limited Visibility,9655.0,5.2,5.44,4.38,6.6,Q2
+240,2024-05-08,06:32:24,Messaging App,YouTube,Text,Celebrity News,Medium,1376.0,1175.0,435.0,South America,AI Detection,Moderate,Content Removed,2986.0,0.97,1.28,2.33,1.43,Q2
+811,2024-05-08,06:33:20,Social Media,Reddit,Text,Finance,Low,1809.0,985.0,1285.0,Oceania,AI Detection,Moderate,Limited Visibility,4079.0,1.66,1.72,1.95,4.27,Q2
+6,2024-05-08,06:30:50,Messaging App,Reddit,Text,Climate,Low,1994.0,16.0,901.0,Asia,User Report,Low,No Action,2911.0,0.92,1.9,0.01,2.99,Q2
+990,2024-05-07,06:33:20,Forum,Reddit,Video,Politics,Medium,9159.0,4634.0,2604.0,North America,Manual Verification,Low,No Action,16397.0,9.47,9.16,9.27,8.69,Q2
+443,2024-05-07,06:32:24,Forum,WhatsApp,Video,Celebrity News,High,9115.0,3294.0,298.0,Europe,Manual Verification,Moderate,Limited Visibility,12707.0,7.13,9.12,6.58,0.97,Q2
+790,2024-05-07,06:33:20,Forum,Facebook,Video,Politics,High,5942.0,3293.0,2213.0,Africa,Manual Verification,High,Flagged as False,11448.0,6.33,5.9,6.58,7.38,Q2
+576,2024-05-07,06:32:24,Forum,WhatsApp,Image,Technology,Low,7941.0,2231.0,2864.0,Europe,Manual Verification,Low,Content Removed,13036.0,7.34,7.93,4.45,9.56,Q2
+374,2024-05-07,06:32:24,Messaging App,Facebook,Video,Politics,Low,3558.0,200.0,2482.0,Asia,AI Detection,Moderate,Limited Visibility,6240.0,3.03,3.49,0.38,8.28,Q2
+44,2024-05-06,06:30:50,Forum,Facebook,Text,Health,Low,213.0,4772.0,2819.0,Asia,Manual Verification,High,No Action,7804.0,4.02,0.1,9.54,9.41,Q2
+980,2024-05-06,06:33:20,Messaging App,YouTube,Image,Politics,Low,3479.0,4572.0,1058.0,Oceania,User Report,Moderate,Content Removed,9109.0,4.85,3.41,9.14,3.51,Q2
+268,2024-05-06,06:32:24,Social Media,Facebook,Image,Health,Medium,4539.0,127.0,509.0,Europe,Manual Verification,Moderate,No Action,5175.0,2.36,4.48,0.23,1.68,Q2
+194,2024-05-06,06:32:24,News Website,YouTube,Video,Politics,Low,7963.0,50.0,1869.0,Asia,AI Detection,Low,Flagged as False,9882.0,5.34,7.95,0.08,6.23,Q2
+46,2024-05-05,06:30:50,Social Media,YouTube,Video,Climate,Medium,1844.0,4452.0,1171.0,North America,AI Detection,Low,Flagged as False,7467.0,3.81,1.75,8.9,3.89,Q2
+55,2024-05-05,06:30:50,Forum,WhatsApp,Video,Health,Medium,9257.0,4017.0,1194.0,Africa,Manual Verification,High,Flagged as False,14468.0,8.24,9.26,8.03,3.97,Q2
+22,2024-05-05,06:30:50,Blog,Facebook,Text,Politics,High,4552.0,1249.0,2315.0,Asia,AI Detection,High,Flagged as False,8116.0,4.22,4.49,2.48,7.73,Q2
+357,2024-05-05,06:32:24,Messaging App,Twitter,Image,Technology,Low,9548.0,754.0,2936.0,Africa,User Report,Moderate,Flagged as False,13238.0,7.47,9.56,1.49,9.81,Q2
+436,2024-05-05,06:32:24,Social Media,Telegram,Text,Health,Low,5448.0,662.0,2275.0,Oceania,Manual Verification,Low,Limited Visibility,8385.0,4.39,5.4,1.3,7.59,Q2
+136,2024-05-04,06:32:24,Social Media,Reddit,Image,Health,High,5133.0,4523.0,2575.0,Oceania,User Report,Low,Content Removed,12231.0,6.83,5.08,9.04,8.6,Q2
+52,2024-05-04,06:30:50,News Website,Twitter,Video,Politics,Low,1015.0,4256.0,1807.0,South America,AI Detection,Low,Flagged as False,7078.0,3.56,0.91,8.51,6.02,Q2
+814,2024-05-04,06:33:20,News Website,YouTube,Image,Health,High,3134.0,4152.0,1102.0,Oceania,AI Detection,Low,Flagged as False,8388.0,4.39,3.06,8.3,3.66,Q2
+521,2024-05-04,06:32:24,Messaging App,Twitter,Image,Finance,Medium,8561.0,3467.0,69.0,Europe,Manual Verification,High,Limited Visibility,12097.0,6.74,8.56,6.93,0.2,Q2
+651,2024-05-04,06:33:20,News Website,WhatsApp,Image,Technology,Low,3985.0,2849.0,913.0,Europe,User Report,Moderate,No Action,7747.0,3.99,3.92,5.69,3.03,Q2
+560,2024-05-04,06:32:24,Messaging App,Instagram,Image,Celebrity News,Medium,7358.0,2068.0,395.0,North America,User Report,Moderate,No Action,9821.0,5.3,7.34,4.12,1.29,Q2
+446,2024-05-04,06:32:24,Social Media,Reddit,Video,Health,Medium,8463.0,1889.0,1408.0,North America,Manual Verification,Low,Content Removed,11760.0,6.53,8.46,3.76,4.69,Q2
+203,2024-05-04,06:32:24,Blog,Telegram,Video,Technology,Low,8603.0,1560.0,1083.0,North America,User Report,Moderate,No Action,11246.0,6.2,8.6,3.1,3.6,Q2
+556,2024-05-04,06:32:24,News Website,YouTube,Text,Climate,High,7482.0,1057.0,47.0,North America,AI Detection,Low,No Action,8586.0,4.52,7.46,2.1,0.13,Q2
+676,2024-05-03,06:33:20,Social Media,YouTube,Image,Climate,Medium,207.0,4836.0,311.0,North America,Manual Verification,Low,No Action,5354.0,2.47,0.09,9.67,1.01,Q2
+1017,2024-05-03,06:33:20,Blog,Twitter,Text,Politics,Medium,6322.0,4728.0,2808.0,South America,AI Detection,High,No Action,13858.0,7.86,6.29,9.45,9.38,Q2
+317,2024-05-03,06:32:24,News Website,YouTube,Text,Technology,Low,637.0,3763.0,2190.0,Africa,AI Detection,Moderate,Flagged as False,6590.0,3.25,0.53,7.52,7.31,Q2
+412,2024-05-03,06:32:24,Messaging App,WhatsApp,Video,Climate,Low,1051.0,3749.0,1596.0,Asia,User Report,Moderate,Flagged as False,6396.0,3.13,0.95,7.49,5.32,Q2
+124,2024-05-03,06:32:24,Forum,Twitter,Video,Health,Low,7610.0,1345.0,1476.0,North America,Manual Verification,Moderate,Limited Visibility,10431.0,5.69,7.59,2.67,4.91,Q2
+571,2024-05-03,06:32:24,Forum,YouTube,Image,Finance,Low,1219.0,305.0,1240.0,North America,AI Detection,Moderate,Limited Visibility,2764.0,0.83,1.12,0.59,4.12,Q2
+834,2024-05-02,06:33:20,Social Media,Twitter,Text,Health,Medium,2938.0,1975.0,97.0,Oceania,AI Detection,Low,Flagged as False,5010.0,2.25,2.86,3.94,0.29,Q2
+322,2024-05-01,06:32:24,Social Media,Telegram,Text,Celebrity News,High,3852.0,2629.0,2448.0,Asia,Manual Verification,Low,Limited Visibility,8929.0,4.74,3.79,5.25,8.17,Q2
+14,2024-05-01,06:30:50,Forum,Telegram,Image,Health,High,7894.0,1966.0,2389.0,Asia,Manual Verification,High,Flagged as False,12249.0,6.84,7.88,3.92,7.97,Q2
+344,2024-05-01,06:32:24,Social Media,Facebook,Text,Finance,Medium,7742.0,1068.0,722.0,Africa,Manual Verification,High,No Action,9532.0,5.12,7.73,2.12,2.39,Q2
+1034,2024-04-30,06:33:20,Social Media,Reddit,Text,Technology,Medium,5831.0,962.0,1633.0,Asia,User Report,Moderate,Content Removed,8426.0,4.42,5.79,1.91,5.44,Q2
+966,2024-04-29,06:33:20,Forum,Reddit,Image,Technology,High,7569.0,3652.0,1666.0,North America,User Report,High,Flagged as False,12887.0,7.24,7.55,7.3,5.55,Q2
+328,2024-04-29,06:32:24,Forum,Telegram,Image,Politics,Low,7004.0,3527.0,2785.0,South America,Manual Verification,High,Flagged as False,13316.0,7.51,6.98,7.05,9.3,Q2
+531,2024-04-29,06:32:24,Forum,Facebook,Video,Politics,High,3719.0,757.0,1532.0,Asia,User Report,Moderate,No Action,6008.0,2.89,3.65,1.5,5.1,Q2
+127,2024-04-28,06:32:24,Blog,Instagram,Image,Finance,Medium,5803.0,3404.0,2290.0,Asia,AI Detection,Low,Limited Visibility,11497.0,6.36,5.76,6.8,7.64,Q2
+755,2024-04-28,06:33:20,Blog,WhatsApp,Text,Politics,Medium,6423.0,1286.0,1907.0,North America,AI Detection,Moderate,Limited Visibility,9616.0,5.17,6.39,2.56,6.36,Q2
+352,2024-04-27,06:32:24,Social Media,Facebook,Text,Celebrity News,High,3138.0,4378.0,1077.0,Europe,AI Detection,Low,Content Removed,8593.0,4.52,3.06,8.75,3.58,Q2
+853,2024-04-27,06:33:20,News Website,Reddit,Image,Politics,Low,5757.0,3261.0,2333.0,Asia,Manual Verification,Low,Content Removed,11351.0,6.27,5.72,6.51,7.79,Q2
+638,2024-04-27,06:33:20,Messaging App,Twitter,Video,Finance,High,2736.0,1050.0,432.0,Africa,User Report,Moderate,No Action,4218.0,1.75,2.65,2.08,1.42,Q2
+678,2024-04-26,06:33:20,News Website,Twitter,Image,Climate,Low,8161.0,4087.0,1620.0,Europe,Manual Verification,Low,Content Removed,13868.0,7.86,8.15,8.17,5.4,Q2
+794,2024-04-26,06:33:20,Forum,YouTube,Text,Finance,Low,5925.0,3203.0,1882.0,Oceania,User Report,Low,Content Removed,11010.0,6.05,5.89,6.4,6.27,Q2
+502,2024-04-26,06:32:24,Messaging App,YouTube,Text,Celebrity News,Medium,8374.0,2476.0,1602.0,Europe,User Report,High,No Action,12452.0,6.97,8.37,4.94,5.34,Q2
+49,2024-04-26,06:30:50,Social Media,WhatsApp,Video,Finance,Medium,9945.0,838.0,1256.0,South America,User Report,Moderate,Content Removed,12039.0,6.71,9.96,1.66,4.18,Q2
+226,2024-04-25,06:32:24,Messaging App,Reddit,Video,Celebrity News,Medium,7685.0,4228.0,1246.0,Europe,User Report,Moderate,No Action,13159.0,7.42,7.67,8.45,4.14,Q2
+899,2024-04-25,06:33:20,Social Media,Twitter,Video,Finance,Low,2726.0,3394.0,295.0,South America,User Report,High,Limited Visibility,6415.0,3.14,2.64,6.78,0.96,Q2
+528,2024-04-25,06:32:24,Social Media,Telegram,Image,Health,High,8923.0,2757.0,2462.0,South America,Manual Verification,Low,Flagged as False,14142.0,8.04,8.92,5.5,8.22,Q2
+84,2024-04-24,06:30:50,Messaging App,Twitter,Video,Health,High,5866.0,3952.0,407.0,Africa,Manual Verification,Moderate,Content Removed,10225.0,5.56,5.83,7.9,1.33,Q2
+724,2024-04-24,06:33:20,Social Media,Twitter,Image,Health,Medium,2031.0,2421.0,2149.0,North America,Manual Verification,High,No Action,6601.0,3.26,1.94,4.83,7.17,Q2
+843,2024-04-24,06:33:20,Messaging App,WhatsApp,Video,Health,Low,9465.0,2398.0,743.0,Asia,User Report,Low,Content Removed,12606.0,7.07,9.47,4.78,2.46,Q2
+578,2024-04-24,06:32:24,News Website,Instagram,Text,Technology,Low,7870.0,1826.0,327.0,Europe,User Report,High,Content Removed,10023.0,5.43,7.86,3.64,1.07,Q2
+478,2024-04-24,06:32:24,Social Media,YouTube,Text,Politics,Low,237.0,1732.0,607.0,Oceania,Manual Verification,High,No Action,2576.0,0.71,0.12,3.45,2.0,Q2
+205,2024-04-24,06:32:24,Forum,Twitter,Image,Technology,Low,9609.0,391.0,2586.0,Oceania,AI Detection,Moderate,Content Removed,12586.0,7.05,9.62,0.76,8.63,Q2
+780,2024-04-23,06:33:20,Forum,YouTube,Video,Technology,Medium,6705.0,1468.0,1241.0,North America,AI Detection,Low,No Action,9414.0,5.04,6.68,2.92,4.13,Q2
+307,2024-04-22,06:32:24,News Website,YouTube,Image,Health,Low,9112.0,4826.0,1714.0,North America,User Report,Low,Limited Visibility,15652.0,8.99,9.11,9.65,5.71,Q2
+2,2024-04-22,06:30:50,Blog,Reddit,Text,Technology,Medium,663.0,3638.0,2734.0,Asia,User Report,High,Flagged as False,7035.0,3.54,0.55,7.27,9.13,Q2
+471,2024-04-22,06:32:24,News Website,Reddit,Video,Technology,Medium,3006.0,1099.0,1952.0,Asia,Manual Verification,Low,Flagged as False,6057.0,2.92,2.93,2.18,6.51,Q2
+911,2024-04-21,06:33:20,Messaging App,WhatsApp,Video,Climate,High,5503.0,4556.0,1753.0,Europe,User Report,Low,Flagged as False,11812.0,6.56,5.46,9.11,5.84,Q2
+524,2024-04-21,06:32:24,News Website,Instagram,Video,Politics,Medium,9837.0,3885.0,1849.0,Europe,AI Detection,Low,Flagged as False,15571.0,8.94,9.85,7.77,6.16,Q2
+347,2024-04-21,06:32:24,Blog,YouTube,Video,Politics,High,6835.0,1275.0,935.0,Africa,User Report,Low,Limited Visibility,9045.0,4.81,6.81,2.53,3.1,Q2
+1047,2024-04-21,06:33:20,News Website,Instagram,Video,Celebrity News,High,719.0,317.0,1760.0,Europe,AI Detection,Moderate,No Action,2796.0,0.85,0.61,0.61,5.87,Q2
+80,2024-04-20,06:30:50,Messaging App,WhatsApp,Image,Politics,Medium,4342.0,4780.0,1260.0,North America,AI Detection,Low,Flagged as False,10382.0,5.66,4.28,9.56,4.19,Q2
+282,2024-04-20,06:32:24,News Website,Facebook,Text,Politics,High,2776.0,4495.0,2547.0,Africa,User Report,Low,Content Removed,9818.0,5.3,2.7,8.99,8.5,Q2
+746,2024-04-20,06:33:20,Messaging App,Instagram,Image,Finance,Medium,3721.0,2349.0,1461.0,Asia,User Report,Low,Content Removed,7531.0,3.85,3.65,4.69,4.86,Q2
+905,2024-04-19,06:33:20,Messaging App,Twitter,Image,Finance,High,1431.0,1958.0,232.0,North America,Manual Verification,Low,Content Removed,3621.0,1.37,1.33,3.9,0.75,Q2
+1043,2024-04-19,06:33:20,Blog,Reddit,Text,Finance,High,5122.0,771.0,852.0,Europe,AI Detection,Moderate,Flagged as False,6745.0,3.35,5.07,1.52,2.82,Q2
+613,2024-04-18,06:33:20,Messaging App,Reddit,Video,Climate,High,6335.0,3506.0,889.0,Oceania,AI Detection,Low,Flagged as False,10730.0,5.88,6.3,7.01,2.95,Q2
+609,2024-04-18,06:33:20,Blog,Instagram,Text,Climate,Low,3910.0,3239.0,1532.0,North America,Manual Verification,Moderate,Flagged as False,8681.0,4.58,3.84,6.47,5.1,Q2
+417,2024-04-18,06:32:24,Social Media,Facebook,Video,Finance,High,7923.0,2224.0,979.0,Asia,User Report,Low,Flagged as False,11126.0,6.13,7.91,4.44,3.25,Q2
+994,2024-04-18,06:33:20,Blog,YouTube,Video,Health,Medium,1658.0,339.0,575.0,North America,AI Detection,Moderate,No Action,2572.0,0.71,1.56,0.66,1.9,Q2
+330,2024-04-17,06:32:24,Blog,YouTube,Image,Climate,Medium,7396.0,4555.0,1883.0,Europe,Manual Verification,Moderate,Content Removed,13834.0,7.84,7.38,9.11,6.28,Q2
+334,2024-04-17,06:32:24,Blog,Twitter,Text,Climate,High,4275.0,2070.0,1912.0,North America,Manual Verification,High,Content Removed,8257.0,4.31,4.21,4.13,6.38,Q2
+67,2024-04-17,06:30:50,Forum,Twitter,Image,Celebrity News,Low,2596.0,2017.0,2735.0,North America,Manual Verification,Moderate,Limited Visibility,7348.0,3.73,2.51,4.02,9.13,Q2
+615,2024-04-16,06:33:20,Social Media,YouTube,Text,Celebrity News,Low,3296.0,118.0,368.0,Oceania,User Report,High,Flagged as False,3782.0,1.48,3.22,0.21,1.2,Q2
+902,2024-04-15,06:33:20,Forum,Telegram,Image,Celebrity News,Medium,8074.0,4168.0,1253.0,Europe,Manual Verification,Moderate,Flagged as False,13495.0,7.63,8.06,8.33,4.17,Q2
+687,2024-04-15,06:33:20,Messaging App,Telegram,Video,Health,High,2905.0,3456.0,598.0,Europe,Manual Verification,Low,Limited Visibility,6959.0,3.49,2.83,6.91,1.97,Q2
+1050,2024-04-15,06:33:20,Social Media,Instagram,Image,Health,High,8309.0,2129.0,615.0,Africa,Manual Verification,Low,Content Removed,11053.0,6.08,8.3,4.25,2.03,Q2
+896,2024-04-15,06:33:20,Forum,Reddit,Text,Health,Medium,4181.0,518.0,1352.0,Asia,Manual Verification,Low,Flagged as False,6051.0,2.91,4.12,1.02,4.5,Q2
+588,2024-04-14,06:32:24,News Website,Telegram,Video,Climate,Low,8376.0,4776.0,103.0,Europe,AI Detection,Moderate,Flagged as False,13255.0,7.48,8.37,9.55,0.31,Q2
+160,2024-04-14,06:32:24,Social Media,Facebook,Text,Technology,Low,1833.0,4074.0,2255.0,Oceania,Manual Verification,Low,Content Removed,8162.0,4.25,1.74,8.14,7.52,Q2
+1095,2024-04-14,06:33:20,Blog,Telegram,Video,Climate,High,8094.0,1905.0,761.0,South America,User Report,High,Flagged as False,10760.0,5.9,8.08,3.8,2.52,Q2
+37,2024-04-14,06:30:50,Social Media,Twitter,Image,Climate,Medium,5857.0,1837.0,1877.0,Oceania,AI Detection,Moderate,No Action,9571.0,5.14,5.82,3.66,6.26,Q2
+272,2024-04-14,06:32:24,Messaging App,Instagram,Image,Celebrity News,Medium,1108.0,101.0,947.0,South America,AI Detection,Moderate,Content Removed,2156.0,0.45,1.01,0.18,3.14,Q2
+567,2024-04-13,06:32:24,Blog,WhatsApp,Text,Celebrity News,Low,895.0,4763.0,2203.0,Africa,Manual Verification,High,Flagged as False,7861.0,4.06,0.79,9.52,7.35,Q2
+539,2024-04-13,06:32:24,Social Media,WhatsApp,Image,Climate,Low,271.0,4419.0,2943.0,Europe,User Report,Low,Flagged as False,7633.0,3.92,0.16,8.84,9.83,Q2
+768,2024-04-13,06:33:20,News Website,YouTube,Image,Politics,High,5443.0,2204.0,987.0,Asia,User Report,Low,Flagged as False,8634.0,4.55,5.4,4.4,3.28,Q2
+922,2024-04-12,06:33:20,Forum,Reddit,Image,Climate,Low,3862.0,3681.0,2016.0,Africa,AI Detection,Low,No Action,9559.0,5.14,3.8,7.36,6.72,Q2
+942,2024-04-12,06:33:20,News Website,Telegram,Image,Climate,Low,5769.0,582.0,1201.0,Asia,User Report,Low,Limited Visibility,7552.0,3.86,5.73,1.14,3.99,Q2
+161,2024-04-10,06:32:24,Forum,Reddit,Text,Celebrity News,High,189.0,3431.0,1497.0,Asia,AI Detection,Low,Limited Visibility,5117.0,2.32,0.07,6.86,4.98,Q2
+699,2024-04-10,06:33:20,Social Media,YouTube,Video,Climate,Medium,5846.0,2952.0,2121.0,South America,User Report,High,Limited Visibility,10919.0,6.0,5.81,5.89,7.08,Q2
+235,2024-04-10,06:32:24,Social Media,Instagram,Image,Technology,Medium,9031.0,2515.0,1326.0,Asia,Manual Verification,Low,Flagged as False,12872.0,7.23,9.03,5.02,4.41,Q2
+750,2024-04-09,06:33:20,Social Media,YouTube,Video,Celebrity News,Medium,2363.0,4989.0,959.0,North America,Manual Verification,Moderate,Flagged as False,8311.0,4.34,2.28,9.98,3.18,Q2
+619,2024-04-09,06:33:20,Messaging App,YouTube,Video,Technology,Medium,7494.0,1160.0,2480.0,Oceania,User Report,High,Content Removed,11134.0,6.13,7.48,2.3,8.28,Q2
+162,2024-04-09,06:32:24,Messaging App,YouTube,Video,Politics,Low,7574.0,382.0,35.0,Europe,AI Detection,Moderate,Content Removed,7991.0,4.14,7.56,0.74,0.09,Q2
+415,2024-04-08,06:32:24,Blog,Twitter,Image,Health,Medium,7611.0,2469.0,2941.0,Africa,User Report,Moderate,Limited Visibility,13021.0,7.33,7.59,4.93,9.82,Q2
+202,2024-04-08,06:32:24,Messaging App,WhatsApp,Image,Health,Low,8212.0,1858.0,1503.0,South America,User Report,High,Flagged as False,11573.0,6.41,8.2,3.7,5.01,Q2
+817,2024-04-08,06:33:20,Social Media,Reddit,Text,Technology,Low,9467.0,1717.0,2469.0,Asia,User Report,Low,Content Removed,13653.0,7.73,9.47,3.42,8.24,Q2
+600,2024-04-07,06:32:24,Messaging App,Twitter,Video,Climate,High,7037.0,2427.0,723.0,Asia,AI Detection,High,No Action,10187.0,5.53,7.01,4.84,2.39,Q2
+258,2024-04-07,06:32:24,Messaging App,Reddit,Image,Politics,Medium,8198.0,1420.0,467.0,South America,Manual Verification,Moderate,Flagged as False,10085.0,5.47,8.19,2.82,1.53,Q2
+835,2024-04-06,06:33:20,Forum,Telegram,Text,Technology,High,6991.0,3162.0,936.0,Europe,User Report,Moderate,Flagged as False,11089.0,6.1,6.97,6.32,3.11,Q2
+149,2024-04-06,06:32:24,News Website,WhatsApp,Image,Celebrity News,Medium,5038.0,2324.0,836.0,Africa,User Report,High,No Action,8198.0,4.27,4.99,4.64,2.77,Q2
+882,2024-04-05,06:33:20,Blog,Telegram,Video,Politics,Medium,5816.0,4389.0,2632.0,Africa,Manual Verification,Moderate,Flagged as False,12837.0,7.21,5.78,8.78,8.79,Q2
+1026,2024-04-05,06:33:20,Social Media,Telegram,Image,Technology,Medium,9692.0,3973.0,1950.0,Africa,User Report,Moderate,Limited Visibility,15615.0,8.97,9.7,7.94,6.5,Q2
+215,2024-04-05,06:32:24,Messaging App,Twitter,Image,Celebrity News,Medium,9479.0,2425.0,1179.0,North America,AI Detection,Low,Limited Visibility,13083.0,7.37,9.49,4.84,3.92,Q2
+400,2024-04-04,06:32:24,Messaging App,Twitter,Image,Health,Low,2260.0,4892.0,2314.0,North America,Manual Verification,Low,Content Removed,9466.0,5.08,2.17,9.78,7.72,Q2
+952,2024-04-04,06:33:20,News Website,YouTube,Video,Technology,Low,4688.0,4344.0,2072.0,North America,Manual Verification,Low,No Action,11104.0,6.11,4.63,8.69,6.91,Q2
+652,2024-04-04,06:33:20,Social Media,Twitter,Text,Celebrity News,High,2072.0,3332.0,21.0,Europe,Manual Verification,Moderate,Limited Visibility,5425.0,2.52,1.98,6.66,0.04,Q2
+223,2024-04-04,06:32:24,Social Media,Twitter,Text,Celebrity News,Low,6780.0,414.0,826.0,Asia,User Report,Low,Flagged as False,8020.0,4.16,6.75,0.81,2.74,Q2
+304,2024-04-03,06:32:24,Blog,Twitter,Image,Health,Low,5448.0,2763.0,974.0,Asia,AI Detection,Low,Flagged as False,9185.0,4.9,5.4,5.52,3.23,Q2
+447,2024-04-03,06:32:24,Blog,YouTube,Text,Politics,Medium,2332.0,2671.0,668.0,Europe,AI Detection,Low,Limited Visibility,5671.0,2.67,2.25,5.33,2.21,Q2
+224,2024-04-03,06:32:24,Messaging App,Telegram,Image,Technology,High,5035.0,2622.0,2380.0,Europe,Manual Verification,Low,Content Removed,10037.0,5.44,4.98,5.23,7.94,Q2
+353,2024-04-03,06:32:24,News Website,Instagram,Video,Politics,Medium,9146.0,1466.0,1954.0,North America,User Report,High,Flagged as False,12566.0,7.04,9.15,2.92,6.52,Q2
+566,2024-04-03,06:32:24,Social Media,Instagram,Text,Celebrity News,High,2580.0,1370.0,71.0,Africa,Manual Verification,Low,Content Removed,4021.0,1.63,2.5,2.72,0.21,Q2
+516,2024-04-02,06:32:24,Social Media,YouTube,Image,Technology,Medium,1072.0,4659.0,38.0,South America,Manual Verification,Moderate,Limited Visibility,5769.0,2.73,0.97,9.32,0.1,Q2
+959,2024-04-02,06:33:20,Social Media,WhatsApp,Text,Health,High,3478.0,52.0,1229.0,Europe,Manual Verification,High,Limited Visibility,4759.0,2.1,3.41,0.08,4.09,Q2
+696,2024-04-01,06:33:20,Blog,WhatsApp,Text,Technology,Low,4174.0,4011.0,322.0,North America,AI Detection,Low,Flagged as False,8507.0,4.47,4.11,8.02,1.05,Q2
+900,2024-03-31,06:33:20,Social Media,Twitter,Video,Celebrity News,High,2816.0,2406.0,2083.0,Asia,Manual Verification,High,Limited Visibility,7305.0,3.71,2.74,4.8,6.95,Q2
+964,2024-03-31,06:33:20,Forum,Telegram,Video,Politics,High,4209.0,1579.0,1222.0,Europe,AI Detection,Low,Content Removed,7010.0,3.52,4.15,3.14,4.06,Q2
+1063,2024-03-30,06:33:20,Blog,Instagram,Video,Technology,Medium,846.0,4229.0,1893.0,North America,User Report,Low,Flagged as False,6968.0,3.49,0.74,8.45,6.31,Q2
+592,2024-03-30,06:32:24,Messaging App,Reddit,Video,Politics,High,982.0,2506.0,1143.0,North America,Manual Verification,Moderate,Limited Visibility,4631.0,2.01,0.88,5.0,3.8,Q2
+407,2024-03-30,06:32:24,Forum,YouTube,Video,Politics,High,2907.0,1510.0,2038.0,South America,User Report,High,No Action,6455.0,3.17,2.83,3.0,6.8,Q2
+1068,2024-03-30,06:33:20,Social Media,WhatsApp,Text,Technology,High,2971.0,21.0,2499.0,Africa,User Report,High,Flagged as False,5491.0,2.56,2.89,0.02,8.34,Q2
+583,2024-03-29,06:32:24,Forum,Telegram,Video,Health,Low,3510.0,4485.0,2199.0,Asia,AI Detection,Moderate,Flagged as False,10194.0,5.54,3.44,8.97,7.34,Q2
+185,2024-03-29,06:32:24,Social Media,Facebook,Image,Politics,Medium,508.0,3489.0,1612.0,South America,AI Detection,Low,Flagged as False,5609.0,2.63,0.4,6.97,5.37,Q2
+765,2024-03-29,06:33:20,Messaging App,Facebook,Video,Finance,High,8350.0,1671.0,1562.0,Africa,User Report,High,No Action,11583.0,6.42,8.34,3.33,5.2,Q2
+263,2024-03-29,06:32:24,Social Media,Instagram,Video,Politics,High,3653.0,260.0,2614.0,Oceania,Manual Verification,Low,Limited Visibility,6527.0,3.21,3.58,0.5,8.73,Q2
+73,2024-03-28,06:30:50,Social Media,Instagram,Text,Politics,High,8478.0,3597.0,2058.0,South America,User Report,Low,Limited Visibility,14133.0,8.03,8.47,7.19,6.86,Q2
+577,2024-03-28,06:32:24,Social Media,Instagram,Video,Finance,Low,9282.0,2848.0,1193.0,Oceania,User Report,Moderate,Limited Visibility,13323.0,7.52,9.29,5.69,3.97,Q2
+985,2024-03-27,06:33:20,News Website,YouTube,Text,Health,Low,6705.0,257.0,2209.0,North America,Manual Verification,Moderate,Flagged as False,9171.0,4.89,6.68,0.49,7.37,Q2
+709,2024-03-27,06:33:20,Social Media,YouTube,Text,Finance,High,180.0,169.0,2231.0,Europe,User Report,Moderate,Content Removed,2580.0,0.72,0.06,0.32,7.44,Q2
+108,2024-03-26,06:32:24,Messaging App,Instagram,Video,Politics,High,7178.0,3669.0,601.0,Asia,User Report,Moderate,Limited Visibility,11448.0,6.33,7.16,7.33,1.98,Q2
+256,2024-03-26,06:32:24,News Website,Telegram,Video,Health,High,7388.0,1819.0,2311.0,North America,AI Detection,Moderate,Content Removed,11518.0,6.38,7.37,3.62,7.71,Q2
+3,2024-03-26,06:30:50,Messaging App,Twitter,Text,Politics,Medium,2333.0,82.0,2294.0,South America,Manual Verification,Low,Limited Visibility,4709.0,2.06,2.25,0.14,7.65,Q2
+659,2024-03-25,06:33:20,Blog,Telegram,Text,Finance,High,829.0,4679.0,1259.0,North America,User Report,Low,Content Removed,6767.0,3.37,0.72,9.36,4.19,Q2
+252,2024-03-25,06:32:24,Forum,YouTube,Image,Celebrity News,Medium,4391.0,3323.0,1344.0,South America,Manual Verification,High,Flagged as False,9058.0,4.82,4.33,6.64,4.47,Q2
+16,2024-03-25,06:30:50,Messaging App,Twitter,Image,Technology,Medium,658.0,1617.0,2285.0,Oceania,User Report,Moderate,No Action,4560.0,1.97,0.55,3.22,7.62,Q2
+475,2024-03-25,06:32:24,Forum,WhatsApp,Text,Technology,High,2044.0,1499.0,2049.0,Europe,Manual Verification,High,Flagged as False,5592.0,2.62,1.95,2.98,6.83,Q2
+126,2024-03-25,06:32:24,News Website,Facebook,Image,Climate,High,819.0,407.0,1190.0,Asia,Manual Verification,Low,Limited Visibility,2416.0,0.61,0.71,0.79,3.96,Q2
+111,2024-03-24,06:32:24,News Website,Instagram,Image,Finance,High,1116.0,3841.0,1455.0,North America,User Report,Low,Content Removed,6412.0,3.14,1.01,7.68,4.84,Q2
+544,2024-03-24,06:32:24,Forum,WhatsApp,Video,Celebrity News,High,3137.0,3747.0,113.0,Africa,User Report,High,Content Removed,6997.0,3.51,3.06,7.49,0.35,Q2
+645,2024-03-24,06:33:20,Blog,YouTube,Image,Politics,Low,3504.0,2041.0,17.0,North America,AI Detection,Low,Flagged as False,5562.0,2.6,3.43,4.07,0.03,Q2
+1070,2024-03-24,06:33:20,Social Media,WhatsApp,Text,Technology,Low,5342.0,1046.0,1899.0,Oceania,AI Detection,Low,Limited Visibility,8287.0,4.33,5.29,2.07,6.33,Q2
+262,2024-03-23,06:32:24,News Website,Telegram,Image,Politics,Medium,9739.0,3904.0,528.0,Africa,AI Detection,Moderate,Limited Visibility,14171.0,8.06,9.75,7.8,1.74,Q2
+1027,2024-03-23,06:33:20,Forum,WhatsApp,Image,Politics,Low,4488.0,3558.0,1358.0,South America,Manual Verification,Moderate,No Action,9404.0,5.04,4.43,7.11,4.52,Q2
+584,2024-03-23,06:32:24,Blog,Twitter,Text,Climate,Medium,2933.0,1939.0,2289.0,Europe,Manual Verification,High,Limited Visibility,7161.0,3.62,2.85,3.86,7.64,Q2
+332,2024-03-22,06:32:24,Social Media,Telegram,Image,Celebrity News,Medium,8630.0,3998.0,2659.0,Oceania,Manual Verification,Moderate,Limited Visibility,15287.0,8.76,8.63,7.99,8.88,Q2
+172,2024-03-22,06:32:24,Blog,Facebook,Video,Celebrity News,Medium,8596.0,2977.0,977.0,Oceania,Manual Verification,High,No Action,12550.0,7.03,8.59,5.95,3.24,Q2
+110,2024-03-21,06:32:24,Forum,Instagram,Video,Health,Low,3942.0,3114.0,277.0,North America,User Report,Moderate,Limited Visibility,7333.0,3.73,3.88,6.22,0.9,Q2
+1075,2024-03-21,06:33:20,Forum,WhatsApp,Text,Climate,Medium,5584.0,2938.0,2990.0,South America,AI Detection,High,Flagged as False,11512.0,6.37,5.54,5.87,9.99,Q2
+833,2024-03-20,06:33:20,Social Media,Facebook,Video,Politics,High,9295.0,3340.0,1373.0,Asia,AI Detection,Low,Limited Visibility,14008.0,7.95,9.3,6.67,4.57,Q2
+131,2024-03-20,06:32:24,Social Media,Facebook,Text,Technology,Medium,9883.0,2326.0,1400.0,Asia,AI Detection,Moderate,Flagged as False,13609.0,7.7,9.9,4.64,4.66,Q2
+808,2024-03-19,06:33:20,Blog,Telegram,Video,Celebrity News,Low,843.0,4067.0,78.0,Africa,AI Detection,High,Limited Visibility,4988.0,2.24,0.74,8.13,0.23,Q2
+665,2024-03-19,06:33:20,Blog,Twitter,Image,Celebrity News,Low,7202.0,2603.0,1627.0,Europe,Manual Verification,Moderate,Content Removed,11432.0,6.32,7.18,5.2,5.42,Q2
+103,2024-03-18,06:32:24,News Website,YouTube,Video,Climate,Low,8912.0,4719.0,2572.0,Europe,Manual Verification,Low,Content Removed,16203.0,9.34,8.91,9.44,8.59,Q2
+458,2024-03-18,06:32:24,Messaging App,Reddit,Video,Climate,Low,2904.0,3902.0,2171.0,Africa,AI Detection,Low,Limited Visibility,8977.0,4.77,2.82,7.8,7.24,Q2
+634,2024-03-18,06:33:20,Social Media,Instagram,Text,Politics,Medium,5431.0,3328.0,2579.0,Africa,User Report,High,Content Removed,11338.0,6.26,5.39,6.65,8.61,Q2
+69,2024-03-17,06:30:50,Blog,Facebook,Video,Health,Medium,4264.0,3806.0,277.0,South America,User Report,High,No Action,8347.0,4.37,4.2,7.61,0.9,Q2
+171,2024-03-17,06:32:24,Forum,Instagram,Image,Finance,Low,8287.0,3091.0,1867.0,Oceania,Manual Verification,Low,Limited Visibility,13245.0,7.47,8.28,6.17,6.22,Q2
+823,2024-03-17,06:33:20,Social Media,Instagram,Video,Finance,Low,1116.0,2825.0,796.0,Asia,AI Detection,Low,Content Removed,4737.0,2.08,1.01,5.64,2.64,Q2
+901,2024-03-17,06:33:20,Forum,Reddit,Image,Climate,Low,2219.0,2236.0,1926.0,Asia,Manual Verification,Moderate,Flagged as False,6381.0,3.12,2.13,4.46,6.42,Q2
+346,2024-03-17,06:32:24,Messaging App,WhatsApp,Video,Politics,High,8133.0,1874.0,963.0,South America,User Report,Moderate,Flagged as False,10970.0,6.03,8.12,3.73,3.2,Q2
+958,2024-03-17,06:33:20,Messaging App,Facebook,Text,Celebrity News,Medium,3110.0,1771.0,2678.0,North America,AI Detection,Low,Limited Visibility,7559.0,3.87,3.03,3.53,8.94,Q2
+761,2024-03-16,06:33:20,Social Media,YouTube,Image,Climate,Low,9975.0,4381.0,1865.0,Oceania,AI Detection,Moderate,Flagged as False,16221.0,9.35,9.99,8.76,6.22,Q2
+260,2024-03-16,06:32:24,Forum,Facebook,Text,Politics,Medium,7217.0,4345.0,1650.0,Asia,Manual Verification,Moderate,Flagged as False,13212.0,7.45,7.19,8.69,5.5,Q2
+590,2024-03-16,06:32:24,News Website,WhatsApp,Video,Health,Medium,9185.0,2193.0,1528.0,Africa,Manual Verification,High,Content Removed,12906.0,7.26,9.19,4.37,5.09,Q2
+148,2024-03-16,06:32:24,News Website,Telegram,Text,Celebrity News,Medium,3666.0,2019.0,1988.0,Europe,Manual Verification,High,Content Removed,7673.0,3.94,3.6,4.02,6.63,Q2
+513,2024-03-15,06:32:24,Social Media,Instagram,Image,Technology,Medium,5018.0,4297.0,2372.0,Oceania,AI Detection,Low,Content Removed,11687.0,6.48,4.97,8.59,7.92,Q2
+683,2024-03-13,06:33:20,Messaging App,Instagram,Image,Health,Low,1115.0,4444.0,507.0,Europe,Manual Verification,Low,Content Removed,6066.0,2.92,1.01,8.89,1.67,Q2
+368,2024-03-13,06:32:24,Messaging App,WhatsApp,Image,Technology,Medium,4090.0,3469.0,278.0,Asia,AI Detection,High,Limited Visibility,7837.0,4.04,4.03,6.93,0.9,Q2
+123,2024-03-12,06:32:24,News Website,Reddit,Video,Politics,Medium,4654.0,4931.0,403.0,Asia,AI Detection,High,Flagged as False,9988.0,5.41,4.6,9.86,1.32,Q2
+916,2024-03-12,06:33:20,News Website,Instagram,Video,Technology,Medium,7883.0,4628.0,1515.0,North America,Manual Verification,High,No Action,14026.0,7.96,7.87,9.25,5.05,Q2
+128,2024-03-12,06:32:24,Forum,WhatsApp,Text,Health,Medium,7223.0,4092.0,833.0,Oceania,User Report,Low,Flagged as False,12148.0,6.77,7.2,8.18,2.76,Q2
+946,2024-03-12,06:33:20,Forum,Reddit,Video,Health,High,610.0,1622.0,1469.0,Africa,Manual Verification,High,Content Removed,3701.0,1.43,0.5,3.23,4.89,Q2
+819,2024-03-11,06:33:20,News Website,WhatsApp,Text,Politics,Low,630.0,3632.0,1656.0,Oceania,AI Detection,Low,No Action,5918.0,2.83,0.52,7.26,5.52,Q2
+944,2024-03-11,06:33:20,Forum,Twitter,Video,Finance,Medium,5967.0,2741.0,1004.0,South America,AI Detection,Low,No Action,9712.0,5.23,5.93,5.47,3.33,Q2
+774,2024-03-11,06:33:20,Blog,Twitter,Image,Health,Medium,5914.0,2509.0,506.0,North America,Manual Verification,Low,Flagged as False,8929.0,4.74,5.87,5.01,1.66,Q2
+610,2024-03-11,06:33:20,News Website,Instagram,Text,Finance,Low,523.0,1346.0,218.0,Africa,Manual Verification,High,Content Removed,2087.0,0.4,0.41,2.68,0.7,Q2
+221,2024-03-10,06:32:24,Social Media,YouTube,Video,Climate,Medium,3238.0,3565.0,703.0,Oceania,AI Detection,Moderate,No Action,7506.0,3.83,3.16,7.12,2.32,Q2
+348,2024-03-10,06:32:24,Forum,WhatsApp,Video,Health,High,5625.0,3558.0,1767.0,Oceania,Manual Verification,Moderate,Limited Visibility,10950.0,6.02,5.58,7.11,5.89,Q2
+495,2024-03-10,06:32:24,News Website,Instagram,Video,Climate,High,2536.0,2944.0,2581.0,Asia,AI Detection,High,Limited Visibility,8061.0,4.19,2.45,5.88,8.62,Q2
+113,2024-03-10,06:32:24,Social Media,YouTube,Video,Technology,High,8697.0,69.0,766.0,Europe,User Report,Low,No Action,9532.0,5.12,8.69,0.12,2.54,Q2
+791,2024-03-09,06:33:20,Blog,Instagram,Image,Finance,Low,1655.0,2629.0,1040.0,Oceania,Manual Verification,High,No Action,5324.0,2.45,1.56,5.25,3.45,Q2
+667,2024-03-09,06:33:20,Forum,Reddit,Text,Finance,Low,5425.0,952.0,896.0,Africa,User Report,Moderate,No Action,7273.0,3.69,5.38,1.89,2.97,Q2
+510,2024-03-09,06:32:24,Blog,Reddit,Video,Celebrity News,Medium,886.0,543.0,22.0,North America,Manual Verification,High,Content Removed,1451.0,0.0,0.78,1.07,0.04,Q2
+153,2024-03-09,06:32:24,Forum,Reddit,Video,Climate,High,7269.0,492.0,1553.0,South America,AI Detection,High,Flagged as False,9314.0,4.98,7.25,0.96,5.17,Q2
+876,2024-03-08,06:33:20,Social Media,Facebook,Text,Finance,Low,3024.0,1759.0,2292.0,North America,AI Detection,Low,Flagged as False,7075.0,3.56,2.95,3.5,7.65,Q2
+295,2024-03-08,06:32:24,Messaging App,Reddit,Video,Health,High,8445.0,564.0,1003.0,Europe,User Report,Low,Flagged as False,10012.0,5.42,8.44,1.11,3.33,Q2
+857,2024-03-07,06:33:20,Forum,WhatsApp,Video,Technology,Medium,6735.0,4262.0,217.0,Africa,User Report,Moderate,No Action,11214.0,6.18,6.71,8.52,0.7,Q2
+657,2024-03-07,06:33:20,Forum,Facebook,Text,Finance,High,4570.0,3327.0,1634.0,South America,User Report,Moderate,Flagged as False,9531.0,5.12,4.51,6.65,5.44,Q2
+511,2024-03-07,06:32:24,Messaging App,Reddit,Video,Climate,Medium,6904.0,1847.0,1165.0,North America,Manual Verification,Low,No Action,9916.0,5.36,6.88,3.68,3.87,Q2
+422,2024-03-06,06:32:24,Forum,Facebook,Text,Politics,Low,523.0,1437.0,1878.0,North America,Manual Verification,Low,Limited Visibility,3838.0,1.51,0.41,2.86,6.26,Q2
+643,2024-03-05,06:33:20,News Website,Reddit,Image,Politics,Medium,3293.0,3405.0,371.0,South America,Manual Verification,High,No Action,7069.0,3.56,3.22,6.8,1.21,Q2
+917,2024-03-05,06:33:20,News Website,YouTube,Image,Climate,Low,3426.0,2712.0,929.0,Africa,User Report,High,Content Removed,7067.0,3.56,3.35,5.41,3.08,Q2
+981,2024-03-04,06:33:20,Forum,Reddit,Text,Celebrity News,Low,7021.0,3642.0,1167.0,Oceania,AI Detection,Moderate,Limited Visibility,11830.0,6.57,7.0,7.28,3.88,Q2
+339,2024-03-04,06:32:24,News Website,Reddit,Video,Climate,Medium,7448.0,3489.0,1165.0,Asia,User Report,Moderate,Content Removed,12102.0,6.75,7.43,6.97,3.87,Q2
+336,2024-03-04,06:32:24,News Website,Instagram,Text,Health,High,2588.0,2322.0,1462.0,Africa,AI Detection,Low,Limited Visibility,6372.0,3.12,2.5,4.63,4.87,Q2
+19,2024-03-04,06:30:50,News Website,Reddit,Video,Finance,Low,7225.0,1143.0,2478.0,Oceania,Manual Verification,Moderate,Limited Visibility,10846.0,5.95,7.2,2.27,8.27,Q2
+448,2024-03-04,06:32:24,Forum,Telegram,Image,Health,Medium,991.0,182.0,1532.0,Oceania,User Report,Moderate,Limited Visibility,2705.0,0.79,0.89,0.34,5.1,Q2
+918,2024-03-03,06:33:20,Blog,YouTube,Video,Climate,Low,5930.0,4902.0,746.0,Africa,AI Detection,Low,Content Removed,11578.0,6.41,5.89,9.8,2.47,Q2
+856,2024-03-03,06:33:20,Messaging App,Telegram,Image,Celebrity News,Medium,891.0,4806.0,2165.0,Africa,User Report,High,No Action,7862.0,4.06,0.79,9.61,7.22,Q2
+78,2024-03-03,06:30:50,Messaging App,Reddit,Text,Climate,Medium,695.0,3015.0,1432.0,Oceania,AI Detection,Low,Flagged as False,5142.0,2.34,0.59,6.02,4.77,Q2
+217,2024-03-02,06:32:24,Blog,WhatsApp,Video,Climate,High,2828.0,4538.0,1651.0,North America,User Report,High,No Action,9017.0,4.79,2.75,9.07,5.5,Q2
+680,2024-03-02,06:33:20,Blog,Facebook,Text,Technology,Medium,7110.0,4501.0,2777.0,Europe,AI Detection,High,Flagged as False,14388.0,8.19,7.09,9.0,9.27,Q2
+56,2024-03-02,06:30:50,Blog,WhatsApp,Image,Climate,Medium,3834.0,3214.0,1503.0,Oceania,Manual Verification,Low,Flagged as False,8551.0,4.5,3.77,6.42,5.01,Q2
+879,2024-03-01,06:33:20,Messaging App,Instagram,Image,Climate,High,9634.0,4277.0,1395.0,Asia,AI Detection,High,Content Removed,15306.0,8.78,9.64,8.55,4.64,Q2
+179,2024-03-01,06:32:24,Messaging App,Twitter,Text,Health,High,8325.0,1732.0,1199.0,Oceania,AI Detection,High,No Action,11256.0,6.21,8.32,3.45,3.99,Q2
+598,2024-02-29,06:32:24,News Website,WhatsApp,Image,Celebrity News,High,2113.0,4465.0,1083.0,Europe,User Report,Moderate,Content Removed,7661.0,3.93,2.02,8.93,3.6,Q2
+695,2024-02-29,06:33:20,Social Media,Telegram,Text,Climate,Medium,6051.0,4174.0,758.0,Asia,AI Detection,Low,No Action,10983.0,6.04,6.01,8.34,2.51,Q2
+492,2024-02-29,06:32:24,News Website,Telegram,Video,Health,Medium,3553.0,2340.0,1351.0,North America,Manual Verification,Moderate,Content Removed,7244.0,3.67,3.48,4.67,4.5,Q2
+612,2024-02-28,06:33:20,Blog,Telegram,Image,Health,Medium,5884.0,1172.0,1831.0,Asia,User Report,High,Content Removed,8887.0,4.71,5.84,2.33,6.1,Q2
+741,2024-02-27,06:33:20,Blog,Telegram,Video,Celebrity News,Low,7362.0,1729.0,2474.0,Oceania,AI Detection,Moderate,Flagged as False,11565.0,6.41,7.34,3.44,8.26,Q2
+154,2024-02-26,06:32:24,Forum,Twitter,Text,Health,Low,4938.0,2329.0,1599.0,Europe,AI Detection,Moderate,Flagged as False,8866.0,4.7,4.89,4.65,5.33,Q2
+632,2024-02-26,06:33:20,Blog,YouTube,Text,Climate,Low,5255.0,1923.0,2613.0,North America,Manual Verification,Low,No Action,9791.0,5.28,5.21,3.83,8.72,Q2
+840,2024-02-25,06:33:20,News Website,Reddit,Image,Celebrity News,High,2669.0,3244.0,1349.0,Oceania,User Report,Moderate,Limited Visibility,7262.0,3.68,2.59,6.48,4.49,Q2
+112,2024-02-25,06:32:24,Blog,Telegram,Video,Politics,Low,641.0,1927.0,1873.0,North America,User Report,Moderate,Flagged as False,4441.0,1.89,0.53,3.84,6.24,Q2
+288,2024-02-25,06:32:24,Blog,Reddit,Image,Climate,High,4425.0,1090.0,1518.0,South America,Manual Verification,High,Content Removed,7033.0,3.54,4.37,2.16,5.06,Q2
+494,2024-02-25,06:32:24,Messaging App,WhatsApp,Video,Celebrity News,Medium,6398.0,896.0,2732.0,Oceania,User Report,Moderate,Flagged as False,10026.0,5.43,6.36,1.77,9.12,Q2
+818,2024-02-24,06:33:20,News Website,WhatsApp,Image,Technology,High,4291.0,4253.0,1560.0,Europe,User Report,High,Limited Visibility,10104.0,5.48,4.23,8.5,5.2,Q2
+120,2024-02-24,06:32:24,Forum,Telegram,Image,Climate,Medium,6634.0,3534.0,1120.0,Africa,AI Detection,Moderate,Limited Visibility,11288.0,6.23,6.6,7.06,3.72,Q2
+968,2024-02-24,06:33:20,Blog,Instagram,Image,Climate,Low,5689.0,1408.0,1307.0,North America,AI Detection,Low,Flagged as False,8404.0,4.4,5.65,2.8,4.35,Q2
+320,2024-02-23,06:32:24,Messaging App,YouTube,Image,Technology,Low,4645.0,4271.0,2930.0,Europe,User Report,Moderate,Limited Visibility,11846.0,6.58,4.59,8.54,9.79,Q2
+9,2024-02-23,06:30:50,Forum,YouTube,Text,Celebrity News,High,9711.0,2680.0,751.0,South America,User Report,Low,Content Removed,13142.0,7.4,9.72,5.35,2.49,Q2
+515,2024-02-23,06:32:24,Social Media,Instagram,Image,Politics,Medium,9859.0,2249.0,25.0,Europe,AI Detection,Low,Content Removed,12133.0,6.77,9.87,4.49,0.05,Q2
+333,2024-02-22,06:32:24,Blog,WhatsApp,Video,Celebrity News,Low,3973.0,3939.0,1972.0,Asia,AI Detection,Low,Limited Visibility,9884.0,5.34,3.91,7.87,6.58,Q2
+593,2024-02-22,06:32:24,Messaging App,Twitter,Video,Climate,Medium,4439.0,1980.0,2103.0,South America,User Report,High,Limited Visibility,8522.0,4.48,4.38,3.95,7.02,Q2
+144,2024-02-22,06:32:24,Blog,YouTube,Text,Celebrity News,High,7211.0,297.0,1904.0,Asia,User Report,Moderate,Content Removed,9412.0,5.04,7.19,0.57,6.35,Q2
+155,2024-02-21,06:32:24,Social Media,YouTube,Video,Climate,High,3420.0,4401.0,2565.0,Europe,AI Detection,High,Limited Visibility,10386.0,5.66,3.35,8.8,8.56,Q2
+570,2024-02-21,06:32:24,News Website,Reddit,Text,Technology,Medium,9595.0,3931.0,463.0,Oceania,User Report,High,Limited Visibility,13989.0,7.94,9.6,7.86,1.52,Q2
+926,2024-02-21,06:33:20,Social Media,WhatsApp,Image,Climate,Low,5169.0,1863.0,2790.0,Asia,AI Detection,Low,Limited Visibility,9822.0,5.3,5.12,3.71,9.32,Q2
+565,2024-02-20,06:32:24,Messaging App,Facebook,Text,Technology,Medium,3342.0,4979.0,2121.0,Asia,AI Detection,High,Limited Visibility,10442.0,5.69,3.27,9.96,7.08,Q2
+427,2024-02-19,06:32:24,Messaging App,Facebook,Text,Finance,Medium,8489.0,1912.0,1913.0,Europe,Manual Verification,High,Content Removed,12314.0,6.88,8.48,3.81,6.38,Q2
+1,2024-02-19,06:30:50,News Website,WhatsApp,Image,Health,Medium,7891.0,440.0,1242.0,Oceania,User Report,High,Limited Visibility,9573.0,5.14,7.88,0.86,4.13,Q2
+421,2024-02-19,06:32:24,Blog,WhatsApp,Image,Climate,Medium,3968.0,11.0,1638.0,South America,User Report,Low,Limited Visibility,5617.0,2.64,3.9,0.0,5.46,Q2
+477,2024-02-18,06:32:24,Messaging App,Twitter,Video,Finance,Medium,4266.0,4277.0,608.0,Oceania,User Report,Moderate,Content Removed,9151.0,4.88,4.2,8.55,2.01,Q2
+731,2024-02-18,06:33:20,News Website,Instagram,Video,Health,High,3832.0,2235.0,2658.0,Africa,AI Detection,High,No Action,8725.0,4.61,3.76,4.46,8.87,Q2
+286,2024-02-18,06:32:24,Messaging App,YouTube,Text,Celebrity News,Low,1958.0,164.0,2758.0,Africa,Manual Verification,Moderate,Flagged as False,4880.0,2.17,1.87,0.31,9.21,Q2
+96,2024-02-17,06:30:50,News Website,Reddit,Text,Finance,High,6102.0,3317.0,1078.0,Asia,Manual Verification,Moderate,Flagged as False,10497.0,5.73,6.06,6.63,3.58,Q2
+631,2024-02-17,06:33:20,Blog,Instagram,Video,Finance,Low,6010.0,1288.0,2965.0,North America,AI Detection,Moderate,Limited Visibility,10263.0,5.58,5.97,2.56,9.9,Q2
+700,2024-02-17,06:33:20,Blog,Facebook,Video,Health,High,8126.0,926.0,439.0,North America,User Report,Low,Flagged as False,9491.0,5.09,8.12,1.83,1.44,Q2
+218,2024-02-16,06:32:24,Blog,WhatsApp,Text,Celebrity News,Low,8570.0,3578.0,1292.0,South America,User Report,Low,Limited Visibility,13440.0,7.59,8.57,7.15,4.3,Q2
+639,2024-02-16,06:33:20,Forum,Facebook,Text,Technology,Low,3381.0,2799.0,1702.0,North America,AI Detection,Low,No Action,7882.0,4.07,3.31,5.59,5.67,Q2
+255,2024-02-16,06:32:24,Forum,YouTube,Image,Climate,Medium,1103.0,164.0,205.0,North America,User Report,High,Flagged as False,1472.0,0.01,1.0,0.31,0.66,Q2
+134,2024-02-15,06:32:24,Social Media,Facebook,Text,Climate,Medium,5696.0,4542.0,784.0,Africa,Manual Verification,Moderate,Content Removed,11022.0,6.06,5.65,9.08,2.6,Q2
+187,2024-02-15,06:32:24,News Website,Twitter,Image,Politics,Medium,9798.0,3876.0,468.0,Oceania,Manual Verification,High,Content Removed,14142.0,8.04,9.81,7.75,1.54,Q2
+800,2024-02-15,06:33:20,Messaging App,Telegram,Video,Technology,High,4246.0,3771.0,1274.0,South America,AI Detection,Low,Content Removed,9291.0,4.97,4.18,7.54,4.24,Q2
+283,2024-02-15,06:32:24,Forum,Reddit,Image,Celebrity News,Low,3048.0,2296.0,2574.0,Oceania,Manual Verification,Low,Flagged as False,7918.0,4.1,2.97,4.58,8.59,Q2
+688,2024-02-14,06:33:20,Social Media,Instagram,Video,Technology,Low,554.0,1856.0,2223.0,North America,AI Detection,High,Limited Visibility,4633.0,2.02,0.44,3.7,7.42,Q2
+773,2024-02-14,06:33:20,Blog,YouTube,Image,Finance,Medium,2955.0,1647.0,1388.0,Oceania,Manual Verification,Moderate,No Action,5990.0,2.87,2.88,3.28,4.62,Q2
+156,2024-02-14,06:32:24,Forum,Twitter,Text,Technology,Low,8632.0,404.0,1653.0,North America,Manual Verification,High,No Action,10689.0,5.85,8.63,0.79,5.51,Q2
+159,2024-02-13,06:32:24,Forum,YouTube,Image,Technology,Low,3805.0,4176.0,1886.0,Asia,Manual Verification,Low,Content Removed,9867.0,5.33,3.74,8.35,6.29,Q1
+662,2024-02-13,06:33:20,Forum,Instagram,Image,Health,High,2437.0,3947.0,2160.0,Africa,AI Detection,Moderate,Limited Visibility,8544.0,4.49,2.35,7.89,7.21,Q1
+972,2024-02-13,06:33:20,Blog,Telegram,Text,Climate,Medium,9962.0,1209.0,2248.0,South America,Manual Verification,Moderate,Limited Visibility,13419.0,7.58,9.98,2.4,7.5,Q1
+281,2024-02-12,06:32:24,News Website,Facebook,Video,Climate,Low,2293.0,3678.0,1888.0,Asia,User Report,Low,No Action,7859.0,4.06,2.21,7.35,6.29,Q1
+523,2024-02-12,06:32:24,Forum,Twitter,Text,Climate,Medium,6883.0,2070.0,63.0,South America,User Report,Low,Flagged as False,9016.0,4.79,6.86,4.13,0.18,Q1
+831,2024-02-11,06:33:20,Forum,Telegram,Image,Technology,High,5435.0,3005.0,1457.0,North America,User Report,High,Content Removed,9897.0,5.35,5.39,6.0,4.85,Q1
+138,2024-02-11,06:32:24,Forum,Twitter,Video,Technology,High,128.0,2173.0,2762.0,South America,Manual Verification,High,No Action,5063.0,2.29,0.01,4.33,9.22,Q1
+509,2024-02-11,06:32:24,Messaging App,Facebook,Image,Finance,High,4792.0,1091.0,2060.0,Oceania,AI Detection,Moderate,Limited Visibility,7943.0,4.11,4.74,2.16,6.87,Q1
+1080,2024-02-10,06:33:20,Social Media,Reddit,Image,Politics,High,4254.0,1810.0,1509.0,Oceania,Manual Verification,High,No Action,7573.0,3.88,4.19,3.61,5.03,Q1
+719,2024-02-10,06:33:20,Messaging App,Facebook,Video,Health,Medium,526.0,673.0,872.0,North America,Manual Verification,Moderate,Flagged as False,2071.0,0.39,0.42,1.33,2.89,Q1
+249,2024-02-09,06:32:24,News Website,WhatsApp,Video,Finance,Low,892.0,2842.0,2306.0,Africa,AI Detection,High,Flagged as False,6040.0,2.91,0.79,5.67,7.7,Q1
+906,2024-02-09,06:33:20,News Website,WhatsApp,Video,Celebrity News,Medium,157.0,1360.0,314.0,South America,User Report,Moderate,Limited Visibility,1831.0,0.24,0.04,2.7,1.02,Q1
+358,2024-02-09,06:32:24,News Website,WhatsApp,Text,Politics,High,5394.0,672.0,1468.0,Europe,User Report,High,No Action,7534.0,3.85,5.35,1.32,4.89,Q1
+801,2024-02-08,06:33:20,Messaging App,Telegram,Text,Climate,High,6632.0,4347.0,2578.0,Asia,AI Detection,Moderate,Content Removed,13557.0,7.67,6.6,8.69,8.61,Q1
+706,2024-02-08,06:33:20,News Website,Instagram,Image,Health,High,8682.0,16.0,2067.0,Oceania,User Report,Moderate,No Action,10765.0,5.9,8.68,0.01,6.89,Q1
+640,2024-02-07,06:33:20,Forum,Twitter,Image,Celebrity News,High,8871.0,1480.0,1483.0,Africa,AI Detection,Low,Flagged as False,11834.0,6.58,8.87,2.94,4.94,Q1
+658,2024-02-07,06:33:20,Blog,Facebook,Image,Politics,Low,7616.0,1090.0,725.0,Asia,User Report,Low,Limited Visibility,9431.0,5.05,7.6,2.16,2.4,Q1
+898,2024-02-06,06:33:20,News Website,Telegram,Video,Health,Medium,1785.0,3172.0,1052.0,North America,User Report,Moderate,Limited Visibility,6009.0,2.89,1.69,6.34,3.49,Q1
+732,2024-02-06,06:33:20,Blog,Twitter,Image,Health,High,8677.0,1497.0,779.0,North America,Manual Verification,High,Flagged as False,10953.0,6.02,8.67,2.98,2.58,Q1
+935,2024-02-06,06:33:20,Blog,WhatsApp,Text,Finance,Low,5548.0,894.0,2777.0,Asia,Manual Verification,High,Flagged as False,9219.0,4.92,5.5,1.77,9.27,Q1
+604,2024-02-05,06:33:20,Blog,Telegram,Video,Health,High,9419.0,141.0,784.0,Europe,AI Detection,High,No Action,10344.0,5.63,9.43,0.26,2.6,Q1
+360,2024-02-04,06:32:24,Blog,Reddit,Image,Health,High,2467.0,4068.0,458.0,Oceania,Manual Verification,Moderate,No Action,6993.0,3.51,2.38,8.13,1.5,Q1
+311,2024-02-04,06:32:24,Blog,Instagram,Image,Celebrity News,Low,212.0,2154.0,2666.0,Europe,User Report,High,No Action,5032.0,2.27,0.1,4.3,8.9,Q1
+930,2024-02-04,06:33:20,Messaging App,Telegram,Video,Health,Medium,9241.0,926.0,653.0,Asia,User Report,High,Flagged as False,10820.0,5.93,9.25,1.83,2.16,Q1
+1036,2024-02-03,06:33:20,Messaging App,Reddit,Text,Finance,Medium,2322.0,4014.0,2947.0,Europe,AI Detection,Moderate,Limited Visibility,9283.0,4.96,2.24,8.02,9.84,Q1
+461,2024-02-03,06:32:24,Social Media,Facebook,Video,Finance,Low,5442.0,3535.0,2139.0,Oceania,AI Detection,Low,Flagged as False,11116.0,6.12,5.4,7.06,7.14,Q1
+343,2024-02-03,06:32:24,Messaging App,Facebook,Image,Celebrity News,Low,294.0,2635.0,2793.0,North America,Manual Verification,Low,No Action,5722.0,2.71,0.18,5.26,9.33,Q1
+398,2024-02-02,06:32:24,Blog,Twitter,Image,Politics,High,9605.0,1237.0,753.0,Africa,User Report,Low,No Action,11595.0,6.42,9.61,2.46,2.49,Q1
+13,2024-02-01,06:30:50,Blog,WhatsApp,Text,Technology,High,8690.0,1859.0,2992.0,South America,User Report,Moderate,No Action,13541.0,7.66,8.69,3.7,9.99,Q1
+979,2024-02-01,06:33:20,Social Media,Instagram,Text,Celebrity News,Medium,2205.0,338.0,1803.0,Europe,User Report,Moderate,Flagged as False,4346.0,1.83,2.12,0.66,6.01,Q1
+87,2024-02-01,06:30:50,Social Media,YouTube,Text,Climate,High,6851.0,323.0,1331.0,Africa,User Report,Moderate,Limited Visibility,8505.0,4.47,6.82,0.63,4.43,Q1
+599,2024-02-01,06:32:24,Forum,Telegram,Video,Climate,Medium,8643.0,313.0,465.0,South America,User Report,Low,Content Removed,9421.0,5.05,8.64,0.61,1.53,Q1
+759,2024-01-31,06:33:20,Messaging App,Telegram,Video,Technology,Medium,9717.0,4978.0,2545.0,South America,User Report,Moderate,Flagged as False,17240.0,10.0,9.73,9.96,8.5,Q1
+18,2024-01-31,06:30:50,Social Media,WhatsApp,Image,Technology,Medium,8060.0,4419.0,1482.0,Africa,AI Detection,Low,No Action,13961.0,7.92,8.05,8.84,4.93,Q1
+188,2024-01-31,06:32:24,Messaging App,WhatsApp,Video,Technology,Low,9947.0,3922.0,1788.0,Europe,AI Detection,High,Limited Visibility,15657.0,9.0,9.96,7.84,5.96,Q1
+33,2024-01-31,06:30:50,Blog,Facebook,Image,Celebrity News,Medium,1943.0,1815.0,1323.0,South America,Manual Verification,Moderate,Flagged as False,5081.0,2.3,1.85,3.62,4.4,Q1
+196,2024-01-30,06:32:24,Blog,Facebook,Image,Finance,Low,4691.0,952.0,2549.0,Europe,AI Detection,Low,No Action,8192.0,4.27,4.64,1.89,8.51,Q1
+271,2024-01-30,06:32:24,Forum,Twitter,Text,Health,Medium,3769.0,448.0,2097.0,South America,User Report,Low,Limited Visibility,6314.0,3.08,3.7,0.88,6.99,Q1
+251,2024-01-29,06:32:24,Social Media,YouTube,Image,Climate,Low,8788.0,3588.0,546.0,South America,Manual Verification,High,No Action,12922.0,7.27,8.79,7.17,1.8,Q1
+140,2024-01-28,06:32:24,Messaging App,Reddit,Image,Climate,High,7236.0,3905.0,2059.0,North America,Manual Verification,Low,No Action,13200.0,7.44,7.21,7.81,6.87,Q1
+21,2024-01-27,06:30:50,Social Media,WhatsApp,Video,Politics,High,2224.0,3188.0,903.0,North America,AI Detection,Low,Flagged as False,6315.0,3.08,2.14,6.37,2.99,Q1
+868,2024-01-27,06:33:20,Messaging App,Instagram,Image,Climate,Low,199.0,266.0,1733.0,North America,AI Detection,Moderate,Content Removed,2198.0,0.47,0.08,0.51,5.78,Q1
+987,2024-01-27,06:33:20,Blog,Twitter,Image,Finance,Low,1171.0,37.0,1703.0,Europe,Manual Verification,Low,No Action,2911.0,0.92,1.07,0.05,5.68,Q1
+273,2024-01-26,06:32:24,Social Media,Telegram,Image,Technology,Medium,1098.0,2692.0,633.0,Europe,AI Detection,High,Limited Visibility,4423.0,1.88,0.99,5.37,2.09,Q1
+72,2024-01-26,06:30:50,Social Media,Twitter,Text,Climate,High,8472.0,1677.0,859.0,South America,User Report,Low,Limited Visibility,11008.0,6.05,8.47,3.34,2.85,Q1
+499,2024-01-26,06:32:24,News Website,Twitter,Text,Health,Low,5580.0,962.0,2144.0,Asia,Manual Verification,High,Limited Visibility,8686.0,4.58,5.54,1.91,7.15,Q1
+1056,2024-01-25,06:33:20,Forum,Facebook,Text,Health,High,4216.0,1809.0,1631.0,Asia,AI Detection,Low,Limited Visibility,7656.0,3.93,4.15,3.6,5.43,Q1
+852,2024-01-25,06:33:20,Forum,Telegram,Text,Health,Low,993.0,906.0,810.0,North America,User Report,High,Limited Visibility,2709.0,0.8,0.89,1.79,2.68,Q1
+545,2024-01-24,06:32:24,Forum,Instagram,Video,Finance,Low,5293.0,3949.0,218.0,Oceania,Manual Verification,Low,No Action,9460.0,5.07,5.25,7.89,0.7,Q1
+992,2024-01-24,06:33:20,News Website,Instagram,Image,Finance,Low,4160.0,3932.0,1612.0,Asia,User Report,Low,No Action,9704.0,5.23,4.1,7.86,5.37,Q1
+467,2024-01-24,06:32:24,Messaging App,Reddit,Image,Celebrity News,Low,7812.0,3604.0,2845.0,South America,User Report,High,No Action,14261.0,8.11,7.8,7.2,9.5,Q1
+201,2024-01-24,06:32:24,Forum,Facebook,Image,Technology,Low,9014.0,3473.0,683.0,Oceania,User Report,Moderate,Flagged as False,13170.0,7.42,9.02,6.94,2.26,Q1
+664,2024-01-24,06:33:20,Social Media,Instagram,Video,Finance,High,9857.0,1515.0,2064.0,North America,AI Detection,Low,Limited Visibility,13436.0,7.59,9.87,3.01,6.88,Q1
+284,2024-01-24,06:32:24,Social Media,Instagram,Image,Finance,Low,2277.0,643.0,2973.0,Oceania,User Report,Low,No Action,5893.0,2.81,2.19,1.27,9.93,Q1
+623,2024-01-23,06:33:20,News Website,Facebook,Text,Health,Medium,2203.0,3766.0,955.0,Oceania,Manual Verification,Low,Content Removed,6924.0,3.47,2.11,7.53,3.17,Q1
+951,2024-01-23,06:33:20,Forum,WhatsApp,Text,Politics,High,7404.0,2481.0,2415.0,Europe,User Report,Moderate,Content Removed,12300.0,6.87,7.38,4.95,8.06,Q1
+390,2024-01-22,06:32:24,Social Media,YouTube,Video,Finance,Low,4145.0,4915.0,1295.0,Asia,Manual Verification,Moderate,Limited Visibility,10355.0,5.64,4.08,9.83,4.31,Q1
+624,2024-01-22,06:33:20,Blog,Facebook,Image,Finance,Low,3934.0,4890.0,2438.0,Europe,User Report,Moderate,Flagged as False,11262.0,6.21,3.87,9.78,8.14,Q1
+474,2024-01-22,06:32:24,News Website,Telegram,Image,Health,Low,7117.0,3596.0,681.0,South America,Manual Verification,Moderate,Content Removed,11394.0,6.3,7.09,7.19,2.25,Q1
+24,2024-01-22,06:30:50,Blog,Reddit,Video,Finance,High,5963.0,2359.0,1221.0,South America,User Report,High,No Action,9543.0,5.13,5.92,4.71,4.06,Q1
+734,2024-01-21,06:33:20,Messaging App,Telegram,Image,Celebrity News,Low,7579.0,4867.0,1393.0,Africa,AI Detection,Moderate,Limited Visibility,13839.0,7.85,7.56,9.73,4.64,Q1
+530,2024-01-21,06:32:24,Messaging App,Telegram,Image,Politics,Low,6334.0,4356.0,2288.0,Asia,Manual Verification,Moderate,Limited Visibility,12978.0,7.3,6.3,8.71,7.63,Q1
+335,2024-01-21,06:32:24,Blog,Instagram,Text,Politics,Medium,7075.0,3993.0,1046.0,Europe,AI Detection,Low,Content Removed,12114.0,6.75,7.05,7.98,3.47,Q1
+841,2024-01-21,06:33:20,Blog,Instagram,Text,Politics,Low,2270.0,3849.0,2950.0,South America,Manual Verification,Low,No Action,9069.0,4.82,2.18,7.69,9.85,Q1
+730,2024-01-21,06:33:20,Blog,WhatsApp,Video,Health,High,1027.0,3229.0,227.0,Europe,User Report,Moderate,Flagged as False,4483.0,1.92,0.92,6.45,0.73,Q1
+596,2024-01-21,06:32:24,Blog,Twitter,Video,Climate,Low,220.0,1786.0,2333.0,North America,Manual Verification,Moderate,Flagged as False,4339.0,1.83,0.11,3.56,7.79,Q1
+621,2024-01-20,06:33:20,Forum,Facebook,Video,Politics,Medium,398.0,4887.0,655.0,North America,AI Detection,High,No Action,5940.0,2.84,0.29,9.77,2.16,Q1
+1039,2024-01-20,06:33:20,Blog,WhatsApp,Image,Technology,High,2865.0,2832.0,2340.0,Oceania,Manual Verification,Moderate,Flagged as False,8037.0,4.17,2.79,5.65,7.81,Q1
+118,2024-01-20,06:32:24,Social Media,YouTube,Video,Climate,Low,2354.0,1267.0,925.0,Africa,AI Detection,High,Flagged as False,4546.0,1.96,2.27,2.52,3.07,Q1
+444,2024-01-19,06:32:24,Messaging App,YouTube,Text,Finance,Medium,1138.0,3315.0,1047.0,Africa,Manual Verification,Low,Limited Visibility,5500.0,2.56,1.04,6.62,3.48,Q1
+742,2024-01-19,06:33:20,Forum,Reddit,Video,Celebrity News,Low,5949.0,2233.0,446.0,Africa,AI Detection,High,Flagged as False,8628.0,4.55,5.91,4.45,1.46,Q1
+94,2024-01-19,06:30:50,Forum,Telegram,Text,Finance,Low,872.0,2032.0,2614.0,Oceania,User Report,High,Flagged as False,5518.0,2.58,0.77,4.05,8.73,Q1
+71,2024-01-19,06:30:50,Forum,Facebook,Image,Celebrity News,High,902.0,1651.0,474.0,North America,User Report,Low,Limited Visibility,3027.0,1.0,0.8,3.29,1.56,Q1
+660,2024-01-19,06:33:20,Social Media,Reddit,Text,Climate,High,2018.0,298.0,578.0,Europe,AI Detection,Moderate,Limited Visibility,2894.0,0.91,1.93,0.58,1.91,Q1
+92,2024-01-18,06:30:50,Forum,Instagram,Text,Climate,High,1045.0,839.0,1966.0,South America,AI Detection,Moderate,Flagged as False,3850.0,1.52,0.94,1.66,6.56,Q1
+633,2024-01-17,06:33:20,News Website,WhatsApp,Text,Celebrity News,Medium,7397.0,4853.0,843.0,Europe,User Report,Moderate,Flagged as False,13093.0,7.37,7.38,9.71,2.79,Q1
+975,2024-01-17,06:33:20,Social Media,Twitter,Text,Technology,Low,6193.0,3291.0,213.0,Oceania,User Report,High,Content Removed,9697.0,5.22,6.16,6.57,0.68,Q1
+745,2024-01-16,06:33:20,Blog,Twitter,Video,Climate,High,6241.0,4838.0,2462.0,South America,User Report,Moderate,Content Removed,13541.0,7.66,6.21,9.68,8.22,Q1
+453,2024-01-16,06:32:24,Blog,Facebook,Text,Politics,Low,9591.0,2616.0,2197.0,Africa,AI Detection,Low,Limited Visibility,14404.0,8.2,9.6,5.22,7.33,Q1
+326,2024-01-16,06:32:24,Forum,WhatsApp,Video,Celebrity News,Medium,3852.0,187.0,2757.0,North America,User Report,Moderate,Flagged as False,6796.0,3.39,3.79,0.35,9.21,Q1
+1061,2024-01-15,06:33:20,Blog,Facebook,Image,Health,High,8803.0,2530.0,1822.0,Asia,Manual Verification,High,Content Removed,13155.0,7.41,8.8,5.05,6.07,Q1
+204,2024-01-15,06:32:24,Messaging App,WhatsApp,Text,Climate,Medium,3468.0,2022.0,436.0,Africa,AI Detection,Low,Content Removed,5926.0,2.83,3.4,4.03,1.43,Q1
+229,2024-01-14,06:32:24,Messaging App,Facebook,Text,Celebrity News,High,2628.0,4999.0,1850.0,Asia,AI Detection,Moderate,Flagged as False,9477.0,5.08,2.55,10.0,6.17,Q1
+27,2024-01-14,06:30:50,Blog,Instagram,Text,Technology,High,713.0,4523.0,585.0,Africa,AI Detection,Moderate,No Action,5821.0,2.77,0.6,9.04,1.93,Q1
+434,2024-01-14,06:32:24,Messaging App,Facebook,Text,Finance,Low,8550.0,1027.0,38.0,Europe,Manual Verification,Moderate,Flagged as False,9615.0,5.17,8.55,2.04,0.1,Q1
+779,2024-01-13,06:33:20,Social Media,Reddit,Image,Finance,Low,3767.0,4408.0,2325.0,Asia,User Report,Low,Content Removed,10500.0,5.73,3.7,8.81,7.76,Q1
+416,2024-01-13,06:32:24,Messaging App,Facebook,Text,Finance,Medium,8363.0,1372.0,678.0,South America,Manual Verification,High,No Action,10413.0,5.68,8.36,2.73,2.24,Q1
+365,2024-01-13,06:32:24,Messaging App,Reddit,Image,Technology,High,9397.0,924.0,2079.0,Asia,User Report,Moderate,No Action,12400.0,6.93,9.4,1.83,6.93,Q1
+178,2024-01-12,06:32:24,Messaging App,Twitter,Video,Climate,Medium,2000.0,4699.0,1969.0,Asia,Manual Verification,High,Flagged as False,8668.0,4.57,1.91,9.4,6.57,Q1
+772,2024-01-12,06:33:20,Social Media,WhatsApp,Image,Climate,High,1632.0,3365.0,573.0,Africa,Manual Verification,High,Flagged as False,5570.0,2.61,1.54,6.72,1.89,Q1
+367,2024-01-11,06:32:24,Forum,Twitter,Text,Climate,High,3222.0,3029.0,213.0,Oceania,Manual Verification,Low,No Action,6464.0,3.17,3.15,6.05,0.68,Q1
+569,2024-01-11,06:32:24,Blog,Facebook,Text,Finance,Low,124.0,2875.0,870.0,South America,AI Detection,High,Flagged as False,3869.0,1.53,0.01,5.74,2.88,Q1
+305,2024-01-11,06:32:24,Messaging App,Telegram,Image,Technology,Low,3592.0,2640.0,858.0,North America,AI Detection,Moderate,Limited Visibility,7090.0,3.57,3.52,5.27,2.84,Q1
+1059,2024-01-10,06:33:20,Messaging App,WhatsApp,Text,Finance,Low,9258.0,4157.0,446.0,Europe,Manual Verification,Moderate,Limited Visibility,13861.0,7.86,9.26,8.31,1.46,Q1
+366,2024-01-10,06:32:24,Social Media,WhatsApp,Text,Health,High,4913.0,3515.0,1140.0,Africa,AI Detection,High,Limited Visibility,9568.0,5.14,4.86,7.02,3.79,Q1
+574,2024-01-10,06:32:24,News Website,Twitter,Image,Technology,Low,9061.0,2398.0,2750.0,North America,User Report,Low,Flagged as False,14209.0,8.08,9.06,4.78,9.18,Q1
+20,2024-01-09,06:30:50,Social Media,Twitter,Text,Technology,Low,1937.0,3261.0,1661.0,North America,Manual Verification,Low,No Action,6859.0,3.43,1.84,6.51,5.53,Q1
+674,2024-01-09,06:33:20,Blog,WhatsApp,Text,Politics,Low,7571.0,2434.0,1758.0,Africa,Manual Verification,Low,Content Removed,11763.0,6.53,7.55,4.86,5.86,Q1
+693,2024-01-09,06:33:20,Messaging App,Telegram,Video,Finance,Low,368.0,1034.0,666.0,Europe,User Report,Moderate,No Action,2068.0,0.39,0.26,2.05,2.2,Q1
+190,2024-01-09,06:32:24,Forum,Twitter,Text,Politics,Low,1551.0,835.0,1067.0,Asia,Manual Verification,Low,Content Removed,3453.0,1.27,1.45,1.65,3.54,Q1
+855,2024-01-09,06:33:20,Messaging App,Reddit,Video,Celebrity News,Medium,2505.0,346.0,1004.0,South America,Manual Verification,High,Flagged as False,3855.0,1.52,2.42,0.67,3.33,Q1
+340,2024-01-08,06:32:24,Social Media,WhatsApp,Video,Finance,Medium,957.0,4521.0,2092.0,South America,AI Detection,High,Content Removed,7570.0,3.88,0.85,9.04,6.98,Q1
+887,2024-01-08,06:33:20,Blog,Telegram,Video,Politics,High,3900.0,3506.0,544.0,North America,Manual Verification,Low,Limited Visibility,7950.0,4.12,3.83,7.01,1.79,Q1
+953,2024-01-08,06:33:20,Social Media,Facebook,Image,Health,Low,3958.0,3490.0,522.0,Europe,AI Detection,Moderate,Content Removed,7970.0,4.13,3.89,6.97,1.72,Q1
+962,2024-01-08,06:33:20,Forum,Facebook,Video,Climate,Medium,2207.0,2224.0,279.0,North America,AI Detection,Moderate,Content Removed,4710.0,2.06,2.12,4.44,0.9,Q1
+247,2024-01-08,06:32:24,News Website,Instagram,Video,Politics,Medium,7224.0,1720.0,423.0,Africa,User Report,Low,Limited Visibility,9367.0,5.01,7.2,3.43,1.39,Q1
+620,2024-01-08,06:33:20,Blog,YouTube,Video,Health,Low,2408.0,1624.0,14.0,South America,AI Detection,Low,No Action,4046.0,1.64,2.32,3.23,0.02,Q1
+783,2024-01-08,06:33:20,Blog,Instagram,Image,Politics,Low,2398.0,1225.0,761.0,Europe,AI Detection,High,No Action,4384.0,1.86,2.31,2.43,2.52,Q1
+541,2024-01-08,06:32:24,Blog,Telegram,Text,Celebrity News,High,475.0,367.0,2748.0,Oceania,User Report,Moderate,Flagged as False,3590.0,1.35,0.36,0.71,9.18,Q1
+501,2024-01-07,06:32:24,Blog,WhatsApp,Image,Politics,Low,8522.0,3671.0,1495.0,Africa,Manual Verification,Low,Limited Visibility,13688.0,7.75,8.52,7.34,4.98,Q1
+184,2024-01-07,06:32:24,Forum,WhatsApp,Text,Climate,High,8073.0,1830.0,2061.0,South America,Manual Verification,Moderate,Flagged as False,11964.0,6.66,8.06,3.65,6.87,Q1
+362,2024-01-07,06:32:24,News Website,Twitter,Text,Technology,High,253.0,1640.0,2062.0,Asia,User Report,Moderate,Content Removed,3955.0,1.59,0.14,3.27,6.88,Q1
+611,2024-01-06,06:33:20,Blog,Facebook,Video,Politics,Low,766.0,4538.0,861.0,Oceania,User Report,Moderate,Limited Visibility,6165.0,2.99,0.66,9.07,2.85,Q1
+1100,2024-01-06,06:33:20,Social Media,Instagram,Text,Climate,High,1947.0,1576.0,1291.0,North America,Manual Verification,High,Limited Visibility,4814.0,2.13,1.86,3.14,4.29,Q1
+978,2024-01-06,06:33:20,Messaging App,Reddit,Video,Health,High,7004.0,979.0,668.0,Europe,AI Detection,Low,Content Removed,8651.0,4.56,6.98,1.94,2.21,Q1
+555,2024-01-06,06:32:24,Social Media,YouTube,Text,Technology,High,2718.0,118.0,2340.0,Europe,Manual Verification,Low,Content Removed,5176.0,2.36,2.64,0.21,7.81,Q1
+770,2024-01-05,06:33:20,News Website,Facebook,Image,Celebrity News,High,1937.0,3949.0,2304.0,Europe,User Report,High,Content Removed,8190.0,4.27,1.84,7.89,7.69,Q1
+691,2024-01-04,06:33:20,Social Media,Instagram,Text,Politics,Low,8072.0,2133.0,1368.0,Asia,Manual Verification,Moderate,Limited Visibility,11573.0,6.41,8.06,4.25,4.55,Q1
+812,2024-01-03,06:33:20,News Website,Reddit,Video,Finance,Low,6427.0,4420.0,786.0,Oceania,Manual Verification,Moderate,Flagged as False,11633.0,6.45,6.39,8.84,2.6,Q1
+739,2024-01-03,06:33:20,Social Media,YouTube,Image,Climate,Medium,9595.0,2526.0,68.0,Europe,User Report,High,Limited Visibility,12189.0,6.8,9.6,5.04,0.2,Q1
+321,2024-01-03,06:32:24,Social Media,Telegram,Text,Celebrity News,High,9532.0,2290.0,1213.0,North America,AI Detection,Low,Limited Visibility,13035.0,7.34,9.54,4.57,4.03,Q1
+452,2024-01-02,06:32:24,Messaging App,WhatsApp,Video,Health,High,4612.0,3859.0,480.0,Africa,AI Detection,High,No Action,8951.0,4.75,4.56,7.71,1.58,Q1
+145,2024-01-02,06:32:24,Messaging App,WhatsApp,Text,Health,High,5172.0,289.0,2052.0,Europe,Manual Verification,Moderate,Content Removed,7513.0,3.84,5.12,0.56,6.84,Q1
+810,2024-01-01,06:33:20,News Website,Facebook,Video,Celebrity News,Medium,7946.0,3070.0,2752.0,Oceania,Manual Verification,High,Limited Visibility,13768.0,7.8,7.93,6.13,9.19,Q1
+364,2024-01-01,06:32:24,Forum,Facebook,Video,Technology,Low,5833.0,1487.0,728.0,Europe,AI Detection,High,Content Removed,8048.0,4.18,5.79,2.96,2.41,Q1
+573,2023-12-31,06:32:24,Forum,Twitter,Text,Finance,Medium,3829.0,4157.0,2231.0,South America,Manual Verification,Low,Flagged as False,10217.0,5.55,3.76,8.31,7.44,Q1
+529,2023-12-30,06:32:24,Social Media,Telegram,Text,Politics,Medium,549.0,4039.0,2223.0,Oceania,AI Detection,Low,Flagged as False,6811.0,3.39,0.44,8.07,7.42,Q1
+17,2023-12-29,06:30:50,Blog,Facebook,Image,Politics,Low,2193.0,4915.0,887.0,Oceania,AI Detection,Moderate,Content Removed,7995.0,4.14,2.1,9.83,2.94,Q1
+830,2023-12-29,06:33:20,Blog,YouTube,Video,Politics,High,8719.0,4128.0,2335.0,South America,AI Detection,Low,Flagged as False,15182.0,8.7,8.72,8.25,7.79,Q1
+489,2023-12-29,06:32:24,Forum,Reddit,Image,Celebrity News,Medium,981.0,3301.0,853.0,North America,Manual Verification,High,Limited Visibility,5135.0,2.33,0.88,6.59,2.83,Q1
+10,2023-12-29,06:30:50,Blog,Reddit,Text,Climate,High,6516.0,2657.0,1599.0,Africa,Manual Verification,Low,No Action,10772.0,5.9,6.48,5.3,5.33,Q1
+182,2023-12-28,06:32:24,Blog,Telegram,Video,Politics,Medium,5736.0,3566.0,2224.0,North America,User Report,Low,Limited Visibility,11526.0,6.38,5.69,7.13,7.42,Q1
+405,2023-12-28,06:32:24,Messaging App,YouTube,Video,Politics,Medium,2382.0,1700.0,2785.0,Africa,User Report,Moderate,Flagged as False,6867.0,3.43,2.3,3.39,9.3,Q1
+232,2023-12-27,06:32:24,Forum,Instagram,Text,Politics,Low,1026.0,1163.0,2667.0,Asia,AI Detection,Moderate,No Action,4856.0,2.16,0.92,2.31,8.9,Q1
+378,2023-12-26,06:32:24,Social Media,Telegram,Text,Celebrity News,High,9116.0,4240.0,172.0,Oceania,User Report,High,Limited Visibility,13528.0,7.65,9.12,8.48,0.55,Q1
+189,2023-12-26,06:32:24,Forum,Twitter,Video,Finance,High,2339.0,2342.0,2289.0,Africa,User Report,Low,Limited Visibility,6970.0,3.5,2.25,4.67,7.64,Q1
+846,2023-12-25,06:33:20,Forum,Telegram,Image,Politics,Low,3971.0,3797.0,472.0,Asia,AI Detection,Moderate,Limited Visibility,8240.0,4.3,3.91,7.59,1.55,Q1
+763,2023-12-25,06:33:20,Blog,WhatsApp,Text,Finance,High,7796.0,3591.0,436.0,Oceania,Manual Verification,Low,No Action,11823.0,6.57,7.78,7.18,1.43,Q1
+197,2023-12-25,06:32:24,Forum,Reddit,Image,Celebrity News,Low,926.0,3117.0,1312.0,Asia,User Report,Moderate,Limited Visibility,5355.0,2.47,0.82,6.23,4.37,Q1
+342,2023-12-25,06:32:24,Blog,Instagram,Text,Celebrity News,Medium,7734.0,1959.0,2636.0,South America,Manual Verification,High,No Action,12329.0,6.89,7.72,3.9,8.8,Q1
+469,2023-12-25,06:32:24,Forum,Reddit,Image,Finance,High,6614.0,1923.0,1651.0,Asia,AI Detection,Moderate,Content Removed,10188.0,5.53,6.58,3.83,5.5,Q1
+337,2023-12-24,06:32:24,News Website,Telegram,Text,Politics,High,4081.0,2717.0,129.0,Europe,AI Detection,Low,No Action,6927.0,3.47,4.02,5.42,0.4,Q1
+410,2023-12-24,06:32:24,Forum,Reddit,Image,Politics,High,8247.0,2668.0,1306.0,Africa,User Report,High,Limited Visibility,12221.0,6.82,8.24,5.33,4.35,Q1
+681,2023-12-24,06:33:20,Blog,YouTube,Video,Technology,Low,2677.0,999.0,2655.0,Oceania,AI Detection,Moderate,No Action,6331.0,3.09,2.59,1.98,8.86,Q1
+816,2023-12-23,06:33:20,News Website,YouTube,Video,Finance,High,6027.0,3718.0,2673.0,North America,Manual Verification,Low,Flagged as False,12418.0,6.95,5.99,7.43,8.92,Q1
+1045,2023-12-23,06:33:20,Blog,Facebook,Image,Celebrity News,High,6762.0,811.0,1058.0,Oceania,Manual Verification,Moderate,Content Removed,8631.0,4.55,6.73,1.6,3.51,Q1
+939,2023-12-23,06:33:20,Blog,Facebook,Video,Politics,Medium,4466.0,368.0,458.0,Asia,Manual Verification,Moderate,No Action,5292.0,2.43,4.41,0.72,1.5,Q1
+377,2023-12-22,06:32:24,Blog,Facebook,Text,Finance,Medium,270.0,4354.0,1910.0,Africa,User Report,Moderate,Content Removed,6534.0,3.22,0.16,8.71,6.37,Q1
+351,2023-12-22,06:32:24,Messaging App,Facebook,Video,Politics,Low,863.0,2457.0,2778.0,Europe,User Report,Low,Flagged as False,6098.0,2.94,0.76,4.9,9.28,Q1
+406,2023-12-22,06:32:24,Messaging App,Twitter,Video,Technology,Medium,4711.0,1607.0,1361.0,South America,Manual Verification,Moderate,Flagged as False,7679.0,3.94,4.66,3.2,4.53,Q1
+717,2023-12-22,06:33:20,Forum,Facebook,Text,Finance,High,2596.0,1075.0,715.0,South America,Manual Verification,High,Limited Visibility,4386.0,1.86,2.51,2.13,2.37,Q1
+303,2023-12-21,06:32:24,News Website,WhatsApp,Text,Climate,High,9912.0,2225.0,1457.0,North America,AI Detection,Moderate,No Action,13594.0,7.69,9.93,4.44,4.85,Q1
+754,2023-12-21,06:33:20,Social Media,WhatsApp,Text,Finance,Medium,9223.0,1720.0,477.0,South America,AI Detection,Moderate,Flagged as False,11420.0,6.31,9.23,3.43,1.57,Q1
+889,2023-12-20,06:33:20,Messaging App,Twitter,Image,Health,Medium,8181.0,3936.0,2352.0,Europe,AI Detection,High,No Action,14469.0,8.24,8.17,7.87,7.85,Q1
+490,2023-12-20,06:32:24,Forum,Facebook,Video,Politics,High,5473.0,1016.0,2262.0,Oceania,User Report,Low,No Action,8751.0,4.62,5.43,2.01,7.55,Q1
+440,2023-12-19,06:32:24,Messaging App,Twitter,Text,Technology,Medium,1373.0,4047.0,2575.0,Oceania,User Report,Moderate,Content Removed,7995.0,4.14,1.27,8.09,8.6,Q1
+960,2023-12-19,06:33:20,News Website,Reddit,Video,Politics,Low,673.0,3645.0,1998.0,North America,User Report,High,Limited Visibility,6316.0,3.08,0.56,7.28,6.66,Q1
+1049,2023-12-19,06:33:20,Forum,Telegram,Text,Finance,High,6709.0,2858.0,1869.0,North America,Manual Verification,High,No Action,11436.0,6.32,6.68,5.71,6.23,Q1
+575,2023-12-19,06:32:24,News Website,Instagram,Text,Celebrity News,High,6343.0,2021.0,2574.0,Asia,User Report,High,Flagged as False,10938.0,6.01,6.31,4.03,8.59,Q1
+125,2023-12-19,06:32:24,Social Media,Instagram,Video,Politics,Medium,3891.0,939.0,599.0,Oceania,Manual Verification,Low,Content Removed,5429.0,2.52,3.82,1.86,1.98,Q1
+315,2023-12-18,06:32:24,Forum,Facebook,Text,Technology,Low,6665.0,3413.0,526.0,Africa,User Report,Low,No Action,10604.0,5.8,6.64,6.82,1.73,Q1
+1053,2023-12-18,06:33:20,Blog,Reddit,Video,Health,High,2580.0,1060.0,2055.0,Oceania,AI Detection,Moderate,No Action,5695.0,2.69,2.5,2.1,6.85,Q1
+297,2023-12-18,06:32:24,Blog,Facebook,Video,Politics,Low,4017.0,985.0,2700.0,North America,User Report,Moderate,Limited Visibility,7702.0,3.96,3.95,1.95,9.02,Q1
+435,2023-12-18,06:32:24,Forum,YouTube,Image,Celebrity News,Low,2697.0,741.0,2726.0,North America,User Report,Low,Flagged as False,6164.0,2.98,2.61,1.46,9.1,Q1
+563,2023-12-17,06:32:24,Blog,Reddit,Image,Technology,Medium,717.0,1007.0,828.0,Oceania,AI Detection,High,Content Removed,2552.0,0.7,0.61,2.0,2.74,Q1
+782,2023-12-16,06:33:20,Forum,YouTube,Video,Technology,Low,1880.0,3950.0,693.0,Europe,AI Detection,Low,No Action,6523.0,3.21,1.79,7.9,2.29,Q1
+989,2023-12-15,06:33:20,Blog,WhatsApp,Video,Health,Low,7046.0,1908.0,2496.0,Africa,Manual Verification,Moderate,No Action,11450.0,6.33,7.02,3.8,8.33,Q1
+743,2023-12-14,06:33:20,News Website,YouTube,Video,Climate,Low,1471.0,4902.0,846.0,South America,User Report,High,Flagged as False,7219.0,3.65,1.37,9.8,2.8,Q1
+29,2023-12-14,06:30:50,Forum,Instagram,Image,Technology,High,8905.0,4302.0,405.0,Europe,AI Detection,High,Content Removed,13612.0,7.7,8.9,8.6,1.33,Q1
+589,2023-12-14,06:32:24,News Website,WhatsApp,Text,Climate,Low,2971.0,3118.0,2712.0,Oceania,User Report,Moderate,Limited Visibility,8801.0,4.66,2.89,6.23,9.06,Q1
+151,2023-12-14,06:32:24,Blog,Twitter,Text,Health,Medium,6642.0,2959.0,493.0,North America,User Report,High,No Action,10094.0,5.47,6.61,5.91,1.62,Q1
+239,2023-12-14,06:32:24,Blog,Twitter,Image,Finance,High,474.0,1012.0,2801.0,North America,AI Detection,Moderate,Flagged as False,4287.0,1.8,0.36,2.01,9.35,Q1
+764,2023-12-13,06:33:20,Messaging App,Telegram,Video,Technology,Low,556.0,4988.0,1678.0,Europe,AI Detection,High,Content Removed,7222.0,3.66,0.45,9.98,5.59,Q1
+464,2023-12-13,06:32:24,Messaging App,Reddit,Video,Celebrity News,Medium,9813.0,4206.0,2365.0,Oceania,AI Detection,Low,Flagged as False,16384.0,9.46,9.82,8.41,7.89,Q1
+107,2023-12-13,06:32:24,Messaging App,Instagram,Text,Finance,High,4246.0,3014.0,2848.0,North America,User Report,Low,Limited Visibility,10108.0,5.48,4.18,6.02,9.51,Q1
+470,2023-12-13,06:32:24,Forum,Telegram,Video,Celebrity News,Medium,8310.0,2335.0,1940.0,Africa,AI Detection,Moderate,No Action,12585.0,7.05,8.3,4.66,6.47,Q1
+418,2023-12-13,06:32:24,Messaging App,YouTube,Image,Politics,Medium,7262.0,1564.0,1569.0,Africa,Manual Verification,Moderate,Content Removed,10395.0,5.66,7.24,3.11,5.23,Q1
+465,2023-12-13,06:32:24,Forum,YouTube,Image,Health,Low,2265.0,983.0,1891.0,Africa,Manual Verification,Moderate,No Action,5139.0,2.34,2.18,1.95,6.3,Q1
+551,2023-12-13,06:32:24,Blog,Instagram,Image,Climate,High,9918.0,778.0,1804.0,North America,User Report,Low,Content Removed,12500.0,7.0,9.93,1.54,6.01,Q1
+781,2023-12-13,06:33:20,Forum,Instagram,Video,Celebrity News,Medium,1178.0,247.0,805.0,Europe,Manual Verification,Moderate,No Action,2230.0,0.49,1.08,0.47,2.67,Q1
+1092,2023-12-12,06:33:20,News Website,YouTube,Image,Climate,High,7145.0,4779.0,2701.0,Oceania,AI Detection,Moderate,Flagged as False,14625.0,8.34,7.12,9.56,9.02,Q1
+175,2023-12-12,06:32:24,Blog,Instagram,Video,Climate,Low,3523.0,3107.0,1427.0,Africa,User Report,Moderate,Content Removed,8057.0,4.18,3.45,6.21,4.75,Q1
+936,2023-12-12,06:33:20,Forum,Facebook,Image,Celebrity News,Medium,680.0,143.0,948.0,Europe,AI Detection,Moderate,Flagged as False,1771.0,0.2,0.57,0.26,3.15,Q1
+12,2023-12-11,06:30:50,Messaging App,Twitter,Video,Celebrity News,Low,3989.0,4029.0,1305.0,Africa,Manual Verification,High,Limited Visibility,9323.0,4.99,3.92,8.05,4.34,Q1
+296,2023-12-11,06:32:24,News Website,WhatsApp,Image,Technology,Medium,7103.0,3438.0,111.0,North America,User Report,High,Limited Visibility,10652.0,5.83,7.08,6.87,0.34,Q1
+1031,2023-12-11,06:33:20,Forum,WhatsApp,Text,Climate,Medium,448.0,2910.0,2717.0,Asia,User Report,High,Flagged as False,6075.0,2.93,0.34,5.81,9.07,Q1
+233,2023-12-11,06:32:24,Blog,Telegram,Text,Health,Low,7148.0,2787.0,376.0,Oceania,Manual Verification,High,Flagged as False,10311.0,5.61,7.12,5.56,1.23,Q1
+380,2023-12-11,06:32:24,News Website,Telegram,Image,Celebrity News,Low,6407.0,2096.0,1033.0,Africa,Manual Verification,High,Flagged as False,9536.0,5.12,6.37,4.18,3.43,Q1
+608,2023-12-11,06:33:20,Social Media,Twitter,Text,Technology,High,2957.0,135.0,1829.0,North America,User Report,High,No Action,4921.0,2.2,2.88,0.25,6.1,Q1
+75,2023-12-10,06:30:50,Messaging App,Telegram,Video,Technology,High,5527.0,2595.0,2575.0,South America,Manual Verification,High,Flagged as False,10697.0,5.86,5.48,5.18,8.6,Q1
+280,2023-12-10,06:32:24,Social Media,Facebook,Image,Celebrity News,Low,8062.0,2516.0,1975.0,Oceania,User Report,Low,Flagged as False,12553.0,7.03,8.05,5.02,6.59,Q1
+376,2023-12-10,06:32:24,News Website,YouTube,Text,Politics,Medium,8732.0,1880.0,1970.0,Africa,AI Detection,High,Flagged as False,12582.0,7.05,8.73,3.75,6.57,Q1
+983,2023-12-10,06:33:20,Messaging App,Reddit,Image,Technology,Low,434.0,1508.0,1311.0,Europe,AI Detection,Moderate,Limited Visibility,3253.0,1.14,0.32,3.0,4.36,Q1
+298,2023-12-09,06:32:24,Messaging App,Facebook,Image,Health,High,6152.0,1669.0,1216.0,Africa,AI Detection,High,Content Removed,9037.0,4.8,6.12,3.32,4.04,Q1
+1071,2023-12-09,06:33:20,Forum,Telegram,Video,Technology,High,2454.0,1235.0,2526.0,Asia,AI Detection,Moderate,Limited Visibility,6215.0,3.02,2.37,2.45,8.43,Q1
+627,2023-12-08,06:33:20,News Website,Reddit,Video,Technology,Medium,6960.0,4946.0,877.0,Asia,User Report,Moderate,Content Removed,12783.0,7.18,6.93,9.89,2.91,Q1
+183,2023-12-08,06:32:24,Messaging App,Twitter,Image,Technology,High,1547.0,1384.0,297.0,Europe,AI Detection,High,No Action,3228.0,1.13,1.45,2.75,0.96,Q1
+170,2023-12-08,06:32:24,Blog,YouTube,Text,Finance,Medium,1043.0,1067.0,1734.0,Africa,Manual Verification,Moderate,Content Removed,3844.0,1.52,0.94,2.12,5.78,Q1
+276,2023-12-07,06:32:24,Messaging App,WhatsApp,Image,Politics,Medium,5956.0,4018.0,1000.0,Africa,User Report,Moderate,Limited Visibility,10974.0,6.03,5.92,8.03,3.32,Q1
+875,2023-12-06,06:33:20,Social Media,Instagram,Image,Politics,Medium,131.0,3601.0,1530.0,Oceania,User Report,High,Content Removed,5262.0,2.41,0.02,7.2,5.1,Q1
+81,2023-12-06,06:30:50,News Website,Facebook,Video,Politics,High,2350.0,3370.0,275.0,Europe,Manual Verification,Moderate,Limited Visibility,5995.0,2.88,2.26,6.73,0.89,Q1
+135,2023-12-06,06:32:24,News Website,Telegram,Video,Climate,High,6666.0,2681.0,985.0,North America,User Report,Moderate,No Action,10332.0,5.62,6.64,5.35,3.27,Q1
+45,2023-12-06,06:30:50,Forum,Telegram,Video,Health,Low,4382.0,1654.0,898.0,Europe,Manual Verification,High,No Action,6934.0,3.47,4.32,3.29,2.98,Q1
+199,2023-12-06,06:32:24,Social Media,Telegram,Video,Finance,Low,7246.0,1033.0,392.0,North America,AI Detection,Moderate,Limited Visibility,8671.0,4.57,7.22,2.05,1.28,Q1
+642,2023-12-05,06:33:20,Social Media,WhatsApp,Video,Finance,High,5797.0,3032.0,107.0,Asia,Manual Verification,High,Flagged as False,8936.0,4.74,5.76,6.06,0.33,Q1
+1065,2023-12-05,06:33:20,Social Media,Reddit,Image,Climate,Low,9849.0,2427.0,1972.0,Oceania,User Report,Moderate,Content Removed,14248.0,8.11,9.86,4.84,6.58,Q1
+243,2023-12-04,06:32:24,Messaging App,Facebook,Image,Celebrity News,Medium,3828.0,3810.0,1738.0,Oceania,User Report,Moderate,Limited Visibility,9376.0,5.02,3.76,7.61,5.79,Q1
+394,2023-12-04,06:32:24,Social Media,YouTube,Video,Finance,High,4407.0,3547.0,1446.0,Africa,AI Detection,Moderate,Flagged as False,9400.0,5.03,4.35,7.09,4.81,Q1
+806,2023-12-04,06:33:20,Forum,Twitter,Image,Celebrity News,Low,3991.0,1656.0,535.0,Oceania,Manual Verification,High,Flagged as False,6182.0,3.0,3.93,3.3,1.76,Q1
+479,2023-12-04,06:32:24,News Website,Facebook,Video,Politics,Low,9836.0,1302.0,2765.0,South America,User Report,High,Limited Visibility,13903.0,7.89,9.85,2.59,9.23,Q1
+788,2023-12-03,06:33:20,News Website,Telegram,Video,Finance,Medium,9818.0,2384.0,910.0,Africa,Manual Verification,Moderate,No Action,13112.0,7.39,9.83,4.76,3.02,Q1
+488,2023-12-02,06:32:24,Messaging App,Telegram,Text,Politics,High,5008.0,4760.0,1256.0,Europe,Manual Verification,Moderate,No Action,11024.0,6.06,4.96,9.52,4.18,Q1
+729,2023-12-02,06:33:20,Messaging App,YouTube,Text,Celebrity News,Low,7817.0,2005.0,101.0,South America,User Report,Low,Content Removed,9923.0,5.37,7.8,4.0,0.31,Q1
+449,2023-12-02,06:32:24,Messaging App,Instagram,Video,Climate,Low,2314.0,451.0,2606.0,Asia,AI Detection,High,Limited Visibility,5371.0,2.48,2.23,0.88,8.7,Q1
+399,2023-12-01,06:32:24,Messaging App,Instagram,Video,Technology,Medium,3555.0,989.0,2910.0,Europe,AI Detection,Moderate,Content Removed,7454.0,3.8,3.48,1.96,9.72,Q1
+850,2023-12-01,06:33:20,Forum,YouTube,Text,Celebrity News,High,7664.0,479.0,2713.0,Europe,User Report,High,No Action,10856.0,5.96,7.65,0.94,9.06,Q1
+299,2023-12-01,06:32:24,News Website,Reddit,Image,Finance,High,3461.0,465.0,1769.0,South America,User Report,Low,Limited Visibility,5695.0,2.69,3.39,0.91,5.9,Q1
+397,2023-11-30,06:32:24,Messaging App,Twitter,Video,Politics,Low,959.0,2501.0,2904.0,Europe,AI Detection,Moderate,No Action,6364.0,3.11,0.85,4.99,9.7,Q1
+1081,2023-11-30,06:33:20,Messaging App,Facebook,Text,Celebrity News,Low,5134.0,257.0,216.0,Oceania,AI Detection,Low,Content Removed,5607.0,2.63,5.08,0.49,0.69,Q1
+582,2023-11-29,06:32:24,Forum,Telegram,Image,Celebrity News,High,7074.0,4848.0,2600.0,Asia,AI Detection,Low,Flagged as False,14522.0,8.28,7.05,9.7,8.68,Q1
+261,2023-11-29,06:32:24,Social Media,Reddit,Image,Politics,High,6080.0,3220.0,2183.0,Africa,User Report,High,Limited Visibility,11483.0,6.35,6.04,6.43,7.28,Q1
+762,2023-11-29,06:33:20,Blog,Telegram,Text,Celebrity News,Medium,5302.0,1171.0,1511.0,Europe,Manual Verification,High,Flagged as False,7984.0,4.14,5.25,2.33,5.03,Q1
+694,2023-11-28,06:33:20,Forum,Twitter,Text,Technology,High,7779.0,4600.0,2910.0,Oceania,Manual Verification,High,No Action,15289.0,8.76,7.76,9.2,9.72,Q1
+1067,2023-11-28,06:33:20,Blog,Twitter,Text,Technology,Low,3377.0,4448.0,396.0,North America,User Report,Low,Content Removed,8221.0,4.29,3.3,8.89,1.3,Q1
+47,2023-11-28,06:30:50,Blog,Instagram,Text,Technology,Medium,3906.0,4431.0,1501.0,North America,Manual Verification,High,No Action,9838.0,5.31,3.84,8.86,5.0,Q1
+1069,2023-11-28,06:33:20,News Website,WhatsApp,Text,Technology,Low,9706.0,4251.0,176.0,Asia,AI Detection,Moderate,No Action,14133.0,8.03,9.72,8.5,0.56,Q1
+275,2023-11-28,06:32:24,Blog,Facebook,Video,Technology,Medium,2807.0,1708.0,819.0,Europe,Manual Verification,Low,Limited Visibility,5334.0,2.46,2.73,3.4,2.71,Q1
+121,2023-11-28,06:32:24,Social Media,Twitter,Video,Technology,High,173.0,1078.0,2851.0,Asia,Manual Verification,Low,Limited Visibility,4102.0,1.68,0.06,2.14,9.52,Q1
+948,2023-11-28,06:33:20,Forum,Reddit,Image,Celebrity News,Low,8946.0,177.0,2637.0,Asia,User Report,Moderate,Flagged as False,11760.0,6.53,8.95,0.33,8.8,Q1
+844,2023-11-28,06:33:20,Blog,Telegram,Image,Health,Medium,3378.0,69.0,978.0,Europe,User Report,High,Content Removed,4425.0,1.88,3.3,0.12,3.25,Q1
+858,2023-11-27,06:33:20,Blog,Instagram,Text,Health,Low,9603.0,2890.0,1528.0,North America,User Report,Low,Limited Visibility,14021.0,7.96,9.61,5.77,5.09,Q1
+793,2023-11-27,06:33:20,Messaging App,YouTube,Image,Celebrity News,High,2014.0,1854.0,465.0,South America,User Report,Low,No Action,4333.0,1.83,1.92,3.69,1.53,Q1
+836,2023-11-27,06:33:20,News Website,Twitter,Image,Celebrity News,Low,8457.0,711.0,2501.0,South America,User Report,Low,Limited Visibility,11669.0,6.47,8.45,1.4,8.35,Q1
+867,2023-11-26,06:33:20,Blog,WhatsApp,Text,Climate,Low,1356.0,4839.0,70.0,Europe,Manual Verification,Low,Flagged as False,6265.0,3.05,1.26,9.68,0.2,Q1
+859,2023-11-26,06:33:20,News Website,Telegram,Image,Celebrity News,High,190.0,3055.0,893.0,Africa,Manual Verification,Moderate,Limited Visibility,4138.0,1.7,0.07,6.1,2.96,Q1
+726,2023-11-25,06:33:20,Social Media,WhatsApp,Video,Finance,Medium,1120.0,3698.0,1766.0,Europe,AI Detection,Moderate,Flagged as False,6584.0,3.25,1.02,7.39,5.89,Q1
+1044,2023-11-25,06:33:20,Blog,WhatsApp,Video,Finance,Medium,8912.0,3096.0,2223.0,Oceania,User Report,Moderate,Limited Visibility,14231.0,8.09,8.91,6.18,7.42,Q1
+361,2023-11-25,06:32:24,Blog,Instagram,Video,Technology,High,408.0,2453.0,2847.0,North America,User Report,Low,Flagged as False,5708.0,2.7,0.3,4.89,9.51,Q1
+264,2023-11-25,06:32:24,Forum,Instagram,Text,Climate,Medium,8348.0,1234.0,1201.0,Asia,AI Detection,Moderate,No Action,10783.0,5.91,8.34,2.45,3.99,Q1
+238,2023-11-25,06:32:24,News Website,Reddit,Image,Finance,Medium,268.0,981.0,2782.0,North America,User Report,Low,No Action,4031.0,1.63,0.15,1.94,9.29,Q1
+402,2023-11-24,06:32:24,News Website,Instagram,Image,Finance,Medium,512.0,4490.0,481.0,North America,User Report,Moderate,Flagged as False,5483.0,2.55,0.4,8.98,1.58,Q1
+237,2023-11-24,06:32:24,Forum,Telegram,Image,Technology,High,1043.0,3494.0,2853.0,South America,Manual Verification,Low,No Action,7390.0,3.76,0.94,6.98,9.53,Q1
+287,2023-11-24,06:32:24,News Website,Twitter,Video,Technology,Low,2097.0,3333.0,2323.0,Oceania,Manual Verification,High,No Action,7753.0,3.99,2.01,6.66,7.75,Q1
+873,2023-11-24,06:33:20,Forum,Facebook,Text,Celebrity News,High,5647.0,2886.0,1142.0,Africa,Manual Verification,Moderate,Content Removed,9675.0,5.21,5.6,5.76,3.8,Q1
+1033,2023-11-23,06:33:20,Messaging App,Telegram,Image,Technology,High,2525.0,2510.0,2554.0,North America,User Report,Moderate,Flagged as False,7589.0,3.89,2.44,5.01,8.53,Q1
+25,2023-11-23,06:30:50,Messaging App,Twitter,Video,Finance,Medium,176.0,1577.0,1948.0,Asia,AI Detection,Low,No Action,3701.0,1.43,0.06,3.14,6.5,Q1
+798,2023-11-23,06:33:20,Social Media,Reddit,Text,Health,Medium,9562.0,552.0,976.0,Europe,User Report,Moderate,Content Removed,11090.0,6.1,9.57,1.08,3.24,Q1
+607,2023-11-22,06:33:20,News Website,Instagram,Video,Climate,High,1715.0,4064.0,2613.0,North America,Manual Verification,Moderate,No Action,8392.0,4.4,1.62,8.12,8.72,Q1
+728,2023-11-22,06:33:20,Messaging App,Twitter,Text,Finance,Medium,8677.0,3539.0,283.0,Asia,User Report,High,Flagged as False,12499.0,7.0,8.67,7.07,0.92,Q1
+466,2023-11-22,06:32:24,Blog,Telegram,Text,Celebrity News,Medium,3275.0,922.0,2359.0,Europe,User Report,High,Content Removed,6556.0,3.23,3.2,1.83,7.87,Q1
+63,2023-11-21,06:30:50,Social Media,WhatsApp,Image,Climate,Medium,4044.0,4741.0,2744.0,North America,Manual Verification,Moderate,Flagged as False,11529.0,6.38,3.98,9.48,9.16,Q1
+1060,2023-11-21,06:33:20,Social Media,Facebook,Image,Celebrity News,Medium,765.0,1982.0,703.0,Europe,AI Detection,Low,No Action,3450.0,1.27,0.66,3.95,2.32,Q1
+429,2023-11-20,06:32:24,News Website,Reddit,Image,Technology,High,3508.0,2161.0,493.0,Africa,User Report,High,Content Removed,6162.0,2.98,3.44,4.31,1.62,Q1
+1093,2023-11-20,06:33:20,Social Media,Twitter,Text,Technology,High,8852.0,1874.0,1968.0,Asia,User Report,Moderate,Flagged as False,12694.0,7.12,8.85,3.73,6.56,Q1
+180,2023-11-19,06:32:24,Social Media,YouTube,Text,Technology,Medium,7789.0,4984.0,465.0,Africa,AI Detection,Low,Limited Visibility,13238.0,7.47,7.77,9.97,1.53,Q1
+433,2023-11-19,06:32:24,Messaging App,Instagram,Video,Technology,High,5456.0,4939.0,168.0,Europe,AI Detection,High,No Action,10563.0,5.77,5.41,9.88,0.53,Q1
+1014,2023-11-19,06:33:20,Messaging App,Reddit,Video,Politics,Low,3835.0,1563.0,1198.0,Africa,Manual Verification,Moderate,Limited Visibility,6596.0,3.26,3.77,3.11,3.98,Q1
+230,2023-11-18,06:32:24,Messaging App,Reddit,Image,Climate,Medium,2502.0,3419.0,2197.0,North America,Manual Verification,Low,No Action,8118.0,4.22,2.42,6.83,7.33,Q1
+885,2023-11-18,06:33:20,Social Media,Telegram,Image,Celebrity News,Medium,5633.0,3141.0,1848.0,Europe,AI Detection,Low,No Action,10622.0,5.81,5.59,6.27,6.16,Q1
+720,2023-11-18,06:33:20,Forum,WhatsApp,Text,Finance,High,7929.0,2859.0,1336.0,Oceania,User Report,High,Flagged as False,12124.0,6.76,7.92,5.71,4.45,Q1
+1055,2023-11-18,06:33:20,Messaging App,WhatsApp,Video,Technology,High,862.0,2575.0,1062.0,Asia,Manual Verification,Moderate,No Action,4499.0,1.93,0.76,5.14,3.53,Q1
+1083,2023-11-18,06:33:20,News Website,Instagram,Text,Finance,Low,4325.0,1276.0,1612.0,Asia,User Report,High,Flagged as False,7213.0,3.65,4.26,2.54,5.37,Q1
+244,2023-11-17,06:32:24,Forum,Telegram,Image,Health,High,2058.0,3694.0,213.0,North America,User Report,High,Limited Visibility,5965.0,2.86,1.97,7.38,0.68,Q1
+143,2023-11-17,06:32:24,Blog,Twitter,Text,Finance,Medium,629.0,2755.0,2109.0,South America,User Report,Moderate,Flagged as False,5493.0,2.56,0.52,5.5,7.04,Q1
+424,2023-11-17,06:32:24,Messaging App,YouTube,Video,Politics,Medium,8606.0,495.0,1313.0,North America,User Report,Low,Content Removed,10414.0,5.68,8.6,0.97,4.37,Q1
+971,2023-11-16,06:33:20,Blog,Reddit,Video,Celebrity News,Low,2481.0,1060.0,2063.0,Europe,AI Detection,High,Limited Visibility,5604.0,2.63,2.4,2.1,6.88,Q1
+837,2023-11-16,06:33:20,Social Media,YouTube,Text,Health,High,8773.0,562.0,1865.0,Asia,User Report,Low,Flagged as False,11200.0,6.17,8.77,1.1,6.22,Q1
+432,2023-11-16,06:32:24,Forum,WhatsApp,Text,Climate,High,7769.0,180.0,2423.0,South America,Manual Verification,Moderate,Limited Visibility,10372.0,5.65,7.75,0.34,8.09,Q1
+826,2023-11-15,06:33:20,News Website,YouTube,Image,Technology,Medium,3081.0,3861.0,2646.0,Asia,AI Detection,Low,Flagged as False,9588.0,5.15,3.0,7.72,8.83,Q1
+630,2023-11-15,06:33:20,Forum,Twitter,Text,Politics,High,5884.0,138.0,1736.0,Oceania,AI Detection,High,Flagged as False,7758.0,3.99,5.84,0.25,5.79,Q1
+1052,2023-11-14,06:33:20,Social Media,WhatsApp,Text,Technology,Low,4199.0,3926.0,1604.0,Africa,User Report,Moderate,Limited Visibility,9729.0,5.24,4.14,7.85,5.34,Q1
