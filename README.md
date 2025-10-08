@@ -63,6 +63,11 @@ The core analysis is contained within the Jupyter notebooks.
 4.  **Detection Methods**: AI-based detection is predominant but is associated with a significant number of false positives.
 5.  **Topical Trends**: Climate change and celebrity-related news are the most flagged high-impact topics.
 
+## Team
+- [Musab Shaikh](https://github.com/smusab9152)
+- [Alina Pradhan](https://github.com/alinapradhan)
+- [Rudra Dave](https://github.com/Rudy21)
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
