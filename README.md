@@ -1,6 +1,6 @@
 # Data Analytics on Deepfake and Misinformation
 
-[![Competition]([https://img.shields.io/badge/VizQuest%203.0-IIM%20Nagpur-blue](https://unstop.com/competitions/viz-quest-30-tangerine-trails-2024-25-indian-institute-of-management-iim-nagpur-1217712))](https://www.iimnagpur.ac.in/)
+[![Competition][(https://img.shields.io/badge/VizQuest%203.0-IIM%20Nagpur-blue)(https://img.shields.io/badge/VizQuest%203.0-IIM%20Nagpur-blue](https://unstop.com/competitions/viz-quest-30-tangerine-trails-2024-25-indian-institute-of-management-iim-nagpur-1217712)](https://www.iimnagpur.ac.in/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An in-depth analysis of deepfake and misinformation trends, submitted for the **VizQuest 3.0 Data Analytics Competition** hosted by IIM Nagpur. This project explores a comprehensive dataset to uncover patterns in content, platform engagement, and regional distribution of flagged misinformation.
