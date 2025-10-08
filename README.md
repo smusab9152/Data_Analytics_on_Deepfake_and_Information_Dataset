@@ -5,19 +5,6 @@
 
 An in-depth analysis of deepfake and misinformation trends, submitted for the **VizQuest 3.0 Data Analytics Competition** hosted by IIM Nagpur. This project explores a comprehensive dataset to uncover patterns in content, platform engagement, and regional distribution of flagged misinformation.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Dataset Highlights](#dataset-highlights)
-- [Technology Stack](#technology-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Key Findings](#key-findings)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-
 ## Overview
 
 This repository contains our project for the **VizQuest 3.0-IIM Nagpur Data Analytics Competition 2024**. Our analysis focuses on understanding trends, patterns, and key insights from the provided deepfake and misinformation dataset. By leveraging data wrangling, statistical analysis, and advanced visualization techniques, we aim to provide actionable insights for combating the spread of false information.
